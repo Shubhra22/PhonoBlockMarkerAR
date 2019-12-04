@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: ab410fbd06952fd42a93d19ab7ce18bd
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - clear_locked_slot: {instanceID: 0}
+  - replace_locked_letter: {instanceID: 0}
+  - correctFeedback: {instanceID: 0}
+  - removed_misplaced_letter: {instanceID: 0}
+  - add_letters_in_order: {instanceID: 0}
+  - remove_a_NonInitialLetter: {instanceID: 0}
+  - offer_hint: {instanceID: 0}
+  - offer_answer: {instanceID: 0}
+  - correct_sounds_wrong_letters: {instanceID: 0}
+  - wrong_sounds_wrong_letters: {instanceID: 0}
+  - sessionIsFinished: {instanceID: 0}
+  - sessionFinishedImage: {instanceID: 0}
+  - takeABreakBetweenSessions: {fileID: 8300000, guid: 6bad5ff9bb7fe3f409d420ec998420a3,
+      type: 3}
+  - pressOrTapScreenToContinue: {fileID: 8300000, guid: 03d4c20eae5141b4a9956ad54936771a,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

@@ -1,0 +1,728 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6194352d-382a-408c-805c-b55e604b7242" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/Arcane Cyber/Chess/Models/Bishop.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/Arcane Cyber/Chess/Models/Bishop.fbx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/Arcane Cyber/Chess/Models/Board.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/Arcane Cyber/Chess/Models/Board.fbx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/Arcane Cyber/Chess/Models/King.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/Arcane Cyber/Chess/Models/King.fbx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/Arcane Cyber/Chess/Models/Knight.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/Arcane Cyber/Chess/Models/Knight.fbx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/Arcane Cyber/Chess/Models/Pawn.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/Arcane Cyber/Chess/Models/Pawn.fbx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/Arcane Cyber/Chess/Models/Queen.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/Arcane Cyber/Chess/Models/Queen.fbx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/Arcane Cyber/Chess/Models/Rook.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/Arcane Cyber/Chess/Models/Rook.fbx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/Cartoon Cat/fbx/cat_Eat.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/Cartoon Cat/fbx/cat_Eat.fbx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/Cartoon Cat/fbx/cat_Idle.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/Cartoon Cat/fbx/cat_Idle.fbx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/Cartoon Cat/fbx/cat_Jump.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/Cartoon Cat/fbx/cat_Jump.fbx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/Cartoon Cat/fbx/cat_Sound.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/Cartoon Cat/fbx/cat_Sound.fbx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/Cartoon Cat/fbx/cat_Walk.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/Cartoon Cat/fbx/cat_Walk.fbx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/Drop/Soccer Ball/Meshes/Soccer Ball Mesh.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/Drop/Soccer Ball/Meshes/Soccer Ball Mesh.fbx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/PQAssets/Query-Chan-SD/Models/SD_QUERY_01/Models/SD_QUERY_01.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/PQAssets/Query-Chan-SD/Models/SD_QUERY_01/Models/SD_QUERY_01.fbx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/SimpleTownLite/_Models/pizza_shop.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/SimpleTownLite/_Models/pizza_shop.fbx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/candle.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/candle.fbx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/crab/Crab/Crab01.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/crab/Crab/Crab01.fbx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/flag/flag_med.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/flag/flag_med.fbx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/jar.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/jar.fbx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/mail/fancyMailBox.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/mail/fancyMailBox.fbx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/tape.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/tape.fbx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/winston/Meshes/Winston.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/winston/Meshes/Winston.fbx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_a.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_a.fbx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_b.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_b.fbx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_c.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_c.fbx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_d.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_d.fbx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_e.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_e.fbx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_f.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_f.fbx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_g.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_g.fbx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_h.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_h.fbx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_i.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_i.fbx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_j.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_j.fbx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_k.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_k.fbx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_l.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_l.fbx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_m.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_m.fbx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_n.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_n.fbx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_o.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_o.fbx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_p.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_p.fbx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_q.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_q.fbx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_r.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_r.fbx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_s.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_s.fbx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_t.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_t.fbx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_u.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_u.fbx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_v.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_v.fbx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_w.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_w.fbx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_x.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_x.fbx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_y.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_y.fbx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_z.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_z.fbx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/OldUIComponents/CenturyGothic_a.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/OldUIComponents/CenturyGothic_a.fbx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/OldUIComponents/NGUI/Examples/Atlases/Fantasy/Fantasy Atlas.psd" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/OldUIComponents/NGUI/Examples/Atlases/Fantasy/Fantasy Atlas.psd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/OldUIComponents/NGUI/Examples/Atlases/Refractive/Refractive Atlas - Bump.psd" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/OldUIComponents/NGUI/Examples/Atlases/Refractive/Refractive Atlas - Bump.psd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/OldUIComponents/NGUI/Examples/Atlases/Refractive/Refractive Atlas - Masks.psd" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/OldUIComponents/NGUI/Examples/Atlases/Refractive/Refractive Atlas - Masks.psd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/OldUIComponents/NGUI/Examples/Atlases/Refractive/Refractive Atlas.psd" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/OldUIComponents/NGUI/Examples/Atlases/Refractive/Refractive Atlas.psd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/OldUIComponents/NGUI/Examples/Atlases/SciFi/SciFi Atlas.psd" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/OldUIComponents/NGUI/Examples/Atlases/SciFi/SciFi Atlas.psd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/OldUIComponents/NGUI/Examples/Models/Orc Armor/Orc Armor (Diffuse).psd" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/OldUIComponents/NGUI/Examples/Models/Orc Armor/Orc Armor (Diffuse).psd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/OldUIComponents/NGUI/Examples/Models/Orc/Orc Skin (Diffuse).psd" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/OldUIComponents/NGUI/Examples/Models/Orc/Orc Skin (Diffuse).psd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/Scenes/Activity.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/Scenes/Activity.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/Scripts/ColorCodeText_Shuvro/ColorText.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/Scripts/ColorCodeText_Shuvro/ColorText.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/Scripts/MarkerWith3DLetter/CharacterList.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/Scripts/MarkerWith3DLetter/CharacterList.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/Scripts/MarkerWith3DLetter/CustomTrackableBehaviour.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/Scripts/MarkerWith3DLetter/CustomTrackableBehaviour.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/Scripts/UserInputRouter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/Scripts/UserInputRouter.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Standard Assets/Particles/Sources/fire3.psd" beforeDir="false" afterPath="$PROJECT_DIR$/Standard Assets/Particles/Sources/fire3.psd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Standard Assets/Particles/Sources/fire4.psd" beforeDir="false" afterPath="$PROJECT_DIR$/Standard Assets/Particles/Sources/fire4.psd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Standard Assets/Particles/Sources/smokepuff1.psd" beforeDir="false" afterPath="$PROJECT_DIR$/Standard Assets/Particles/Sources/smokepuff1.psd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Standard Assets/Particles/Sources/smoketest2.psd" beforeDir="false" afterPath="$PROJECT_DIR$/Standard Assets/Particles/Sources/smoketest2.psd" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1572537567">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="289" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="289" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/PhonoBlocks/Scripts/ColorCodeText_Shuvro/ColorText.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <marker date="1566945084679" expanded="false" signature="6:78" ph="..." />
+                <marker date="1566945084679" expanded="true" signature="118:538" ph="{...}" />
+                <marker date="1566945084679" expanded="true" signature="126:233" ph="/* Needed for applying color to the word history bar ... */" />
+                <marker date="1566945084679" expanded="true" signature="299:531" ph="{...}" />
+                <marker date="1566945084679" expanded="true" signature="379:501" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Vuforia/Scripts/DefaultInitializationErrorHandler.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Vuforia/Scripts/DefaultTrackableEventHandler.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <marker date="1552465233451" expanded="true" signature="0:366" ph="/* ============================================================================== ... */" />
+                <marker date="1552465233451" expanded="true" signature="374:401" ph="..." />
+                <marker date="1552465233451" expanded="true" signature="404:696" ph="/// A custom handler that implements the ITrackableEventHandler interface. ... " />
+                <marker date="1552465233451" expanded="true" signature="778:4201" ph="{...}" />
+                <marker date="1552465233451" expanded="false" signature="785:1031" ph="PROTECTED_MEMBER_VARIABLES" />
+                <marker date="1552465233451" expanded="false" signature="1037:1491" ph="UNITY_MONOBEHAVIOUR_METHODS" />
+                <marker date="1552465233451" expanded="true" signature="1108:1288" ph="{...}" />
+                <marker date="1552465233451" expanded="true" signature="1328:1444" ph="{...}" />
+                <marker date="1552465233451" expanded="false" signature="1497:2820" ph="PUBLIC_METHODS" />
+                <marker date="1552465233451" expanded="true" signature="1525:1675" ph="///     Implementation of the ITrackableEventHandler function called when the ... " />
+                <marker date="1552465233451" expanded="true" signature="1811:2786" ph="{...}" />
+                <marker date="1552465233451" expanded="true" signature="2088:2223" ph="{...}" />
+                <marker date="1552465233451" expanded="true" signature="2360:2493" ph="{...}" />
+                <marker date="1552465233451" expanded="true" signature="2506:2780" ph="{...}" />
+                <marker date="1552465233451" expanded="true" signature="2529:2740" ph="/* For combo of previousStatus=UNKNOWN + newStatus=UNKNOWN|NOT_FOUND ... */" />
+                <marker date="1552465233451" expanded="false" signature="2826:4199" ph="PROTECTED_METHODS" />
+                <marker date="1552465233451" expanded="true" signature="2897:3500" ph="{...}" />
+                <marker date="1552465233451" expanded="true" signature="3546:4162" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/PhonoBlocks/Scripts/ArduinoLetterController.cs">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/PhonoBlocks/Scripts/LetterGridController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5310">
+              <caret line="359" selection-start-line="359" selection-end-line="359" />
+              <folding>
+                <marker date="1562490688206" expanded="false" signature="6:127" ph="..." />
+                <marker date="1562490688206" expanded="true" signature="186:11681" ph="{...}" />
+                <marker date="1562490688206" expanded="true" signature="489:642" ph="{...}" />
+                <marker date="1562490688206" expanded="true" signature="507:565" ph="{...}" />
+                <marker date="1562490688206" expanded="true" signature="577:636" ph="{...}" />
+                <marker date="1562490688206" expanded="true" signature="734:785" ph="{...}" />
+                <marker date="1562490688206" expanded="true" signature="825:2395" ph="{...}" />
+                <marker date="1562490688206" expanded="true" signature="1452:1933" ph="{...}" />
+                <marker date="1562490688206" expanded="true" signature="1968:2379" ph="{...}" />
+                <marker date="1562490688206" expanded="true" signature="2403:2640" ph="/* added in april; sets numVisibleLetterLines' UITexture components to active, starting from the leftmost cell; s ... */" />
+                <marker date="1562490688206" expanded="true" signature="2708:3155" ph="{...}" />
+                <marker date="1562490688206" expanded="true" signature="2800:3148" ph="{...}" />
+                <marker date="1562490688206" expanded="true" signature="2978:3049" ph="{...}" />
+                <marker date="1562490688206" expanded="true" signature="3066:3138" ph="{...}" />
+                <marker date="1562490688206" expanded="true" signature="3206:3383" ph="{...}" />
+                <marker date="1562490688206" expanded="true" signature="3432:3628" ph="{...}" />
+                <marker date="1562490688206" expanded="true" signature="3687:4603" ph="{...}" />
+                <marker date="1562490688206" expanded="true" signature="3776:4568" ph="{...}" />
+                <marker date="1562490688206" expanded="true" signature="3895:4216" ph="/* the word history controller also involves a letter grid... but doesn't highlight selected letters or show the  ... */" />
+                <marker date="1562490688206" expanded="true" signature="4254:4446" ph="{...}" />
+                <marker date="1562490688206" expanded="true" signature="4484:4558" ph="{...}" />
+                <marker date="1562490688206" expanded="true" signature="4638:4915" ph="{...}" />
+                <marker date="1562490688206" expanded="true" signature="4955:5019" ph="{...}" />
+                <marker date="1562490688206" expanded="true" signature="5084:5237" ph="{...}" />
+                <marker date="1562490688206" expanded="true" signature="5157:5231" ph="{...}" />
+                <marker date="1562490688206" expanded="true" signature="5363:6410" ph="{...}" />
+                <marker date="1562490688206" expanded="true" signature="5551:6151" ph="{...}" />
+                <marker date="1562490688206" expanded="true" signature="5712:6141" ph="{...}" />
+                <marker date="1562490688206" expanded="true" signature="6456:6970" ph="{...}" />
+                <marker date="1562490688206" expanded="true" signature="6638:6801" ph="/* selectHighlight = SetShaders(selectHighlight); ... */" />
+                <marker date="1562490688206" expanded="true" signature="7024:7529" ph="{...}" />
+                <marker date="1562490688206" expanded="true" signature="7200:7310" ph="/* underline.transform.localScale = new Vector2(selectW, selectH); ... */" />
+                <marker date="1562490688206" expanded="true" signature="7631:7729" ph="{...}" />
+                <marker date="1562490688206" expanded="true" signature="7821:8039" ph="{...}" />
+                <marker date="1562490688206" expanded="true" signature="8116:8244" ph="{...}" />
+                <marker date="1562490688206" expanded="true" signature="8309:8480" ph="{...}" />
+                <marker date="1562490688206" expanded="true" signature="8531:8590" ph="{...}" />
+                <marker date="1562490688206" expanded="true" signature="8656:8903" ph="{...}" />
+                <marker date="1562490688206" expanded="true" signature="8733:8840" ph="{...}" />
+                <marker date="1562490688206" expanded="true" signature="8853:8897" ph="{...}" />
+                <marker date="1562490688206" expanded="true" signature="9004:10061" ph="{...}" />
+                <marker date="1562490688206" expanded="true" signature="9348:9483" ph="/* ut.material = new Material(Shader.Find(&quot;Unlit/Transparent Colored&quot;)); ... */" />
+                <marker date="1562490688206" expanded="true" signature="10063:10287" ph="/* UITexture SetShaders(UITexture ut) ... */" />
+                <marker date="1562490688206" expanded="true" signature="10355:10516" ph="{...}" />
+                <marker date="1562490688206" expanded="true" signature="10580:10955" ph="{...}" />
+                <marker date="1562490688206" expanded="true" signature="10714:10927" ph="{...}" />
+                <marker date="1562490688206" expanded="true" signature="10854:10916" ph="{...}" />
+                <marker date="1562490688206" expanded="true" signature="11000:11100" ph="{...}" />
+                <marker date="1562490688206" expanded="true" signature="11180:11574" ph="{...}" />
+                <marker date="1562490688206" expanded="true" signature="11620:11679" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/PhonoBlocks/Scripts/MarkerWith3DLetter/CharacterList.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2685">
+              <caret line="179" column="76" selection-start-line="179" selection-start-column="76" selection-end-line="179" selection-end-column="76" />
+              <folding>
+                <marker date="1566264375392" expanded="true" signature="6:112" ph="..." />
+                <marker date="1566264375392" expanded="true" signature="142:5121" ph="{...}" />
+                <marker date="1566264375392" expanded="true" signature="218:976" ph="{...}" />
+                <marker date="1566264375392" expanded="true" signature="416:771" ph="{...}" />
+                <marker date="1566264375392" expanded="true" signature="476:761" ph="{...}" />
+                <marker date="1566264375392" expanded="true" signature="523:594" ph="{...}" />
+                <marker date="1566264375392" expanded="true" signature="635:747" ph="{...}" />
+                <marker date="1566264375392" expanded="true" signature="845:970" ph="{...}" />
+                <marker date="1566264375392" expanded="true" signature="1028:5113" ph="{...}" />
+                <marker date="1566264375392" expanded="true" signature="1119:1368" ph="{...}" />
+                <marker date="1566264375392" expanded="true" signature="1145:1357" ph="{...}" />
+                <marker date="1566264375392" expanded="true" signature="1197:1310" ph="{...}" />
+                <marker date="1566264375392" expanded="true" signature="1698:1861" ph="{...}" />
+                <marker date="1566264375392" expanded="true" signature="1899:2231" ph="{...}" />
+                <marker date="1566264375392" expanded="true" signature="1947:2221" ph="{...}" />
+                <marker date="1566264375392" expanded="true" signature="2126:2207" ph="{...}" />
+                <marker date="1566264375392" expanded="true" signature="2311:3005" ph="{...}" />
+                <marker date="1566264375392" expanded="true" signature="2347:2851" ph="{...}" />
+                <marker date="1566264375392" expanded="true" signature="2564:2820" ph="{...}" />
+                <marker date="1566264375392" expanded="true" signature="2645:2802" ph="{...}" />
+                <marker date="1566264375392" expanded="true" signature="2868:2995" ph="{...}" />
+                <marker date="1566264375392" expanded="true" signature="3054:3200" ph="{...}" />
+                <marker date="1566264375392" expanded="true" signature="3239:3849" ph="{...}" />
+                <marker date="1566264375392" expanded="true" signature="3287:3351" ph="{...}" />
+                <marker date="1566264375392" expanded="true" signature="3499:3632" ph="{...}" />
+                <marker date="1566264375392" expanded="true" signature="3634:3826" ph="/* for (int j = sortedList.Count; j &lt; 6; j++) ... */" />
+                <marker date="1566264375392" expanded="true" signature="3902:4154" ph="{...}" />
+                <marker date="1566264375392" expanded="true" signature="4204:4266" ph="{...}" />
+                <marker date="1566264375392" expanded="true" signature="4298:4545" ph="{...}" />
+                <marker date="1566264375392" expanded="true" signature="4363:4508" ph="{...}" />
+                <marker date="1566264375392" expanded="true" signature="4425:4494" ph="{...}" />
+                <marker date="1566264375392" expanded="true" signature="4578:4737" ph="{...}" />
+                <marker date="1566264375392" expanded="true" signature="4804:5107" ph="{...}" />
+                <marker date="1566264375392" expanded="true" signature="4871:4975" ph="{...}" />
+                <marker date="1566264375392" expanded="true" signature="4992:5097" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/PhonoBlocks/Scripts/MarkerWith3DLetter/CustomTrackableBehaviour.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2085">
+              <caret line="141" column="61" selection-start-line="141" selection-start-column="61" selection-end-line="141" selection-end-column="61" />
+              <folding>
+                <marker date="1566265010234" expanded="true" signature="0:366" ph="/* ============================================================================== ... */" />
+                <marker date="1566265010234" expanded="false" signature="374:427" ph="..." />
+                <marker date="1566265010234" expanded="true" signature="430:722" ph="/// A custom handler that implements the ITrackableEventHandler interface. ... " />
+                <marker date="1566265010234" expanded="true" signature="800:5037" ph="{...}" />
+                <marker date="1566265010234" expanded="true" signature="807:1114" ph="PROTECTED_MEMBER_VARIABLES" />
+                <marker date="1566265010234" expanded="true" signature="1120:1583" ph="UNITY_MONOBEHAVIOUR_METHODS" />
+                <marker date="1566265010234" expanded="true" signature="1191:1380" ph="{...}" />
+                <marker date="1566265010234" expanded="true" signature="1420:1536" ph="{...}" />
+                <marker date="1566265010234" expanded="true" signature="1589:2929" ph="PUBLIC_METHODS" />
+                <marker date="1566265010234" expanded="true" signature="1617:1767" ph="///     Implementation of the ITrackableEventHandler function called when the ... " />
+                <marker date="1566265010234" expanded="true" signature="1903:2895" ph="{...}" />
+                <marker date="1566265010234" expanded="true" signature="2180:2317" ph="{...}" />
+                <marker date="1566265010234" expanded="true" signature="2454:2589" ph="{...}" />
+                <marker date="1566265010234" expanded="true" signature="2602:2889" ph="{...}" />
+                <marker date="1566265010234" expanded="true" signature="2625:2836" ph="/* For combo of previousStatus=UNKNOWN + newStatus=UNKNOWN|NOT_FOUND ... */" />
+                <marker date="1566265010234" expanded="true" signature="2935:5035" ph="PROTECTED_METHODS" />
+                <marker date="1566265010234" expanded="true" signature="3015:4045" ph="{...}" />
+                <marker date="1566265010234" expanded="true" signature="3857:4039" ph="/* rendererComponents[0].material.color = ArduinoLetterController.Instance.currentLetterColor[CharacterList.Insta ... */" />
+                <marker date="1566265010234" expanded="true" signature="4091:4993" ph="{...}" />
+                <marker date="1566265010234" expanded="true" signature="4858:4986" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/PhonoBlocks/Scripts/ColorCodeText_Shuvro/ColorText.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/PhonoBlocks/Scripts/ArduinoLetterController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/PhonoBlocks/Scripts/UserInputRouter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/PhonoBlocks/Scripts/MarkerWith3DLetter/CustomTrackableBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/PhonoBlocks/Scripts/MarkerWith3DLetter/CharacterList.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Vuforia/Scripts/DefaultInitializationErrorHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/PhonoBlocks/Scripts/LetterGridController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Vuforia/Scripts/DefaultTrackableEventHandler.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/PhonoBlocks/Scripts/MarkerWith3DLetter/CharacterList.cs" />
+        <option value="$PROJECT_DIR$/Assets/PhonoBlocks/Scripts/MarkerWith3DLetter/CustomTrackableBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/PhonoBlocks/Scripts/UserInputRouter.cs" />
+        <option value="$PROJECT_DIR$/Assets/PhonoBlocks/Scripts/ColorCodeText_Shuvro/ColorText.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="6" />
+    <option name="y" value="23" />
+    <option name="width" value="1641" />
+    <option name="height" value="991" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="UnityExplorer">
+        <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor" />
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor &amp; Play" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6194352d-382a-408c-805c-b55e604b7242" name="Default Changelist" comment="" />
+      <created>1566262854568</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566262854568</updated>
+      <workItem from="1566262857092" duration="81000" />
+      <workItem from="1566263881078" duration="1012000" />
+      <workItem from="1566944988775" duration="11000" />
+      <workItem from="1566945007427" duration="91000" />
+      <workItem from="1573273551203" duration="277000" />
+      <workItem from="1574899695036" duration="130000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1602000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="991" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1953602" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Vuforia/Scripts/DefaultInitializationErrorHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/PhonoBlocks/Scripts/LetterGridController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5310">
+          <caret line="359" selection-start-line="359" selection-end-line="359" />
+          <folding>
+            <marker date="1562490688206" expanded="false" signature="6:127" ph="..." />
+            <marker date="1562490688206" expanded="true" signature="186:11681" ph="{...}" />
+            <marker date="1562490688206" expanded="true" signature="489:642" ph="{...}" />
+            <marker date="1562490688206" expanded="true" signature="507:565" ph="{...}" />
+            <marker date="1562490688206" expanded="true" signature="577:636" ph="{...}" />
+            <marker date="1562490688206" expanded="true" signature="734:785" ph="{...}" />
+            <marker date="1562490688206" expanded="true" signature="825:2395" ph="{...}" />
+            <marker date="1562490688206" expanded="true" signature="1452:1933" ph="{...}" />
+            <marker date="1562490688206" expanded="true" signature="1968:2379" ph="{...}" />
+            <marker date="1562490688206" expanded="true" signature="2403:2640" ph="/* added in april; sets numVisibleLetterLines' UITexture components to active, starting from the leftmost cell; s ... */" />
+            <marker date="1562490688206" expanded="true" signature="2708:3155" ph="{...}" />
+            <marker date="1562490688206" expanded="true" signature="2800:3148" ph="{...}" />
+            <marker date="1562490688206" expanded="true" signature="2978:3049" ph="{...}" />
+            <marker date="1562490688206" expanded="true" signature="3066:3138" ph="{...}" />
+            <marker date="1562490688206" expanded="true" signature="3206:3383" ph="{...}" />
+            <marker date="1562490688206" expanded="true" signature="3432:3628" ph="{...}" />
+            <marker date="1562490688206" expanded="true" signature="3687:4603" ph="{...}" />
+            <marker date="1562490688206" expanded="true" signature="3776:4568" ph="{...}" />
+            <marker date="1562490688206" expanded="true" signature="3895:4216" ph="/* the word history controller also involves a letter grid... but doesn't highlight selected letters or show the  ... */" />
+            <marker date="1562490688206" expanded="true" signature="4254:4446" ph="{...}" />
+            <marker date="1562490688206" expanded="true" signature="4484:4558" ph="{...}" />
+            <marker date="1562490688206" expanded="true" signature="4638:4915" ph="{...}" />
+            <marker date="1562490688206" expanded="true" signature="4955:5019" ph="{...}" />
+            <marker date="1562490688206" expanded="true" signature="5084:5237" ph="{...}" />
+            <marker date="1562490688206" expanded="true" signature="5157:5231" ph="{...}" />
+            <marker date="1562490688206" expanded="true" signature="5363:6410" ph="{...}" />
+            <marker date="1562490688206" expanded="true" signature="5551:6151" ph="{...}" />
+            <marker date="1562490688206" expanded="true" signature="5712:6141" ph="{...}" />
+            <marker date="1562490688206" expanded="true" signature="6456:6970" ph="{...}" />
+            <marker date="1562490688206" expanded="true" signature="6638:6801" ph="/* selectHighlight = SetShaders(selectHighlight); ... */" />
+            <marker date="1562490688206" expanded="true" signature="7024:7529" ph="{...}" />
+            <marker date="1562490688206" expanded="true" signature="7200:7310" ph="/* underline.transform.localScale = new Vector2(selectW, selectH); ... */" />
+            <marker date="1562490688206" expanded="true" signature="7631:7729" ph="{...}" />
+            <marker date="1562490688206" expanded="true" signature="7821:8039" ph="{...}" />
+            <marker date="1562490688206" expanded="true" signature="8116:8244" ph="{...}" />
+            <marker date="1562490688206" expanded="true" signature="8309:8480" ph="{...}" />
+            <marker date="1562490688206" expanded="true" signature="8531:8590" ph="{...}" />
+            <marker date="1562490688206" expanded="true" signature="8656:8903" ph="{...}" />
+            <marker date="1562490688206" expanded="true" signature="8733:8840" ph="{...}" />
+            <marker date="1562490688206" expanded="true" signature="8853:8897" ph="{...}" />
+            <marker date="1562490688206" expanded="true" signature="9004:10061" ph="{...}" />
+            <marker date="1562490688206" expanded="true" signature="9348:9483" ph="/* ut.material = new Material(Shader.Find(&quot;Unlit/Transparent Colored&quot;)); ... */" />
+            <marker date="1562490688206" expanded="true" signature="10063:10287" ph="/* UITexture SetShaders(UITexture ut) ... */" />
+            <marker date="1562490688206" expanded="true" signature="10355:10516" ph="{...}" />
+            <marker date="1562490688206" expanded="true" signature="10580:10955" ph="{...}" />
+            <marker date="1562490688206" expanded="true" signature="10714:10927" ph="{...}" />
+            <marker date="1562490688206" expanded="true" signature="10854:10916" ph="{...}" />
+            <marker date="1562490688206" expanded="true" signature="11000:11100" ph="{...}" />
+            <marker date="1562490688206" expanded="true" signature="11180:11574" ph="{...}" />
+            <marker date="1562490688206" expanded="true" signature="11620:11679" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/PhonoBlocks/Scripts/MarkerWith3DLetter/CharacterList.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2685">
+          <caret line="179" column="76" selection-start-line="179" selection-start-column="76" selection-end-line="179" selection-end-column="76" />
+          <folding>
+            <marker date="1566264375392" expanded="true" signature="6:112" ph="..." />
+            <marker date="1566264375392" expanded="true" signature="142:5121" ph="{...}" />
+            <marker date="1566264375392" expanded="true" signature="218:976" ph="{...}" />
+            <marker date="1566264375392" expanded="true" signature="416:771" ph="{...}" />
+            <marker date="1566264375392" expanded="true" signature="476:761" ph="{...}" />
+            <marker date="1566264375392" expanded="true" signature="523:594" ph="{...}" />
+            <marker date="1566264375392" expanded="true" signature="635:747" ph="{...}" />
+            <marker date="1566264375392" expanded="true" signature="845:970" ph="{...}" />
+            <marker date="1566264375392" expanded="true" signature="1028:5113" ph="{...}" />
+            <marker date="1566264375392" expanded="true" signature="1119:1368" ph="{...}" />
+            <marker date="1566264375392" expanded="true" signature="1145:1357" ph="{...}" />
+            <marker date="1566264375392" expanded="true" signature="1197:1310" ph="{...}" />
+            <marker date="1566264375392" expanded="true" signature="1698:1861" ph="{...}" />
+            <marker date="1566264375392" expanded="true" signature="1899:2231" ph="{...}" />
+            <marker date="1566264375392" expanded="true" signature="1947:2221" ph="{...}" />
+            <marker date="1566264375392" expanded="true" signature="2126:2207" ph="{...}" />
+            <marker date="1566264375392" expanded="true" signature="2311:3005" ph="{...}" />
+            <marker date="1566264375392" expanded="true" signature="2347:2851" ph="{...}" />
+            <marker date="1566264375392" expanded="true" signature="2564:2820" ph="{...}" />
+            <marker date="1566264375392" expanded="true" signature="2645:2802" ph="{...}" />
+            <marker date="1566264375392" expanded="true" signature="2868:2995" ph="{...}" />
+            <marker date="1566264375392" expanded="true" signature="3054:3200" ph="{...}" />
+            <marker date="1566264375392" expanded="true" signature="3239:3849" ph="{...}" />
+            <marker date="1566264375392" expanded="true" signature="3287:3351" ph="{...}" />
+            <marker date="1566264375392" expanded="true" signature="3499:3632" ph="{...}" />
+            <marker date="1566264375392" expanded="true" signature="3634:3826" ph="/* for (int j = sortedList.Count; j &lt; 6; j++) ... */" />
+            <marker date="1566264375392" expanded="true" signature="3902:4154" ph="{...}" />
+            <marker date="1566264375392" expanded="true" signature="4204:4266" ph="{...}" />
+            <marker date="1566264375392" expanded="true" signature="4298:4545" ph="{...}" />
+            <marker date="1566264375392" expanded="true" signature="4363:4508" ph="{...}" />
+            <marker date="1566264375392" expanded="true" signature="4425:4494" ph="{...}" />
+            <marker date="1566264375392" expanded="true" signature="4578:4737" ph="{...}" />
+            <marker date="1566264375392" expanded="true" signature="4804:5107" ph="{...}" />
+            <marker date="1566264375392" expanded="true" signature="4871:4975" ph="{...}" />
+            <marker date="1566264375392" expanded="true" signature="4992:5097" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/PhonoBlocks/Scripts/MarkerWith3DLetter/CustomTrackableBehaviour.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2085">
+          <caret line="141" column="61" selection-start-line="141" selection-start-column="61" selection-end-line="141" selection-end-column="61" />
+          <folding>
+            <marker date="1566265010234" expanded="true" signature="0:366" ph="/* ============================================================================== ... */" />
+            <marker date="1566265010234" expanded="false" signature="374:427" ph="..." />
+            <marker date="1566265010234" expanded="true" signature="430:722" ph="/// A custom handler that implements the ITrackableEventHandler interface. ... " />
+            <marker date="1566265010234" expanded="true" signature="800:5037" ph="{...}" />
+            <marker date="1566265010234" expanded="true" signature="807:1114" ph="PROTECTED_MEMBER_VARIABLES" />
+            <marker date="1566265010234" expanded="true" signature="1120:1583" ph="UNITY_MONOBEHAVIOUR_METHODS" />
+            <marker date="1566265010234" expanded="true" signature="1191:1380" ph="{...}" />
+            <marker date="1566265010234" expanded="true" signature="1420:1536" ph="{...}" />
+            <marker date="1566265010234" expanded="true" signature="1589:2929" ph="PUBLIC_METHODS" />
+            <marker date="1566265010234" expanded="true" signature="1617:1767" ph="///     Implementation of the ITrackableEventHandler function called when the ... " />
+            <marker date="1566265010234" expanded="true" signature="1903:2895" ph="{...}" />
+            <marker date="1566265010234" expanded="true" signature="2180:2317" ph="{...}" />
+            <marker date="1566265010234" expanded="true" signature="2454:2589" ph="{...}" />
+            <marker date="1566265010234" expanded="true" signature="2602:2889" ph="{...}" />
+            <marker date="1566265010234" expanded="true" signature="2625:2836" ph="/* For combo of previousStatus=UNKNOWN + newStatus=UNKNOWN|NOT_FOUND ... */" />
+            <marker date="1566265010234" expanded="true" signature="2935:5035" ph="PROTECTED_METHODS" />
+            <marker date="1566265010234" expanded="true" signature="3015:4045" ph="{...}" />
+            <marker date="1566265010234" expanded="true" signature="3857:4039" ph="/* rendererComponents[0].material.color = ArduinoLetterController.Instance.currentLetterColor[CharacterList.Insta ... */" />
+            <marker date="1566265010234" expanded="true" signature="4091:4993" ph="{...}" />
+            <marker date="1566265010234" expanded="true" signature="4858:4986" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Vuforia/Scripts/DefaultTrackableEventHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <marker date="1552465233451" expanded="true" signature="0:366" ph="/* ============================================================================== ... */" />
+            <marker date="1552465233451" expanded="true" signature="374:401" ph="..." />
+            <marker date="1552465233451" expanded="true" signature="404:696" ph="/// A custom handler that implements the ITrackableEventHandler interface. ... " />
+            <marker date="1552465233451" expanded="true" signature="778:4201" ph="{...}" />
+            <marker date="1552465233451" expanded="false" signature="785:1031" ph="PROTECTED_MEMBER_VARIABLES" />
+            <marker date="1552465233451" expanded="false" signature="1037:1491" ph="UNITY_MONOBEHAVIOUR_METHODS" />
+            <marker date="1552465233451" expanded="true" signature="1108:1288" ph="{...}" />
+            <marker date="1552465233451" expanded="true" signature="1328:1444" ph="{...}" />
+            <marker date="1552465233451" expanded="false" signature="1497:2820" ph="PUBLIC_METHODS" />
+            <marker date="1552465233451" expanded="true" signature="1525:1675" ph="///     Implementation of the ITrackableEventHandler function called when the ... " />
+            <marker date="1552465233451" expanded="true" signature="1811:2786" ph="{...}" />
+            <marker date="1552465233451" expanded="true" signature="2088:2223" ph="{...}" />
+            <marker date="1552465233451" expanded="true" signature="2360:2493" ph="{...}" />
+            <marker date="1552465233451" expanded="true" signature="2506:2780" ph="{...}" />
+            <marker date="1552465233451" expanded="true" signature="2529:2740" ph="/* For combo of previousStatus=UNKNOWN + newStatus=UNKNOWN|NOT_FOUND ... */" />
+            <marker date="1552465233451" expanded="false" signature="2826:4199" ph="PROTECTED_METHODS" />
+            <marker date="1552465233451" expanded="true" signature="2897:3500" ph="{...}" />
+            <marker date="1552465233451" expanded="true" signature="3546:4162" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/PhonoBlocks/Scripts/ArduinoLetterController.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/PhonoBlocks/Scripts/UserInputRouter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3285">
+          <caret line="224" column="51" selection-start-line="224" selection-start-column="51" selection-end-line="224" selection-end-column="51" />
+          <folding>
+            <marker date="1566265056725" expanded="false" signature="6:137" ph="..." />
+            <marker date="1566265056725" expanded="true" signature="139:244" ph="/* to do... a more elegant way of handling different modes ... */" />
+            <marker date="1566265056725" expanded="true" signature="344:13631" ph="{...}" />
+            <marker date="1566265056725" expanded="true" signature="820:1253" ph="/* the first slot in the physical prototype does not function. ... */" />
+            <marker date="1566265056725" expanded="true" signature="1258:1371" ph="/* public static int NumOfActiveAndUseableArduinoControlledLetters(){ ... */" />
+            <marker date="1566265056725" expanded="true" signature="2811:2911" ph="{...}" />
+            <marker date="1566265056725" expanded="true" signature="2937:2968" ph="{...}" />
+            <marker date="1566265056725" expanded="true" signature="3021:5444" ph="{...}" />
+            <marker date="1566265056725" expanded="true" signature="3236:3352" ph="{...}" />
+            <marker date="1566265056725" expanded="true" signature="3365:3786" ph="{...}" />
+            <marker date="1566265056725" expanded="true" signature="4553:5420" ph="{...}" />
+            <marker date="1566265056725" expanded="true" signature="4723:5251" ph="{...}" />
+            <marker date="1566265056725" expanded="true" signature="5268:5410" ph="{...}" />
+            <marker date="1566265056725" expanded="true" signature="5476:5515" ph="{...}" />
+            <marker date="1566265056725" expanded="true" signature="5548:5588" ph="{...}" />
+            <marker date="1566265056725" expanded="true" signature="5632:5775" ph="{...}" />
+            <marker date="1566265056725" expanded="true" signature="5806:5896" ph="{...}" />
+            <marker date="1566265056725" expanded="true" signature="5927:6086" ph="{...}" />
+            <marker date="1566265056725" expanded="true" signature="6177:6290" ph="{...}" />
+            <marker date="1566265056725" expanded="true" signature="6329:6390" ph="{...}" />
+            <marker date="1566265056725" expanded="true" signature="6437:7061" ph="{...}" />
+            <marker date="1566265056725" expanded="true" signature="6512:6716" ph="/* arduinoLetterController.UpdateDefaultColoursAndSoundsOfLetters(true, false, -1); ... */" />
+            <marker date="1566265056725" expanded="true" signature="6810:7055" ph="/* arduinoLetterController.UpdateDefaultColoursAndSoundsOfLetters(true, false, -1); ... */" />
+            <marker date="1566265056725" expanded="true" signature="7171:7651" ph="{...}" />
+            <marker date="1566265056725" expanded="true" signature="7178:7375" ph="/* StringBuilder path = new StringBuilder(RESOURCES_WORD_IMAGE_PATH); ... */" />
+            <marker date="1566265056725" expanded="true" signature="7482:7645" ph="{...}" />
+            <marker date="1566265056725" expanded="true" signature="7686:7824" ph="{...}" />
+            <marker date="1566265056725" expanded="true" signature="7751:7818" ph="{...}" />
+            <marker date="1566265056725" expanded="true" signature="7860:7968" ph="{...}" />
+            <marker date="1566265056725" expanded="true" signature="8019:8183" ph="{...}" />
+            <marker date="1566265056725" expanded="true" signature="8084:8177" ph="{...}" />
+            <marker date="1566265056725" expanded="true" signature="8258:8725" ph="{...}" />
+            <marker date="1566265056725" expanded="true" signature="8291:8667" ph="{...}" />
+            <marker date="1566265056725" expanded="true" signature="8423:8498" ph="{...}" />
+            <marker date="1566265056725" expanded="true" signature="8515:8657" ph="{...}" />
+            <marker date="1566265056725" expanded="true" signature="8795:8953" ph="{...}" />
+            <marker date="1566265056725" expanded="true" signature="8989:9051" ph="{...}" />
+            <marker date="1566265056725" expanded="true" signature="9232:9297" ph="{...}" />
+            <marker date="1566265056725" expanded="true" signature="9554:10008" ph="{...}" />
+            <marker date="1566265056725" expanded="true" signature="9659:9895" ph="{...}" />
+            <marker date="1566265056725" expanded="true" signature="10015:10166" ph="/* called by the button that treats all words as selected and by the selection/deselection swipe action received  ... */" />
+            <marker date="1566265056725" expanded="true" signature="10226:12979" ph="{...}" />
+            <marker date="1566265056725" expanded="true" signature="10318:11879" ph="{...}" />
+            <marker date="1566265056725" expanded="true" signature="10367:11343" ph="{...}" />
+            <marker date="1566265056725" expanded="true" signature="10549:11329" ph="{...}" />
+            <marker date="1566265056725" expanded="true" signature="10684:11017" ph="{...}" />
+            <marker date="1566265056725" expanded="true" signature="11042:11311" ph="{...}" />
+            <marker date="1566265056725" expanded="true" signature="11360:11838" ph="{...}" />
+            <marker date="1566265056725" expanded="true" signature="11967:12476" ph="{...}" />
+            <marker date="1566265056725" expanded="true" signature="11990:12090" ph="/* arduinoLetterController.ReplaceEachLetterWithBlank(); ... */" />
+            <marker date="1566265056725" expanded="true" signature="12520:12579" ph="{...}" />
+            <marker date="1566265056725" expanded="true" signature="12621:12973" ph="{...}" />
+            <marker date="1566265056725" expanded="true" signature="12747:12947" ph="{...}" />
+            <marker date="1566265056725" expanded="true" signature="12858:12933" ph="{...}" />
+            <marker date="1566265056725" expanded="true" signature="13115:13248" ph="{...}" />
+            <marker date="1566265056725" expanded="true" signature="13291:13357" ph="{...}" />
+            <marker date="1566265056725" expanded="true" signature="13406:13472" ph="{...}" />
+            <marker date="1566265056725" expanded="true" signature="13539:13629" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/PhonoBlocks/Scripts/ColorCodeText_Shuvro/ColorText.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <marker date="1566945084679" expanded="false" signature="6:78" ph="..." />
+            <marker date="1566945084679" expanded="true" signature="118:538" ph="{...}" />
+            <marker date="1566945084679" expanded="true" signature="126:233" ph="/* Needed for applying color to the word history bar ... */" />
+            <marker date="1566945084679" expanded="true" signature="299:531" ph="{...}" />
+            <marker date="1566945084679" expanded="true" signature="379:501" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

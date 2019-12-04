@@ -1,0 +1,5278 @@
+fileFormatVersion: 2
+guid: af554c4d9c054ae448a9bb8afdf349ea
+timeCreated: 1500466186
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Arm_0.L
+    100002: Arm_0.R
+    100004: Arm_1.L
+    100006: Arm_1.R
+    100008: Arm_2.L
+    100010: Arm_2.R
+    100012: Arm_3.L
+    100014: Arm_3.R
+    100016: Arm_4.L
+    100018: Arm_4.L_end
+    100020: Arm_4.R
+    100022: Arm_4.R_end
+    100024: Body
+    100026: Crab
+    100028: //RootNode
+    100030: Crab_LOD0
+    100032: Crab_LOD1
+    100034: Eye.L
+    100036: Eye.L_end
+    100038: Eye.R
+    100040: Eye.R_end
+    100042: IK_Arm1.L
+    100044: IK_Arm1.L_end
+    100046: IK_Arm1.R
+    100048: IK_Arm1.R_end
+    100050: IK_Leg1.L
+    100052: IK_Leg1.L_end
+    100054: IK_Leg1.R
+    100056: IK_Leg1.R_end
+    100058: IK_Leg2.L
+    100060: IK_Leg2.L_end
+    100062: IK_Leg2.R
+    100064: IK_Leg2.R_end
+    100066: IK_Leg3.L
+    100068: IK_Leg3.L_end
+    100070: IK_Leg3.R
+    100072: IK_Leg3.R_end
+    100074: IK_Leg4.L
+    100076: IK_Leg4.L_end
+    100078: IK_Leg4.R
+    100080: IK_Leg4.R_end
+    100082: Leg1_0.L
+    100084: Leg1_0.R
+    100086: Leg1_1.L
+    100088: Leg1_1.R
+    100090: Leg1_2.L
+    100092: Leg1_2.R
+    100094: Leg1_3.L
+    100096: Leg1_3.R
+    100098: Leg1_4.L
+    100100: Leg1_4.R
+    100102: Leg1_5.L
+    100104: Leg1_5.L_end
+    100106: Leg1_5.R
+    100108: Leg1_5.R_end
+    100110: Leg2_0.L
+    100112: Leg2_0.R
+    100114: Leg2_1.L
+    100116: Leg2_1.R
+    100118: Leg2_2.L
+    100120: Leg2_2.R
+    100122: Leg2_4.L
+    100124: Leg2_4.R
+    100126: Leg2_5.L
+    100128: Leg2_5.L_end
+    100130: Leg2_5.R
+    100132: Leg2_5.R_end
+    100134: Leg3_0.L
+    100136: Leg3_0.R
+    100138: Leg3_1.L
+    100140: Leg3_1.R
+    100142: Leg3_2.L
+    100144: Leg3_2.R
+    100146: Leg3_3.L
+    100148: Leg3_3.R
+    100150: Leg3_4.L
+    100152: Leg3_4.R
+    100154: Leg3_5.L
+    100156: Leg3_5.L_end
+    100158: Leg3_5.R
+    100160: Leg3_5.R_end
+    100162: Leg4_0.L
+    100164: Leg4_0.R
+    100166: Leg4_1.L
+    100168: Leg4_1.R
+    100170: Leg4_2.L
+    100172: Leg4_2.R
+    100174: Leg4_3.L
+    100176: Leg4_3.R
+    100178: Leg4_4.L
+    100180: Leg4_4.R
+    100182: Leg4_5.L
+    100184: Leg4_5.L_end
+    100186: Leg4_5.R
+    100188: Leg4_5.R_end
+    100190: Leg_2_3.L
+    100192: Leg_2_3.R
+    100194: Root
+    100196: Root_end
+    400000: Arm_0.L
+    400002: Arm_0.R
+    400004: Arm_1.L
+    400006: Arm_1.R
+    400008: Arm_2.L
+    400010: Arm_2.R
+    400012: Arm_3.L
+    400014: Arm_3.R
+    400016: Arm_4.L
+    400018: Arm_4.L_end
+    400020: Arm_4.R
+    400022: Arm_4.R_end
+    400024: Body
+    400026: Crab
+    400028: //RootNode
+    400030: Crab_LOD0
+    400032: Crab_LOD1
+    400034: Eye.L
+    400036: Eye.L_end
+    400038: Eye.R
+    400040: Eye.R_end
+    400042: IK_Arm1.L
+    400044: IK_Arm1.L_end
+    400046: IK_Arm1.R
+    400048: IK_Arm1.R_end
+    400050: IK_Leg1.L
+    400052: IK_Leg1.L_end
+    400054: IK_Leg1.R
+    400056: IK_Leg1.R_end
+    400058: IK_Leg2.L
+    400060: IK_Leg2.L_end
+    400062: IK_Leg2.R
+    400064: IK_Leg2.R_end
+    400066: IK_Leg3.L
+    400068: IK_Leg3.L_end
+    400070: IK_Leg3.R
+    400072: IK_Leg3.R_end
+    400074: IK_Leg4.L
+    400076: IK_Leg4.L_end
+    400078: IK_Leg4.R
+    400080: IK_Leg4.R_end
+    400082: Leg1_0.L
+    400084: Leg1_0.R
+    400086: Leg1_1.L
+    400088: Leg1_1.R
+    400090: Leg1_2.L
+    400092: Leg1_2.R
+    400094: Leg1_3.L
+    400096: Leg1_3.R
+    400098: Leg1_4.L
+    400100: Leg1_4.R
+    400102: Leg1_5.L
+    400104: Leg1_5.L_end
+    400106: Leg1_5.R
+    400108: Leg1_5.R_end
+    400110: Leg2_0.L
+    400112: Leg2_0.R
+    400114: Leg2_1.L
+    400116: Leg2_1.R
+    400118: Leg2_2.L
+    400120: Leg2_2.R
+    400122: Leg2_4.L
+    400124: Leg2_4.R
+    400126: Leg2_5.L
+    400128: Leg2_5.L_end
+    400130: Leg2_5.R
+    400132: Leg2_5.R_end
+    400134: Leg3_0.L
+    400136: Leg3_0.R
+    400138: Leg3_1.L
+    400140: Leg3_1.R
+    400142: Leg3_2.L
+    400144: Leg3_2.R
+    400146: Leg3_3.L
+    400148: Leg3_3.R
+    400150: Leg3_4.L
+    400152: Leg3_4.R
+    400154: Leg3_5.L
+    400156: Leg3_5.L_end
+    400158: Leg3_5.R
+    400160: Leg3_5.R_end
+    400162: Leg4_0.L
+    400164: Leg4_0.R
+    400166: Leg4_1.L
+    400168: Leg4_1.R
+    400170: Leg4_2.L
+    400172: Leg4_2.R
+    400174: Leg4_3.L
+    400176: Leg4_3.R
+    400178: Leg4_4.L
+    400180: Leg4_4.R
+    400182: Leg4_5.L
+    400184: Leg4_5.L_end
+    400186: Leg4_5.R
+    400188: Leg4_5.R_end
+    400190: Leg_2_3.L
+    400192: Leg_2_3.R
+    400194: Root
+    400196: Root_end
+    4300000: Crab_LOD1
+    4300002: Crab_LOD0
+    7400000: Crab|Attack_01_L
+    7400002: Crab|Attack_01_R
+    7400004: Crab|Block_End
+    7400006: Crab|Block_Idle
+    7400008: Crab|Block_Idle_Break
+    7400010: Crab|Block_ReactBack
+    7400012: Crab|Block_ReactFront
+    7400014: Crab|Block_Start
+    7400016: Crab|Death_01
+    7400018: Crab|Death_02
+    7400020: Crab|Eating
+    7400022: Crab|Idle
+    7400024: Crab|Idle_Break_01
+    7400026: Crab|Idle_Break_02
+    7400028: Crab|Idle_Break_03
+    7400030: Crab|Sit_End
+    7400032: Crab|Sit_Idle
+    7400034: Crab|Sit_Start
+    7400036: Crab|Walk_Backwards
+    7400038: Crab|Walk_Forward
+    7400040: Crab|Walk_Right
+    7400042: Crab|Walk_Left
+    7400044: Crab|Walk_Forward (1)
+    9500000: //RootNode
+    13700000: Crab_LOD0
+    13700002: Crab_LOD1
+    20500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Crab|Walk_Forward (1)
+      takeName: Crab|Walk_Forward
+      firstFrame: 0
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Crab
+        weight: 1
+      - path: Crab/Body
+        weight: 1
+      - path: Crab/Body/Arm_0.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L/Arm_3.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L/Arm_3.L/Arm_4.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L/Arm_3.L/Arm_4.L/Arm_4.L_end
+        weight: 1
+      - path: Crab/Body/Arm_0.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R/Arm_3.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R/Arm_3.R/Arm_4.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R/Arm_3.R/Arm_4.R/Arm_4.R_end
+        weight: 1
+      - path: Crab/Body/Eye.L
+        weight: 1
+      - path: Crab/Body/Eye.L/Eye.L_end
+        weight: 1
+      - path: Crab/Body/Eye.R
+        weight: 1
+      - path: Crab/Body/Eye.R/Eye.R_end
+        weight: 1
+      - path: Crab/Body/Leg1_0.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L/Leg1_4.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L/Leg1_4.L/Leg1_5.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L/Leg1_4.L/Leg1_5.L/Leg1_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg1_0.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R/Leg1_4.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R/Leg1_4.R/Leg1_5.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R/Leg1_4.R/Leg1_5.R/Leg1_5.R_end
+        weight: 1
+      - path: Crab/Body/Leg2_0.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L/Leg2_4.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L/Leg2_4.L/Leg2_5.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L/Leg2_4.L/Leg2_5.L/Leg2_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg2_0.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R/Leg2_4.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R/Leg2_4.R/Leg2_5.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R/Leg2_4.R/Leg2_5.R/Leg2_5.R_end
+        weight: 1
+      - path: Crab/Body/Leg3_0.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L/Leg3_4.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L/Leg3_4.L/Leg3_5.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L/Leg3_4.L/Leg3_5.L/Leg3_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg3_0.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R/Leg3_4.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R/Leg3_4.R/Leg3_5.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R/Leg3_4.R/Leg3_5.R/Leg3_5.R_end
+        weight: 1
+      - path: Crab/Body/Leg4_0.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L/Leg4_4.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L/Leg4_4.L/Leg4_5.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L/Leg4_4.L/Leg4_5.L/Leg4_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg4_0.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R/Leg4_4.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R/Leg4_4.R/Leg4_5.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R/Leg4_4.R/Leg4_5.R/Leg4_5.R_end
+        weight: 1
+      - path: Crab/IK_Arm1.L
+        weight: 1
+      - path: Crab/IK_Arm1.L/IK_Arm1.L_end
+        weight: 1
+      - path: Crab/IK_Arm1.R
+        weight: 1
+      - path: Crab/IK_Arm1.R/IK_Arm1.R_end
+        weight: 1
+      - path: Crab/IK_Leg1.L
+        weight: 1
+      - path: Crab/IK_Leg1.L/IK_Leg1.L_end
+        weight: 1
+      - path: Crab/IK_Leg1.R
+        weight: 1
+      - path: Crab/IK_Leg1.R/IK_Leg1.R_end
+        weight: 1
+      - path: Crab/IK_Leg2.L
+        weight: 1
+      - path: Crab/IK_Leg2.L/IK_Leg2.L_end
+        weight: 1
+      - path: Crab/IK_Leg2.R
+        weight: 1
+      - path: Crab/IK_Leg2.R/IK_Leg2.R_end
+        weight: 1
+      - path: Crab/IK_Leg3.L
+        weight: 1
+      - path: Crab/IK_Leg3.L/IK_Leg3.L_end
+        weight: 1
+      - path: Crab/IK_Leg3.R
+        weight: 1
+      - path: Crab/IK_Leg3.R/IK_Leg3.R_end
+        weight: 1
+      - path: Crab/IK_Leg4.L
+        weight: 1
+      - path: Crab/IK_Leg4.L/IK_Leg4.L_end
+        weight: 1
+      - path: Crab/IK_Leg4.R
+        weight: 1
+      - path: Crab/IK_Leg4.R/IK_Leg4.R_end
+        weight: 1
+      - path: Crab/Root
+        weight: 1
+      - path: Crab/Root/Root_end
+        weight: 1
+      - path: Crab_LOD0
+        weight: 1
+      - path: Crab_LOD1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Crab|Attack_01_R
+      takeName: Crab|Attack_01_R
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Crab
+        weight: 1
+      - path: Crab/Body
+        weight: 1
+      - path: Crab/Body/Arm_0.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L/Arm_3.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L/Arm_3.L/Arm_4.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L/Arm_3.L/Arm_4.L/Arm_4.L_end
+        weight: 1
+      - path: Crab/Body/Arm_0.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R/Arm_3.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R/Arm_3.R/Arm_4.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R/Arm_3.R/Arm_4.R/Arm_4.R_end
+        weight: 1
+      - path: Crab/Body/Eye.L
+        weight: 1
+      - path: Crab/Body/Eye.L/Eye.L_end
+        weight: 1
+      - path: Crab/Body/Eye.R
+        weight: 1
+      - path: Crab/Body/Eye.R/Eye.R_end
+        weight: 1
+      - path: Crab/Body/Leg1_0.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L/Leg1_4.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L/Leg1_4.L/Leg1_5.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L/Leg1_4.L/Leg1_5.L/Leg1_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg1_0.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R/Leg1_4.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R/Leg1_4.R/Leg1_5.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R/Leg1_4.R/Leg1_5.R/Leg1_5.R_end
+        weight: 1
+      - path: Crab/Body/Leg2_0.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L/Leg2_4.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L/Leg2_4.L/Leg2_5.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L/Leg2_4.L/Leg2_5.L/Leg2_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg2_0.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R/Leg2_4.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R/Leg2_4.R/Leg2_5.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R/Leg2_4.R/Leg2_5.R/Leg2_5.R_end
+        weight: 1
+      - path: Crab/Body/Leg3_0.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L/Leg3_4.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L/Leg3_4.L/Leg3_5.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L/Leg3_4.L/Leg3_5.L/Leg3_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg3_0.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R/Leg3_4.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R/Leg3_4.R/Leg3_5.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R/Leg3_4.R/Leg3_5.R/Leg3_5.R_end
+        weight: 1
+      - path: Crab/Body/Leg4_0.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L/Leg4_4.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L/Leg4_4.L/Leg4_5.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L/Leg4_4.L/Leg4_5.L/Leg4_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg4_0.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R/Leg4_4.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R/Leg4_4.R/Leg4_5.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R/Leg4_4.R/Leg4_5.R/Leg4_5.R_end
+        weight: 1
+      - path: Crab/IK_Arm1.L
+        weight: 1
+      - path: Crab/IK_Arm1.L/IK_Arm1.L_end
+        weight: 1
+      - path: Crab/IK_Arm1.R
+        weight: 1
+      - path: Crab/IK_Arm1.R/IK_Arm1.R_end
+        weight: 1
+      - path: Crab/IK_Leg1.L
+        weight: 1
+      - path: Crab/IK_Leg1.L/IK_Leg1.L_end
+        weight: 1
+      - path: Crab/IK_Leg1.R
+        weight: 1
+      - path: Crab/IK_Leg1.R/IK_Leg1.R_end
+        weight: 1
+      - path: Crab/IK_Leg2.L
+        weight: 1
+      - path: Crab/IK_Leg2.L/IK_Leg2.L_end
+        weight: 1
+      - path: Crab/IK_Leg2.R
+        weight: 1
+      - path: Crab/IK_Leg2.R/IK_Leg2.R_end
+        weight: 1
+      - path: Crab/IK_Leg3.L
+        weight: 1
+      - path: Crab/IK_Leg3.L/IK_Leg3.L_end
+        weight: 1
+      - path: Crab/IK_Leg3.R
+        weight: 1
+      - path: Crab/IK_Leg3.R/IK_Leg3.R_end
+        weight: 1
+      - path: Crab/IK_Leg4.L
+        weight: 1
+      - path: Crab/IK_Leg4.L/IK_Leg4.L_end
+        weight: 1
+      - path: Crab/IK_Leg4.R
+        weight: 1
+      - path: Crab/IK_Leg4.R/IK_Leg4.R_end
+        weight: 1
+      - path: Crab/Root
+        weight: 1
+      - path: Crab/Root/Root_end
+        weight: 1
+      - path: Crab_LOD0
+        weight: 1
+      - path: Crab_LOD1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Crab|Block_End
+      takeName: Crab|Block_End
+      firstFrame: 0
+      lastFrame: 12
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Crab
+        weight: 1
+      - path: Crab/Body
+        weight: 1
+      - path: Crab/Body/Arm_0.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L/Arm_3.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L/Arm_3.L/Arm_4.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L/Arm_3.L/Arm_4.L/Arm_4.L_end
+        weight: 1
+      - path: Crab/Body/Arm_0.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R/Arm_3.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R/Arm_3.R/Arm_4.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R/Arm_3.R/Arm_4.R/Arm_4.R_end
+        weight: 1
+      - path: Crab/Body/Eye.L
+        weight: 1
+      - path: Crab/Body/Eye.L/Eye.L_end
+        weight: 1
+      - path: Crab/Body/Eye.R
+        weight: 1
+      - path: Crab/Body/Eye.R/Eye.R_end
+        weight: 1
+      - path: Crab/Body/Leg1_0.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L/Leg1_4.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L/Leg1_4.L/Leg1_5.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L/Leg1_4.L/Leg1_5.L/Leg1_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg1_0.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R/Leg1_4.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R/Leg1_4.R/Leg1_5.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R/Leg1_4.R/Leg1_5.R/Leg1_5.R_end
+        weight: 1
+      - path: Crab/Body/Leg2_0.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L/Leg2_4.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L/Leg2_4.L/Leg2_5.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L/Leg2_4.L/Leg2_5.L/Leg2_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg2_0.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R/Leg2_4.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R/Leg2_4.R/Leg2_5.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R/Leg2_4.R/Leg2_5.R/Leg2_5.R_end
+        weight: 1
+      - path: Crab/Body/Leg3_0.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L/Leg3_4.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L/Leg3_4.L/Leg3_5.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L/Leg3_4.L/Leg3_5.L/Leg3_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg3_0.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R/Leg3_4.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R/Leg3_4.R/Leg3_5.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R/Leg3_4.R/Leg3_5.R/Leg3_5.R_end
+        weight: 1
+      - path: Crab/Body/Leg4_0.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L/Leg4_4.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L/Leg4_4.L/Leg4_5.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L/Leg4_4.L/Leg4_5.L/Leg4_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg4_0.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R/Leg4_4.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R/Leg4_4.R/Leg4_5.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R/Leg4_4.R/Leg4_5.R/Leg4_5.R_end
+        weight: 1
+      - path: Crab/IK_Arm1.L
+        weight: 1
+      - path: Crab/IK_Arm1.L/IK_Arm1.L_end
+        weight: 1
+      - path: Crab/IK_Arm1.R
+        weight: 1
+      - path: Crab/IK_Arm1.R/IK_Arm1.R_end
+        weight: 1
+      - path: Crab/IK_Leg1.L
+        weight: 1
+      - path: Crab/IK_Leg1.L/IK_Leg1.L_end
+        weight: 1
+      - path: Crab/IK_Leg1.R
+        weight: 1
+      - path: Crab/IK_Leg1.R/IK_Leg1.R_end
+        weight: 1
+      - path: Crab/IK_Leg2.L
+        weight: 1
+      - path: Crab/IK_Leg2.L/IK_Leg2.L_end
+        weight: 1
+      - path: Crab/IK_Leg2.R
+        weight: 1
+      - path: Crab/IK_Leg2.R/IK_Leg2.R_end
+        weight: 1
+      - path: Crab/IK_Leg3.L
+        weight: 1
+      - path: Crab/IK_Leg3.L/IK_Leg3.L_end
+        weight: 1
+      - path: Crab/IK_Leg3.R
+        weight: 1
+      - path: Crab/IK_Leg3.R/IK_Leg3.R_end
+        weight: 1
+      - path: Crab/IK_Leg4.L
+        weight: 1
+      - path: Crab/IK_Leg4.L/IK_Leg4.L_end
+        weight: 1
+      - path: Crab/IK_Leg4.R
+        weight: 1
+      - path: Crab/IK_Leg4.R/IK_Leg4.R_end
+        weight: 1
+      - path: Crab/Root
+        weight: 1
+      - path: Crab/Root/Root_end
+        weight: 1
+      - path: Crab_LOD0
+        weight: 1
+      - path: Crab_LOD1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Crab|Block_Idle
+      takeName: Crab|Block_Idle
+      firstFrame: 0
+      lastFrame: 79
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Crab
+        weight: 1
+      - path: Crab/Body
+        weight: 1
+      - path: Crab/Body/Arm_0.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L/Arm_3.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L/Arm_3.L/Arm_4.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L/Arm_3.L/Arm_4.L/Arm_4.L_end
+        weight: 1
+      - path: Crab/Body/Arm_0.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R/Arm_3.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R/Arm_3.R/Arm_4.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R/Arm_3.R/Arm_4.R/Arm_4.R_end
+        weight: 1
+      - path: Crab/Body/Eye.L
+        weight: 1
+      - path: Crab/Body/Eye.L/Eye.L_end
+        weight: 1
+      - path: Crab/Body/Eye.R
+        weight: 1
+      - path: Crab/Body/Eye.R/Eye.R_end
+        weight: 1
+      - path: Crab/Body/Leg1_0.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L/Leg1_4.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L/Leg1_4.L/Leg1_5.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L/Leg1_4.L/Leg1_5.L/Leg1_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg1_0.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R/Leg1_4.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R/Leg1_4.R/Leg1_5.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R/Leg1_4.R/Leg1_5.R/Leg1_5.R_end
+        weight: 1
+      - path: Crab/Body/Leg2_0.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L/Leg2_4.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L/Leg2_4.L/Leg2_5.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L/Leg2_4.L/Leg2_5.L/Leg2_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg2_0.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R/Leg2_4.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R/Leg2_4.R/Leg2_5.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R/Leg2_4.R/Leg2_5.R/Leg2_5.R_end
+        weight: 1
+      - path: Crab/Body/Leg3_0.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L/Leg3_4.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L/Leg3_4.L/Leg3_5.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L/Leg3_4.L/Leg3_5.L/Leg3_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg3_0.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R/Leg3_4.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R/Leg3_4.R/Leg3_5.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R/Leg3_4.R/Leg3_5.R/Leg3_5.R_end
+        weight: 1
+      - path: Crab/Body/Leg4_0.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L/Leg4_4.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L/Leg4_4.L/Leg4_5.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L/Leg4_4.L/Leg4_5.L/Leg4_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg4_0.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R/Leg4_4.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R/Leg4_4.R/Leg4_5.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R/Leg4_4.R/Leg4_5.R/Leg4_5.R_end
+        weight: 1
+      - path: Crab/IK_Arm1.L
+        weight: 1
+      - path: Crab/IK_Arm1.L/IK_Arm1.L_end
+        weight: 1
+      - path: Crab/IK_Arm1.R
+        weight: 1
+      - path: Crab/IK_Arm1.R/IK_Arm1.R_end
+        weight: 1
+      - path: Crab/IK_Leg1.L
+        weight: 1
+      - path: Crab/IK_Leg1.L/IK_Leg1.L_end
+        weight: 1
+      - path: Crab/IK_Leg1.R
+        weight: 1
+      - path: Crab/IK_Leg1.R/IK_Leg1.R_end
+        weight: 1
+      - path: Crab/IK_Leg2.L
+        weight: 1
+      - path: Crab/IK_Leg2.L/IK_Leg2.L_end
+        weight: 1
+      - path: Crab/IK_Leg2.R
+        weight: 1
+      - path: Crab/IK_Leg2.R/IK_Leg2.R_end
+        weight: 1
+      - path: Crab/IK_Leg3.L
+        weight: 1
+      - path: Crab/IK_Leg3.L/IK_Leg3.L_end
+        weight: 1
+      - path: Crab/IK_Leg3.R
+        weight: 1
+      - path: Crab/IK_Leg3.R/IK_Leg3.R_end
+        weight: 1
+      - path: Crab/IK_Leg4.L
+        weight: 1
+      - path: Crab/IK_Leg4.L/IK_Leg4.L_end
+        weight: 1
+      - path: Crab/IK_Leg4.R
+        weight: 1
+      - path: Crab/IK_Leg4.R/IK_Leg4.R_end
+        weight: 1
+      - path: Crab/Root
+        weight: 1
+      - path: Crab/Root/Root_end
+        weight: 1
+      - path: Crab_LOD0
+        weight: 1
+      - path: Crab_LOD1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Crab|Block_Idle_Break
+      takeName: Crab|Block_Idle_Break
+      firstFrame: 0
+      lastFrame: 49
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Crab
+        weight: 1
+      - path: Crab/Body
+        weight: 1
+      - path: Crab/Body/Arm_0.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L/Arm_3.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L/Arm_3.L/Arm_4.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L/Arm_3.L/Arm_4.L/Arm_4.L_end
+        weight: 1
+      - path: Crab/Body/Arm_0.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R/Arm_3.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R/Arm_3.R/Arm_4.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R/Arm_3.R/Arm_4.R/Arm_4.R_end
+        weight: 1
+      - path: Crab/Body/Eye.L
+        weight: 1
+      - path: Crab/Body/Eye.L/Eye.L_end
+        weight: 1
+      - path: Crab/Body/Eye.R
+        weight: 1
+      - path: Crab/Body/Eye.R/Eye.R_end
+        weight: 1
+      - path: Crab/Body/Leg1_0.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L/Leg1_4.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L/Leg1_4.L/Leg1_5.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L/Leg1_4.L/Leg1_5.L/Leg1_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg1_0.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R/Leg1_4.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R/Leg1_4.R/Leg1_5.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R/Leg1_4.R/Leg1_5.R/Leg1_5.R_end
+        weight: 1
+      - path: Crab/Body/Leg2_0.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L/Leg2_4.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L/Leg2_4.L/Leg2_5.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L/Leg2_4.L/Leg2_5.L/Leg2_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg2_0.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R/Leg2_4.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R/Leg2_4.R/Leg2_5.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R/Leg2_4.R/Leg2_5.R/Leg2_5.R_end
+        weight: 1
+      - path: Crab/Body/Leg3_0.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L/Leg3_4.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L/Leg3_4.L/Leg3_5.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L/Leg3_4.L/Leg3_5.L/Leg3_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg3_0.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R/Leg3_4.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R/Leg3_4.R/Leg3_5.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R/Leg3_4.R/Leg3_5.R/Leg3_5.R_end
+        weight: 1
+      - path: Crab/Body/Leg4_0.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L/Leg4_4.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L/Leg4_4.L/Leg4_5.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L/Leg4_4.L/Leg4_5.L/Leg4_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg4_0.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R/Leg4_4.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R/Leg4_4.R/Leg4_5.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R/Leg4_4.R/Leg4_5.R/Leg4_5.R_end
+        weight: 1
+      - path: Crab/IK_Arm1.L
+        weight: 1
+      - path: Crab/IK_Arm1.L/IK_Arm1.L_end
+        weight: 1
+      - path: Crab/IK_Arm1.R
+        weight: 1
+      - path: Crab/IK_Arm1.R/IK_Arm1.R_end
+        weight: 1
+      - path: Crab/IK_Leg1.L
+        weight: 1
+      - path: Crab/IK_Leg1.L/IK_Leg1.L_end
+        weight: 1
+      - path: Crab/IK_Leg1.R
+        weight: 1
+      - path: Crab/IK_Leg1.R/IK_Leg1.R_end
+        weight: 1
+      - path: Crab/IK_Leg2.L
+        weight: 1
+      - path: Crab/IK_Leg2.L/IK_Leg2.L_end
+        weight: 1
+      - path: Crab/IK_Leg2.R
+        weight: 1
+      - path: Crab/IK_Leg2.R/IK_Leg2.R_end
+        weight: 1
+      - path: Crab/IK_Leg3.L
+        weight: 1
+      - path: Crab/IK_Leg3.L/IK_Leg3.L_end
+        weight: 1
+      - path: Crab/IK_Leg3.R
+        weight: 1
+      - path: Crab/IK_Leg3.R/IK_Leg3.R_end
+        weight: 1
+      - path: Crab/IK_Leg4.L
+        weight: 1
+      - path: Crab/IK_Leg4.L/IK_Leg4.L_end
+        weight: 1
+      - path: Crab/IK_Leg4.R
+        weight: 1
+      - path: Crab/IK_Leg4.R/IK_Leg4.R_end
+        weight: 1
+      - path: Crab/Root
+        weight: 1
+      - path: Crab/Root/Root_end
+        weight: 1
+      - path: Crab_LOD0
+        weight: 1
+      - path: Crab_LOD1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Crab|Block_ReactBack
+      takeName: Crab|Block_ReactBack
+      firstFrame: 0
+      lastFrame: 18
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Crab
+        weight: 1
+      - path: Crab/Body
+        weight: 1
+      - path: Crab/Body/Arm_0.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L/Arm_3.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L/Arm_3.L/Arm_4.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L/Arm_3.L/Arm_4.L/Arm_4.L_end
+        weight: 1
+      - path: Crab/Body/Arm_0.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R/Arm_3.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R/Arm_3.R/Arm_4.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R/Arm_3.R/Arm_4.R/Arm_4.R_end
+        weight: 1
+      - path: Crab/Body/Eye.L
+        weight: 1
+      - path: Crab/Body/Eye.L/Eye.L_end
+        weight: 1
+      - path: Crab/Body/Eye.R
+        weight: 1
+      - path: Crab/Body/Eye.R/Eye.R_end
+        weight: 1
+      - path: Crab/Body/Leg1_0.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L/Leg1_4.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L/Leg1_4.L/Leg1_5.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L/Leg1_4.L/Leg1_5.L/Leg1_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg1_0.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R/Leg1_4.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R/Leg1_4.R/Leg1_5.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R/Leg1_4.R/Leg1_5.R/Leg1_5.R_end
+        weight: 1
+      - path: Crab/Body/Leg2_0.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L/Leg2_4.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L/Leg2_4.L/Leg2_5.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L/Leg2_4.L/Leg2_5.L/Leg2_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg2_0.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R/Leg2_4.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R/Leg2_4.R/Leg2_5.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R/Leg2_4.R/Leg2_5.R/Leg2_5.R_end
+        weight: 1
+      - path: Crab/Body/Leg3_0.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L/Leg3_4.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L/Leg3_4.L/Leg3_5.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L/Leg3_4.L/Leg3_5.L/Leg3_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg3_0.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R/Leg3_4.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R/Leg3_4.R/Leg3_5.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R/Leg3_4.R/Leg3_5.R/Leg3_5.R_end
+        weight: 1
+      - path: Crab/Body/Leg4_0.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L/Leg4_4.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L/Leg4_4.L/Leg4_5.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L/Leg4_4.L/Leg4_5.L/Leg4_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg4_0.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R/Leg4_4.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R/Leg4_4.R/Leg4_5.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R/Leg4_4.R/Leg4_5.R/Leg4_5.R_end
+        weight: 1
+      - path: Crab/IK_Arm1.L
+        weight: 1
+      - path: Crab/IK_Arm1.L/IK_Arm1.L_end
+        weight: 1
+      - path: Crab/IK_Arm1.R
+        weight: 1
+      - path: Crab/IK_Arm1.R/IK_Arm1.R_end
+        weight: 1
+      - path: Crab/IK_Leg1.L
+        weight: 1
+      - path: Crab/IK_Leg1.L/IK_Leg1.L_end
+        weight: 1
+      - path: Crab/IK_Leg1.R
+        weight: 1
+      - path: Crab/IK_Leg1.R/IK_Leg1.R_end
+        weight: 1
+      - path: Crab/IK_Leg2.L
+        weight: 1
+      - path: Crab/IK_Leg2.L/IK_Leg2.L_end
+        weight: 1
+      - path: Crab/IK_Leg2.R
+        weight: 1
+      - path: Crab/IK_Leg2.R/IK_Leg2.R_end
+        weight: 1
+      - path: Crab/IK_Leg3.L
+        weight: 1
+      - path: Crab/IK_Leg3.L/IK_Leg3.L_end
+        weight: 1
+      - path: Crab/IK_Leg3.R
+        weight: 1
+      - path: Crab/IK_Leg3.R/IK_Leg3.R_end
+        weight: 1
+      - path: Crab/IK_Leg4.L
+        weight: 1
+      - path: Crab/IK_Leg4.L/IK_Leg4.L_end
+        weight: 1
+      - path: Crab/IK_Leg4.R
+        weight: 1
+      - path: Crab/IK_Leg4.R/IK_Leg4.R_end
+        weight: 1
+      - path: Crab/Root
+        weight: 1
+      - path: Crab/Root/Root_end
+        weight: 1
+      - path: Crab_LOD0
+        weight: 1
+      - path: Crab_LOD1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Crab|Block_ReactFront
+      takeName: Crab|Block_ReactFront
+      firstFrame: 0
+      lastFrame: 18
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Crab
+        weight: 1
+      - path: Crab/Body
+        weight: 1
+      - path: Crab/Body/Arm_0.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L/Arm_3.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L/Arm_3.L/Arm_4.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L/Arm_3.L/Arm_4.L/Arm_4.L_end
+        weight: 1
+      - path: Crab/Body/Arm_0.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R/Arm_3.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R/Arm_3.R/Arm_4.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R/Arm_3.R/Arm_4.R/Arm_4.R_end
+        weight: 1
+      - path: Crab/Body/Eye.L
+        weight: 1
+      - path: Crab/Body/Eye.L/Eye.L_end
+        weight: 1
+      - path: Crab/Body/Eye.R
+        weight: 1
+      - path: Crab/Body/Eye.R/Eye.R_end
+        weight: 1
+      - path: Crab/Body/Leg1_0.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L/Leg1_4.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L/Leg1_4.L/Leg1_5.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L/Leg1_4.L/Leg1_5.L/Leg1_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg1_0.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R/Leg1_4.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R/Leg1_4.R/Leg1_5.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R/Leg1_4.R/Leg1_5.R/Leg1_5.R_end
+        weight: 1
+      - path: Crab/Body/Leg2_0.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L/Leg2_4.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L/Leg2_4.L/Leg2_5.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L/Leg2_4.L/Leg2_5.L/Leg2_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg2_0.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R/Leg2_4.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R/Leg2_4.R/Leg2_5.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R/Leg2_4.R/Leg2_5.R/Leg2_5.R_end
+        weight: 1
+      - path: Crab/Body/Leg3_0.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L/Leg3_4.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L/Leg3_4.L/Leg3_5.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L/Leg3_4.L/Leg3_5.L/Leg3_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg3_0.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R/Leg3_4.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R/Leg3_4.R/Leg3_5.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R/Leg3_4.R/Leg3_5.R/Leg3_5.R_end
+        weight: 1
+      - path: Crab/Body/Leg4_0.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L/Leg4_4.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L/Leg4_4.L/Leg4_5.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L/Leg4_4.L/Leg4_5.L/Leg4_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg4_0.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R/Leg4_4.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R/Leg4_4.R/Leg4_5.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R/Leg4_4.R/Leg4_5.R/Leg4_5.R_end
+        weight: 1
+      - path: Crab/IK_Arm1.L
+        weight: 1
+      - path: Crab/IK_Arm1.L/IK_Arm1.L_end
+        weight: 1
+      - path: Crab/IK_Arm1.R
+        weight: 1
+      - path: Crab/IK_Arm1.R/IK_Arm1.R_end
+        weight: 1
+      - path: Crab/IK_Leg1.L
+        weight: 1
+      - path: Crab/IK_Leg1.L/IK_Leg1.L_end
+        weight: 1
+      - path: Crab/IK_Leg1.R
+        weight: 1
+      - path: Crab/IK_Leg1.R/IK_Leg1.R_end
+        weight: 1
+      - path: Crab/IK_Leg2.L
+        weight: 1
+      - path: Crab/IK_Leg2.L/IK_Leg2.L_end
+        weight: 1
+      - path: Crab/IK_Leg2.R
+        weight: 1
+      - path: Crab/IK_Leg2.R/IK_Leg2.R_end
+        weight: 1
+      - path: Crab/IK_Leg3.L
+        weight: 1
+      - path: Crab/IK_Leg3.L/IK_Leg3.L_end
+        weight: 1
+      - path: Crab/IK_Leg3.R
+        weight: 1
+      - path: Crab/IK_Leg3.R/IK_Leg3.R_end
+        weight: 1
+      - path: Crab/IK_Leg4.L
+        weight: 1
+      - path: Crab/IK_Leg4.L/IK_Leg4.L_end
+        weight: 1
+      - path: Crab/IK_Leg4.R
+        weight: 1
+      - path: Crab/IK_Leg4.R/IK_Leg4.R_end
+        weight: 1
+      - path: Crab/Root
+        weight: 1
+      - path: Crab/Root/Root_end
+        weight: 1
+      - path: Crab_LOD0
+        weight: 1
+      - path: Crab_LOD1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Crab|Block_Start
+      takeName: Crab|Block_Start
+      firstFrame: 0
+      lastFrame: 12
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Crab
+        weight: 1
+      - path: Crab/Body
+        weight: 1
+      - path: Crab/Body/Arm_0.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L/Arm_3.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L/Arm_3.L/Arm_4.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L/Arm_3.L/Arm_4.L/Arm_4.L_end
+        weight: 1
+      - path: Crab/Body/Arm_0.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R/Arm_3.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R/Arm_3.R/Arm_4.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R/Arm_3.R/Arm_4.R/Arm_4.R_end
+        weight: 1
+      - path: Crab/Body/Eye.L
+        weight: 1
+      - path: Crab/Body/Eye.L/Eye.L_end
+        weight: 1
+      - path: Crab/Body/Eye.R
+        weight: 1
+      - path: Crab/Body/Eye.R/Eye.R_end
+        weight: 1
+      - path: Crab/Body/Leg1_0.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L/Leg1_4.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L/Leg1_4.L/Leg1_5.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L/Leg1_4.L/Leg1_5.L/Leg1_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg1_0.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R/Leg1_4.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R/Leg1_4.R/Leg1_5.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R/Leg1_4.R/Leg1_5.R/Leg1_5.R_end
+        weight: 1
+      - path: Crab/Body/Leg2_0.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L/Leg2_4.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L/Leg2_4.L/Leg2_5.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L/Leg2_4.L/Leg2_5.L/Leg2_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg2_0.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R/Leg2_4.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R/Leg2_4.R/Leg2_5.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R/Leg2_4.R/Leg2_5.R/Leg2_5.R_end
+        weight: 1
+      - path: Crab/Body/Leg3_0.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L/Leg3_4.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L/Leg3_4.L/Leg3_5.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L/Leg3_4.L/Leg3_5.L/Leg3_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg3_0.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R/Leg3_4.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R/Leg3_4.R/Leg3_5.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R/Leg3_4.R/Leg3_5.R/Leg3_5.R_end
+        weight: 1
+      - path: Crab/Body/Leg4_0.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L/Leg4_4.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L/Leg4_4.L/Leg4_5.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L/Leg4_4.L/Leg4_5.L/Leg4_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg4_0.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R/Leg4_4.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R/Leg4_4.R/Leg4_5.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R/Leg4_4.R/Leg4_5.R/Leg4_5.R_end
+        weight: 1
+      - path: Crab/IK_Arm1.L
+        weight: 1
+      - path: Crab/IK_Arm1.L/IK_Arm1.L_end
+        weight: 1
+      - path: Crab/IK_Arm1.R
+        weight: 1
+      - path: Crab/IK_Arm1.R/IK_Arm1.R_end
+        weight: 1
+      - path: Crab/IK_Leg1.L
+        weight: 1
+      - path: Crab/IK_Leg1.L/IK_Leg1.L_end
+        weight: 1
+      - path: Crab/IK_Leg1.R
+        weight: 1
+      - path: Crab/IK_Leg1.R/IK_Leg1.R_end
+        weight: 1
+      - path: Crab/IK_Leg2.L
+        weight: 1
+      - path: Crab/IK_Leg2.L/IK_Leg2.L_end
+        weight: 1
+      - path: Crab/IK_Leg2.R
+        weight: 1
+      - path: Crab/IK_Leg2.R/IK_Leg2.R_end
+        weight: 1
+      - path: Crab/IK_Leg3.L
+        weight: 1
+      - path: Crab/IK_Leg3.L/IK_Leg3.L_end
+        weight: 1
+      - path: Crab/IK_Leg3.R
+        weight: 1
+      - path: Crab/IK_Leg3.R/IK_Leg3.R_end
+        weight: 1
+      - path: Crab/IK_Leg4.L
+        weight: 1
+      - path: Crab/IK_Leg4.L/IK_Leg4.L_end
+        weight: 1
+      - path: Crab/IK_Leg4.R
+        weight: 1
+      - path: Crab/IK_Leg4.R/IK_Leg4.R_end
+        weight: 1
+      - path: Crab/Root
+        weight: 1
+      - path: Crab/Root/Root_end
+        weight: 1
+      - path: Crab_LOD0
+        weight: 1
+      - path: Crab_LOD1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Crab|Death_01
+      takeName: Crab|Death_01
+      firstFrame: 0
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Crab
+        weight: 1
+      - path: Crab/Body
+        weight: 1
+      - path: Crab/Body/Arm_0.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L/Arm_3.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L/Arm_3.L/Arm_4.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L/Arm_3.L/Arm_4.L/Arm_4.L_end
+        weight: 1
+      - path: Crab/Body/Arm_0.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R/Arm_3.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R/Arm_3.R/Arm_4.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R/Arm_3.R/Arm_4.R/Arm_4.R_end
+        weight: 1
+      - path: Crab/Body/Eye.L
+        weight: 1
+      - path: Crab/Body/Eye.L/Eye.L_end
+        weight: 1
+      - path: Crab/Body/Eye.R
+        weight: 1
+      - path: Crab/Body/Eye.R/Eye.R_end
+        weight: 1
+      - path: Crab/Body/Leg1_0.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L/Leg1_4.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L/Leg1_4.L/Leg1_5.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L/Leg1_4.L/Leg1_5.L/Leg1_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg1_0.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R/Leg1_4.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R/Leg1_4.R/Leg1_5.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R/Leg1_4.R/Leg1_5.R/Leg1_5.R_end
+        weight: 1
+      - path: Crab/Body/Leg2_0.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L/Leg2_4.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L/Leg2_4.L/Leg2_5.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L/Leg2_4.L/Leg2_5.L/Leg2_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg2_0.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R/Leg2_4.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R/Leg2_4.R/Leg2_5.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R/Leg2_4.R/Leg2_5.R/Leg2_5.R_end
+        weight: 1
+      - path: Crab/Body/Leg3_0.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L/Leg3_4.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L/Leg3_4.L/Leg3_5.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L/Leg3_4.L/Leg3_5.L/Leg3_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg3_0.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R/Leg3_4.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R/Leg3_4.R/Leg3_5.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R/Leg3_4.R/Leg3_5.R/Leg3_5.R_end
+        weight: 1
+      - path: Crab/Body/Leg4_0.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L/Leg4_4.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L/Leg4_4.L/Leg4_5.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L/Leg4_4.L/Leg4_5.L/Leg4_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg4_0.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R/Leg4_4.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R/Leg4_4.R/Leg4_5.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R/Leg4_4.R/Leg4_5.R/Leg4_5.R_end
+        weight: 1
+      - path: Crab/IK_Arm1.L
+        weight: 1
+      - path: Crab/IK_Arm1.L/IK_Arm1.L_end
+        weight: 1
+      - path: Crab/IK_Arm1.R
+        weight: 1
+      - path: Crab/IK_Arm1.R/IK_Arm1.R_end
+        weight: 1
+      - path: Crab/IK_Leg1.L
+        weight: 1
+      - path: Crab/IK_Leg1.L/IK_Leg1.L_end
+        weight: 1
+      - path: Crab/IK_Leg1.R
+        weight: 1
+      - path: Crab/IK_Leg1.R/IK_Leg1.R_end
+        weight: 1
+      - path: Crab/IK_Leg2.L
+        weight: 1
+      - path: Crab/IK_Leg2.L/IK_Leg2.L_end
+        weight: 1
+      - path: Crab/IK_Leg2.R
+        weight: 1
+      - path: Crab/IK_Leg2.R/IK_Leg2.R_end
+        weight: 1
+      - path: Crab/IK_Leg3.L
+        weight: 1
+      - path: Crab/IK_Leg3.L/IK_Leg3.L_end
+        weight: 1
+      - path: Crab/IK_Leg3.R
+        weight: 1
+      - path: Crab/IK_Leg3.R/IK_Leg3.R_end
+        weight: 1
+      - path: Crab/IK_Leg4.L
+        weight: 1
+      - path: Crab/IK_Leg4.L/IK_Leg4.L_end
+        weight: 1
+      - path: Crab/IK_Leg4.R
+        weight: 1
+      - path: Crab/IK_Leg4.R/IK_Leg4.R_end
+        weight: 1
+      - path: Crab/Root
+        weight: 1
+      - path: Crab/Root/Root_end
+        weight: 1
+      - path: Crab_LOD0
+        weight: 1
+      - path: Crab_LOD1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Crab|Death_02
+      takeName: Crab|Death_02
+      firstFrame: 0
+      lastFrame: 23
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Crab
+        weight: 1
+      - path: Crab/Body
+        weight: 1
+      - path: Crab/Body/Arm_0.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L/Arm_3.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L/Arm_3.L/Arm_4.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L/Arm_3.L/Arm_4.L/Arm_4.L_end
+        weight: 1
+      - path: Crab/Body/Arm_0.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R/Arm_3.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R/Arm_3.R/Arm_4.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R/Arm_3.R/Arm_4.R/Arm_4.R_end
+        weight: 1
+      - path: Crab/Body/Eye.L
+        weight: 1
+      - path: Crab/Body/Eye.L/Eye.L_end
+        weight: 1
+      - path: Crab/Body/Eye.R
+        weight: 1
+      - path: Crab/Body/Eye.R/Eye.R_end
+        weight: 1
+      - path: Crab/Body/Leg1_0.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L/Leg1_4.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L/Leg1_4.L/Leg1_5.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L/Leg1_4.L/Leg1_5.L/Leg1_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg1_0.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R/Leg1_4.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R/Leg1_4.R/Leg1_5.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R/Leg1_4.R/Leg1_5.R/Leg1_5.R_end
+        weight: 1
+      - path: Crab/Body/Leg2_0.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L/Leg2_4.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L/Leg2_4.L/Leg2_5.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L/Leg2_4.L/Leg2_5.L/Leg2_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg2_0.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R/Leg2_4.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R/Leg2_4.R/Leg2_5.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R/Leg2_4.R/Leg2_5.R/Leg2_5.R_end
+        weight: 1
+      - path: Crab/Body/Leg3_0.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L/Leg3_4.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L/Leg3_4.L/Leg3_5.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L/Leg3_4.L/Leg3_5.L/Leg3_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg3_0.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R/Leg3_4.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R/Leg3_4.R/Leg3_5.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R/Leg3_4.R/Leg3_5.R/Leg3_5.R_end
+        weight: 1
+      - path: Crab/Body/Leg4_0.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L/Leg4_4.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L/Leg4_4.L/Leg4_5.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L/Leg4_4.L/Leg4_5.L/Leg4_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg4_0.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R/Leg4_4.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R/Leg4_4.R/Leg4_5.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R/Leg4_4.R/Leg4_5.R/Leg4_5.R_end
+        weight: 1
+      - path: Crab/IK_Arm1.L
+        weight: 1
+      - path: Crab/IK_Arm1.L/IK_Arm1.L_end
+        weight: 1
+      - path: Crab/IK_Arm1.R
+        weight: 1
+      - path: Crab/IK_Arm1.R/IK_Arm1.R_end
+        weight: 1
+      - path: Crab/IK_Leg1.L
+        weight: 1
+      - path: Crab/IK_Leg1.L/IK_Leg1.L_end
+        weight: 1
+      - path: Crab/IK_Leg1.R
+        weight: 1
+      - path: Crab/IK_Leg1.R/IK_Leg1.R_end
+        weight: 1
+      - path: Crab/IK_Leg2.L
+        weight: 1
+      - path: Crab/IK_Leg2.L/IK_Leg2.L_end
+        weight: 1
+      - path: Crab/IK_Leg2.R
+        weight: 1
+      - path: Crab/IK_Leg2.R/IK_Leg2.R_end
+        weight: 1
+      - path: Crab/IK_Leg3.L
+        weight: 1
+      - path: Crab/IK_Leg3.L/IK_Leg3.L_end
+        weight: 1
+      - path: Crab/IK_Leg3.R
+        weight: 1
+      - path: Crab/IK_Leg3.R/IK_Leg3.R_end
+        weight: 1
+      - path: Crab/IK_Leg4.L
+        weight: 1
+      - path: Crab/IK_Leg4.L/IK_Leg4.L_end
+        weight: 1
+      - path: Crab/IK_Leg4.R
+        weight: 1
+      - path: Crab/IK_Leg4.R/IK_Leg4.R_end
+        weight: 1
+      - path: Crab/Root
+        weight: 1
+      - path: Crab/Root/Root_end
+        weight: 1
+      - path: Crab_LOD0
+        weight: 1
+      - path: Crab_LOD1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Crab|Eating
+      takeName: Crab|Eating
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Crab
+        weight: 1
+      - path: Crab/Body
+        weight: 1
+      - path: Crab/Body/Arm_0.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L/Arm_3.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L/Arm_3.L/Arm_4.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L/Arm_3.L/Arm_4.L/Arm_4.L_end
+        weight: 1
+      - path: Crab/Body/Arm_0.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R/Arm_3.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R/Arm_3.R/Arm_4.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R/Arm_3.R/Arm_4.R/Arm_4.R_end
+        weight: 1
+      - path: Crab/Body/Eye.L
+        weight: 1
+      - path: Crab/Body/Eye.L/Eye.L_end
+        weight: 1
+      - path: Crab/Body/Eye.R
+        weight: 1
+      - path: Crab/Body/Eye.R/Eye.R_end
+        weight: 1
+      - path: Crab/Body/Leg1_0.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L/Leg1_4.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L/Leg1_4.L/Leg1_5.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L/Leg1_4.L/Leg1_5.L/Leg1_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg1_0.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R/Leg1_4.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R/Leg1_4.R/Leg1_5.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R/Leg1_4.R/Leg1_5.R/Leg1_5.R_end
+        weight: 1
+      - path: Crab/Body/Leg2_0.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L/Leg2_4.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L/Leg2_4.L/Leg2_5.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L/Leg2_4.L/Leg2_5.L/Leg2_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg2_0.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R/Leg2_4.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R/Leg2_4.R/Leg2_5.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R/Leg2_4.R/Leg2_5.R/Leg2_5.R_end
+        weight: 1
+      - path: Crab/Body/Leg3_0.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L/Leg3_4.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L/Leg3_4.L/Leg3_5.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L/Leg3_4.L/Leg3_5.L/Leg3_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg3_0.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R/Leg3_4.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R/Leg3_4.R/Leg3_5.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R/Leg3_4.R/Leg3_5.R/Leg3_5.R_end
+        weight: 1
+      - path: Crab/Body/Leg4_0.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L/Leg4_4.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L/Leg4_4.L/Leg4_5.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L/Leg4_4.L/Leg4_5.L/Leg4_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg4_0.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R/Leg4_4.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R/Leg4_4.R/Leg4_5.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R/Leg4_4.R/Leg4_5.R/Leg4_5.R_end
+        weight: 1
+      - path: Crab/IK_Arm1.L
+        weight: 1
+      - path: Crab/IK_Arm1.L/IK_Arm1.L_end
+        weight: 1
+      - path: Crab/IK_Arm1.R
+        weight: 1
+      - path: Crab/IK_Arm1.R/IK_Arm1.R_end
+        weight: 1
+      - path: Crab/IK_Leg1.L
+        weight: 1
+      - path: Crab/IK_Leg1.L/IK_Leg1.L_end
+        weight: 1
+      - path: Crab/IK_Leg1.R
+        weight: 1
+      - path: Crab/IK_Leg1.R/IK_Leg1.R_end
+        weight: 1
+      - path: Crab/IK_Leg2.L
+        weight: 1
+      - path: Crab/IK_Leg2.L/IK_Leg2.L_end
+        weight: 1
+      - path: Crab/IK_Leg2.R
+        weight: 1
+      - path: Crab/IK_Leg2.R/IK_Leg2.R_end
+        weight: 1
+      - path: Crab/IK_Leg3.L
+        weight: 1
+      - path: Crab/IK_Leg3.L/IK_Leg3.L_end
+        weight: 1
+      - path: Crab/IK_Leg3.R
+        weight: 1
+      - path: Crab/IK_Leg3.R/IK_Leg3.R_end
+        weight: 1
+      - path: Crab/IK_Leg4.L
+        weight: 1
+      - path: Crab/IK_Leg4.L/IK_Leg4.L_end
+        weight: 1
+      - path: Crab/IK_Leg4.R
+        weight: 1
+      - path: Crab/IK_Leg4.R/IK_Leg4.R_end
+        weight: 1
+      - path: Crab/Root
+        weight: 1
+      - path: Crab/Root/Root_end
+        weight: 1
+      - path: Crab_LOD0
+        weight: 1
+      - path: Crab_LOD1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Crab|Idle
+      takeName: Crab|Idle
+      firstFrame: 0
+      lastFrame: 158
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Crab
+        weight: 1
+      - path: Crab/Body
+        weight: 1
+      - path: Crab/Body/Arm_0.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L/Arm_3.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L/Arm_3.L/Arm_4.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L/Arm_3.L/Arm_4.L/Arm_4.L_end
+        weight: 1
+      - path: Crab/Body/Arm_0.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R/Arm_3.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R/Arm_3.R/Arm_4.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R/Arm_3.R/Arm_4.R/Arm_4.R_end
+        weight: 1
+      - path: Crab/Body/Eye.L
+        weight: 1
+      - path: Crab/Body/Eye.L/Eye.L_end
+        weight: 1
+      - path: Crab/Body/Eye.R
+        weight: 1
+      - path: Crab/Body/Eye.R/Eye.R_end
+        weight: 1
+      - path: Crab/Body/Leg1_0.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L/Leg1_4.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L/Leg1_4.L/Leg1_5.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L/Leg1_4.L/Leg1_5.L/Leg1_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg1_0.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R/Leg1_4.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R/Leg1_4.R/Leg1_5.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R/Leg1_4.R/Leg1_5.R/Leg1_5.R_end
+        weight: 1
+      - path: Crab/Body/Leg2_0.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L/Leg2_4.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L/Leg2_4.L/Leg2_5.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L/Leg2_4.L/Leg2_5.L/Leg2_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg2_0.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R/Leg2_4.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R/Leg2_4.R/Leg2_5.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R/Leg2_4.R/Leg2_5.R/Leg2_5.R_end
+        weight: 1
+      - path: Crab/Body/Leg3_0.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L/Leg3_4.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L/Leg3_4.L/Leg3_5.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L/Leg3_4.L/Leg3_5.L/Leg3_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg3_0.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R/Leg3_4.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R/Leg3_4.R/Leg3_5.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R/Leg3_4.R/Leg3_5.R/Leg3_5.R_end
+        weight: 1
+      - path: Crab/Body/Leg4_0.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L/Leg4_4.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L/Leg4_4.L/Leg4_5.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L/Leg4_4.L/Leg4_5.L/Leg4_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg4_0.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R/Leg4_4.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R/Leg4_4.R/Leg4_5.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R/Leg4_4.R/Leg4_5.R/Leg4_5.R_end
+        weight: 1
+      - path: Crab/IK_Arm1.L
+        weight: 1
+      - path: Crab/IK_Arm1.L/IK_Arm1.L_end
+        weight: 1
+      - path: Crab/IK_Arm1.R
+        weight: 1
+      - path: Crab/IK_Arm1.R/IK_Arm1.R_end
+        weight: 1
+      - path: Crab/IK_Leg1.L
+        weight: 1
+      - path: Crab/IK_Leg1.L/IK_Leg1.L_end
+        weight: 1
+      - path: Crab/IK_Leg1.R
+        weight: 1
+      - path: Crab/IK_Leg1.R/IK_Leg1.R_end
+        weight: 1
+      - path: Crab/IK_Leg2.L
+        weight: 1
+      - path: Crab/IK_Leg2.L/IK_Leg2.L_end
+        weight: 1
+      - path: Crab/IK_Leg2.R
+        weight: 1
+      - path: Crab/IK_Leg2.R/IK_Leg2.R_end
+        weight: 1
+      - path: Crab/IK_Leg3.L
+        weight: 1
+      - path: Crab/IK_Leg3.L/IK_Leg3.L_end
+        weight: 1
+      - path: Crab/IK_Leg3.R
+        weight: 1
+      - path: Crab/IK_Leg3.R/IK_Leg3.R_end
+        weight: 1
+      - path: Crab/IK_Leg4.L
+        weight: 1
+      - path: Crab/IK_Leg4.L/IK_Leg4.L_end
+        weight: 1
+      - path: Crab/IK_Leg4.R
+        weight: 1
+      - path: Crab/IK_Leg4.R/IK_Leg4.R_end
+        weight: 1
+      - path: Crab/Root
+        weight: 1
+      - path: Crab/Root/Root_end
+        weight: 1
+      - path: Crab_LOD0
+        weight: 1
+      - path: Crab_LOD1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Crab|Idle_Break_01
+      takeName: Crab|Idle_Break_01
+      firstFrame: 0
+      lastFrame: 158
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Crab
+        weight: 1
+      - path: Crab/Body
+        weight: 1
+      - path: Crab/Body/Arm_0.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L/Arm_3.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L/Arm_3.L/Arm_4.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L/Arm_3.L/Arm_4.L/Arm_4.L_end
+        weight: 1
+      - path: Crab/Body/Arm_0.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R/Arm_3.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R/Arm_3.R/Arm_4.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R/Arm_3.R/Arm_4.R/Arm_4.R_end
+        weight: 1
+      - path: Crab/Body/Eye.L
+        weight: 1
+      - path: Crab/Body/Eye.L/Eye.L_end
+        weight: 1
+      - path: Crab/Body/Eye.R
+        weight: 1
+      - path: Crab/Body/Eye.R/Eye.R_end
+        weight: 1
+      - path: Crab/Body/Leg1_0.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L/Leg1_4.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L/Leg1_4.L/Leg1_5.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L/Leg1_4.L/Leg1_5.L/Leg1_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg1_0.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R/Leg1_4.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R/Leg1_4.R/Leg1_5.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R/Leg1_4.R/Leg1_5.R/Leg1_5.R_end
+        weight: 1
+      - path: Crab/Body/Leg2_0.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L/Leg2_4.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L/Leg2_4.L/Leg2_5.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L/Leg2_4.L/Leg2_5.L/Leg2_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg2_0.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R/Leg2_4.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R/Leg2_4.R/Leg2_5.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R/Leg2_4.R/Leg2_5.R/Leg2_5.R_end
+        weight: 1
+      - path: Crab/Body/Leg3_0.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L/Leg3_4.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L/Leg3_4.L/Leg3_5.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L/Leg3_4.L/Leg3_5.L/Leg3_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg3_0.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R/Leg3_4.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R/Leg3_4.R/Leg3_5.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R/Leg3_4.R/Leg3_5.R/Leg3_5.R_end
+        weight: 1
+      - path: Crab/Body/Leg4_0.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L/Leg4_4.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L/Leg4_4.L/Leg4_5.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L/Leg4_4.L/Leg4_5.L/Leg4_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg4_0.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R/Leg4_4.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R/Leg4_4.R/Leg4_5.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R/Leg4_4.R/Leg4_5.R/Leg4_5.R_end
+        weight: 1
+      - path: Crab/IK_Arm1.L
+        weight: 1
+      - path: Crab/IK_Arm1.L/IK_Arm1.L_end
+        weight: 1
+      - path: Crab/IK_Arm1.R
+        weight: 1
+      - path: Crab/IK_Arm1.R/IK_Arm1.R_end
+        weight: 1
+      - path: Crab/IK_Leg1.L
+        weight: 1
+      - path: Crab/IK_Leg1.L/IK_Leg1.L_end
+        weight: 1
+      - path: Crab/IK_Leg1.R
+        weight: 1
+      - path: Crab/IK_Leg1.R/IK_Leg1.R_end
+        weight: 1
+      - path: Crab/IK_Leg2.L
+        weight: 1
+      - path: Crab/IK_Leg2.L/IK_Leg2.L_end
+        weight: 1
+      - path: Crab/IK_Leg2.R
+        weight: 1
+      - path: Crab/IK_Leg2.R/IK_Leg2.R_end
+        weight: 1
+      - path: Crab/IK_Leg3.L
+        weight: 1
+      - path: Crab/IK_Leg3.L/IK_Leg3.L_end
+        weight: 1
+      - path: Crab/IK_Leg3.R
+        weight: 1
+      - path: Crab/IK_Leg3.R/IK_Leg3.R_end
+        weight: 1
+      - path: Crab/IK_Leg4.L
+        weight: 1
+      - path: Crab/IK_Leg4.L/IK_Leg4.L_end
+        weight: 1
+      - path: Crab/IK_Leg4.R
+        weight: 1
+      - path: Crab/IK_Leg4.R/IK_Leg4.R_end
+        weight: 1
+      - path: Crab/Root
+        weight: 1
+      - path: Crab/Root/Root_end
+        weight: 1
+      - path: Crab_LOD0
+        weight: 1
+      - path: Crab_LOD1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Crab|Idle_Break_02
+      takeName: Crab|Idle_Break_02
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Crab
+        weight: 1
+      - path: Crab/Body
+        weight: 1
+      - path: Crab/Body/Arm_0.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L/Arm_3.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L/Arm_3.L/Arm_4.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L/Arm_3.L/Arm_4.L/Arm_4.L_end
+        weight: 1
+      - path: Crab/Body/Arm_0.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R/Arm_3.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R/Arm_3.R/Arm_4.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R/Arm_3.R/Arm_4.R/Arm_4.R_end
+        weight: 1
+      - path: Crab/Body/Eye.L
+        weight: 1
+      - path: Crab/Body/Eye.L/Eye.L_end
+        weight: 1
+      - path: Crab/Body/Eye.R
+        weight: 1
+      - path: Crab/Body/Eye.R/Eye.R_end
+        weight: 1
+      - path: Crab/Body/Leg1_0.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L/Leg1_4.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L/Leg1_4.L/Leg1_5.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L/Leg1_4.L/Leg1_5.L/Leg1_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg1_0.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R/Leg1_4.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R/Leg1_4.R/Leg1_5.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R/Leg1_4.R/Leg1_5.R/Leg1_5.R_end
+        weight: 1
+      - path: Crab/Body/Leg2_0.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L/Leg2_4.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L/Leg2_4.L/Leg2_5.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L/Leg2_4.L/Leg2_5.L/Leg2_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg2_0.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R/Leg2_4.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R/Leg2_4.R/Leg2_5.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R/Leg2_4.R/Leg2_5.R/Leg2_5.R_end
+        weight: 1
+      - path: Crab/Body/Leg3_0.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L/Leg3_4.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L/Leg3_4.L/Leg3_5.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L/Leg3_4.L/Leg3_5.L/Leg3_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg3_0.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R/Leg3_4.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R/Leg3_4.R/Leg3_5.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R/Leg3_4.R/Leg3_5.R/Leg3_5.R_end
+        weight: 1
+      - path: Crab/Body/Leg4_0.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L/Leg4_4.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L/Leg4_4.L/Leg4_5.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L/Leg4_4.L/Leg4_5.L/Leg4_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg4_0.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R/Leg4_4.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R/Leg4_4.R/Leg4_5.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R/Leg4_4.R/Leg4_5.R/Leg4_5.R_end
+        weight: 1
+      - path: Crab/IK_Arm1.L
+        weight: 1
+      - path: Crab/IK_Arm1.L/IK_Arm1.L_end
+        weight: 1
+      - path: Crab/IK_Arm1.R
+        weight: 1
+      - path: Crab/IK_Arm1.R/IK_Arm1.R_end
+        weight: 1
+      - path: Crab/IK_Leg1.L
+        weight: 1
+      - path: Crab/IK_Leg1.L/IK_Leg1.L_end
+        weight: 1
+      - path: Crab/IK_Leg1.R
+        weight: 1
+      - path: Crab/IK_Leg1.R/IK_Leg1.R_end
+        weight: 1
+      - path: Crab/IK_Leg2.L
+        weight: 1
+      - path: Crab/IK_Leg2.L/IK_Leg2.L_end
+        weight: 1
+      - path: Crab/IK_Leg2.R
+        weight: 1
+      - path: Crab/IK_Leg2.R/IK_Leg2.R_end
+        weight: 1
+      - path: Crab/IK_Leg3.L
+        weight: 1
+      - path: Crab/IK_Leg3.L/IK_Leg3.L_end
+        weight: 1
+      - path: Crab/IK_Leg3.R
+        weight: 1
+      - path: Crab/IK_Leg3.R/IK_Leg3.R_end
+        weight: 1
+      - path: Crab/IK_Leg4.L
+        weight: 1
+      - path: Crab/IK_Leg4.L/IK_Leg4.L_end
+        weight: 1
+      - path: Crab/IK_Leg4.R
+        weight: 1
+      - path: Crab/IK_Leg4.R/IK_Leg4.R_end
+        weight: 1
+      - path: Crab/Root
+        weight: 1
+      - path: Crab/Root/Root_end
+        weight: 1
+      - path: Crab_LOD0
+        weight: 1
+      - path: Crab_LOD1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Crab|Idle_Break_03
+      takeName: Crab|Idle_Break_03
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Crab
+        weight: 1
+      - path: Crab/Body
+        weight: 1
+      - path: Crab/Body/Arm_0.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L/Arm_3.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L/Arm_3.L/Arm_4.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L/Arm_3.L/Arm_4.L/Arm_4.L_end
+        weight: 1
+      - path: Crab/Body/Arm_0.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R/Arm_3.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R/Arm_3.R/Arm_4.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R/Arm_3.R/Arm_4.R/Arm_4.R_end
+        weight: 1
+      - path: Crab/Body/Eye.L
+        weight: 1
+      - path: Crab/Body/Eye.L/Eye.L_end
+        weight: 1
+      - path: Crab/Body/Eye.R
+        weight: 1
+      - path: Crab/Body/Eye.R/Eye.R_end
+        weight: 1
+      - path: Crab/Body/Leg1_0.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L/Leg1_4.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L/Leg1_4.L/Leg1_5.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L/Leg1_4.L/Leg1_5.L/Leg1_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg1_0.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R/Leg1_4.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R/Leg1_4.R/Leg1_5.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R/Leg1_4.R/Leg1_5.R/Leg1_5.R_end
+        weight: 1
+      - path: Crab/Body/Leg2_0.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L/Leg2_4.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L/Leg2_4.L/Leg2_5.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L/Leg2_4.L/Leg2_5.L/Leg2_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg2_0.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R/Leg2_4.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R/Leg2_4.R/Leg2_5.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R/Leg2_4.R/Leg2_5.R/Leg2_5.R_end
+        weight: 1
+      - path: Crab/Body/Leg3_0.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L/Leg3_4.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L/Leg3_4.L/Leg3_5.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L/Leg3_4.L/Leg3_5.L/Leg3_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg3_0.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R/Leg3_4.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R/Leg3_4.R/Leg3_5.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R/Leg3_4.R/Leg3_5.R/Leg3_5.R_end
+        weight: 1
+      - path: Crab/Body/Leg4_0.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L/Leg4_4.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L/Leg4_4.L/Leg4_5.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L/Leg4_4.L/Leg4_5.L/Leg4_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg4_0.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R/Leg4_4.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R/Leg4_4.R/Leg4_5.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R/Leg4_4.R/Leg4_5.R/Leg4_5.R_end
+        weight: 1
+      - path: Crab/IK_Arm1.L
+        weight: 1
+      - path: Crab/IK_Arm1.L/IK_Arm1.L_end
+        weight: 1
+      - path: Crab/IK_Arm1.R
+        weight: 1
+      - path: Crab/IK_Arm1.R/IK_Arm1.R_end
+        weight: 1
+      - path: Crab/IK_Leg1.L
+        weight: 1
+      - path: Crab/IK_Leg1.L/IK_Leg1.L_end
+        weight: 1
+      - path: Crab/IK_Leg1.R
+        weight: 1
+      - path: Crab/IK_Leg1.R/IK_Leg1.R_end
+        weight: 1
+      - path: Crab/IK_Leg2.L
+        weight: 1
+      - path: Crab/IK_Leg2.L/IK_Leg2.L_end
+        weight: 1
+      - path: Crab/IK_Leg2.R
+        weight: 1
+      - path: Crab/IK_Leg2.R/IK_Leg2.R_end
+        weight: 1
+      - path: Crab/IK_Leg3.L
+        weight: 1
+      - path: Crab/IK_Leg3.L/IK_Leg3.L_end
+        weight: 1
+      - path: Crab/IK_Leg3.R
+        weight: 1
+      - path: Crab/IK_Leg3.R/IK_Leg3.R_end
+        weight: 1
+      - path: Crab/IK_Leg4.L
+        weight: 1
+      - path: Crab/IK_Leg4.L/IK_Leg4.L_end
+        weight: 1
+      - path: Crab/IK_Leg4.R
+        weight: 1
+      - path: Crab/IK_Leg4.R/IK_Leg4.R_end
+        weight: 1
+      - path: Crab/Root
+        weight: 1
+      - path: Crab/Root/Root_end
+        weight: 1
+      - path: Crab_LOD0
+        weight: 1
+      - path: Crab_LOD1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Crab|Sit_End
+      takeName: Crab|Sit_End
+      firstFrame: 0
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Crab
+        weight: 1
+      - path: Crab/Body
+        weight: 1
+      - path: Crab/Body/Arm_0.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L/Arm_3.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L/Arm_3.L/Arm_4.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L/Arm_3.L/Arm_4.L/Arm_4.L_end
+        weight: 1
+      - path: Crab/Body/Arm_0.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R/Arm_3.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R/Arm_3.R/Arm_4.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R/Arm_3.R/Arm_4.R/Arm_4.R_end
+        weight: 1
+      - path: Crab/Body/Eye.L
+        weight: 1
+      - path: Crab/Body/Eye.L/Eye.L_end
+        weight: 1
+      - path: Crab/Body/Eye.R
+        weight: 1
+      - path: Crab/Body/Eye.R/Eye.R_end
+        weight: 1
+      - path: Crab/Body/Leg1_0.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L/Leg1_4.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L/Leg1_4.L/Leg1_5.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L/Leg1_4.L/Leg1_5.L/Leg1_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg1_0.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R/Leg1_4.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R/Leg1_4.R/Leg1_5.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R/Leg1_4.R/Leg1_5.R/Leg1_5.R_end
+        weight: 1
+      - path: Crab/Body/Leg2_0.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L/Leg2_4.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L/Leg2_4.L/Leg2_5.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L/Leg2_4.L/Leg2_5.L/Leg2_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg2_0.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R/Leg2_4.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R/Leg2_4.R/Leg2_5.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R/Leg2_4.R/Leg2_5.R/Leg2_5.R_end
+        weight: 1
+      - path: Crab/Body/Leg3_0.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L/Leg3_4.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L/Leg3_4.L/Leg3_5.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L/Leg3_4.L/Leg3_5.L/Leg3_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg3_0.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R/Leg3_4.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R/Leg3_4.R/Leg3_5.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R/Leg3_4.R/Leg3_5.R/Leg3_5.R_end
+        weight: 1
+      - path: Crab/Body/Leg4_0.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L/Leg4_4.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L/Leg4_4.L/Leg4_5.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L/Leg4_4.L/Leg4_5.L/Leg4_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg4_0.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R/Leg4_4.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R/Leg4_4.R/Leg4_5.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R/Leg4_4.R/Leg4_5.R/Leg4_5.R_end
+        weight: 1
+      - path: Crab/IK_Arm1.L
+        weight: 1
+      - path: Crab/IK_Arm1.L/IK_Arm1.L_end
+        weight: 1
+      - path: Crab/IK_Arm1.R
+        weight: 1
+      - path: Crab/IK_Arm1.R/IK_Arm1.R_end
+        weight: 1
+      - path: Crab/IK_Leg1.L
+        weight: 1
+      - path: Crab/IK_Leg1.L/IK_Leg1.L_end
+        weight: 1
+      - path: Crab/IK_Leg1.R
+        weight: 1
+      - path: Crab/IK_Leg1.R/IK_Leg1.R_end
+        weight: 1
+      - path: Crab/IK_Leg2.L
+        weight: 1
+      - path: Crab/IK_Leg2.L/IK_Leg2.L_end
+        weight: 1
+      - path: Crab/IK_Leg2.R
+        weight: 1
+      - path: Crab/IK_Leg2.R/IK_Leg2.R_end
+        weight: 1
+      - path: Crab/IK_Leg3.L
+        weight: 1
+      - path: Crab/IK_Leg3.L/IK_Leg3.L_end
+        weight: 1
+      - path: Crab/IK_Leg3.R
+        weight: 1
+      - path: Crab/IK_Leg3.R/IK_Leg3.R_end
+        weight: 1
+      - path: Crab/IK_Leg4.L
+        weight: 1
+      - path: Crab/IK_Leg4.L/IK_Leg4.L_end
+        weight: 1
+      - path: Crab/IK_Leg4.R
+        weight: 1
+      - path: Crab/IK_Leg4.R/IK_Leg4.R_end
+        weight: 1
+      - path: Crab/Root
+        weight: 1
+      - path: Crab/Root/Root_end
+        weight: 1
+      - path: Crab_LOD0
+        weight: 1
+      - path: Crab_LOD1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Crab|Sit_Idle
+      takeName: Crab|Sit_Idle
+      firstFrame: 0
+      lastFrame: 99
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Crab
+        weight: 1
+      - path: Crab/Body
+        weight: 1
+      - path: Crab/Body/Arm_0.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L/Arm_3.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L/Arm_3.L/Arm_4.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L/Arm_3.L/Arm_4.L/Arm_4.L_end
+        weight: 1
+      - path: Crab/Body/Arm_0.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R/Arm_3.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R/Arm_3.R/Arm_4.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R/Arm_3.R/Arm_4.R/Arm_4.R_end
+        weight: 1
+      - path: Crab/Body/Eye.L
+        weight: 1
+      - path: Crab/Body/Eye.L/Eye.L_end
+        weight: 1
+      - path: Crab/Body/Eye.R
+        weight: 1
+      - path: Crab/Body/Eye.R/Eye.R_end
+        weight: 1
+      - path: Crab/Body/Leg1_0.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L/Leg1_4.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L/Leg1_4.L/Leg1_5.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L/Leg1_4.L/Leg1_5.L/Leg1_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg1_0.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R/Leg1_4.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R/Leg1_4.R/Leg1_5.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R/Leg1_4.R/Leg1_5.R/Leg1_5.R_end
+        weight: 1
+      - path: Crab/Body/Leg2_0.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L/Leg2_4.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L/Leg2_4.L/Leg2_5.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L/Leg2_4.L/Leg2_5.L/Leg2_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg2_0.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R/Leg2_4.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R/Leg2_4.R/Leg2_5.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R/Leg2_4.R/Leg2_5.R/Leg2_5.R_end
+        weight: 1
+      - path: Crab/Body/Leg3_0.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L/Leg3_4.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L/Leg3_4.L/Leg3_5.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L/Leg3_4.L/Leg3_5.L/Leg3_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg3_0.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R/Leg3_4.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R/Leg3_4.R/Leg3_5.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R/Leg3_4.R/Leg3_5.R/Leg3_5.R_end
+        weight: 1
+      - path: Crab/Body/Leg4_0.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L/Leg4_4.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L/Leg4_4.L/Leg4_5.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L/Leg4_4.L/Leg4_5.L/Leg4_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg4_0.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R/Leg4_4.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R/Leg4_4.R/Leg4_5.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R/Leg4_4.R/Leg4_5.R/Leg4_5.R_end
+        weight: 1
+      - path: Crab/IK_Arm1.L
+        weight: 1
+      - path: Crab/IK_Arm1.L/IK_Arm1.L_end
+        weight: 1
+      - path: Crab/IK_Arm1.R
+        weight: 1
+      - path: Crab/IK_Arm1.R/IK_Arm1.R_end
+        weight: 1
+      - path: Crab/IK_Leg1.L
+        weight: 1
+      - path: Crab/IK_Leg1.L/IK_Leg1.L_end
+        weight: 1
+      - path: Crab/IK_Leg1.R
+        weight: 1
+      - path: Crab/IK_Leg1.R/IK_Leg1.R_end
+        weight: 1
+      - path: Crab/IK_Leg2.L
+        weight: 1
+      - path: Crab/IK_Leg2.L/IK_Leg2.L_end
+        weight: 1
+      - path: Crab/IK_Leg2.R
+        weight: 1
+      - path: Crab/IK_Leg2.R/IK_Leg2.R_end
+        weight: 1
+      - path: Crab/IK_Leg3.L
+        weight: 1
+      - path: Crab/IK_Leg3.L/IK_Leg3.L_end
+        weight: 1
+      - path: Crab/IK_Leg3.R
+        weight: 1
+      - path: Crab/IK_Leg3.R/IK_Leg3.R_end
+        weight: 1
+      - path: Crab/IK_Leg4.L
+        weight: 1
+      - path: Crab/IK_Leg4.L/IK_Leg4.L_end
+        weight: 1
+      - path: Crab/IK_Leg4.R
+        weight: 1
+      - path: Crab/IK_Leg4.R/IK_Leg4.R_end
+        weight: 1
+      - path: Crab/Root
+        weight: 1
+      - path: Crab/Root/Root_end
+        weight: 1
+      - path: Crab_LOD0
+        weight: 1
+      - path: Crab_LOD1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Crab|Sit_Start
+      takeName: Crab|Sit_Start
+      firstFrame: 0
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Crab
+        weight: 1
+      - path: Crab/Body
+        weight: 1
+      - path: Crab/Body/Arm_0.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L/Arm_3.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L/Arm_3.L/Arm_4.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L/Arm_3.L/Arm_4.L/Arm_4.L_end
+        weight: 1
+      - path: Crab/Body/Arm_0.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R/Arm_3.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R/Arm_3.R/Arm_4.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R/Arm_3.R/Arm_4.R/Arm_4.R_end
+        weight: 1
+      - path: Crab/Body/Eye.L
+        weight: 1
+      - path: Crab/Body/Eye.L/Eye.L_end
+        weight: 1
+      - path: Crab/Body/Eye.R
+        weight: 1
+      - path: Crab/Body/Eye.R/Eye.R_end
+        weight: 1
+      - path: Crab/Body/Leg1_0.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L/Leg1_4.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L/Leg1_4.L/Leg1_5.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L/Leg1_4.L/Leg1_5.L/Leg1_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg1_0.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R/Leg1_4.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R/Leg1_4.R/Leg1_5.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R/Leg1_4.R/Leg1_5.R/Leg1_5.R_end
+        weight: 1
+      - path: Crab/Body/Leg2_0.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L/Leg2_4.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L/Leg2_4.L/Leg2_5.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L/Leg2_4.L/Leg2_5.L/Leg2_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg2_0.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R/Leg2_4.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R/Leg2_4.R/Leg2_5.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R/Leg2_4.R/Leg2_5.R/Leg2_5.R_end
+        weight: 1
+      - path: Crab/Body/Leg3_0.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L/Leg3_4.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L/Leg3_4.L/Leg3_5.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L/Leg3_4.L/Leg3_5.L/Leg3_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg3_0.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R/Leg3_4.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R/Leg3_4.R/Leg3_5.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R/Leg3_4.R/Leg3_5.R/Leg3_5.R_end
+        weight: 1
+      - path: Crab/Body/Leg4_0.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L/Leg4_4.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L/Leg4_4.L/Leg4_5.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L/Leg4_4.L/Leg4_5.L/Leg4_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg4_0.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R/Leg4_4.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R/Leg4_4.R/Leg4_5.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R/Leg4_4.R/Leg4_5.R/Leg4_5.R_end
+        weight: 1
+      - path: Crab/IK_Arm1.L
+        weight: 1
+      - path: Crab/IK_Arm1.L/IK_Arm1.L_end
+        weight: 1
+      - path: Crab/IK_Arm1.R
+        weight: 1
+      - path: Crab/IK_Arm1.R/IK_Arm1.R_end
+        weight: 1
+      - path: Crab/IK_Leg1.L
+        weight: 1
+      - path: Crab/IK_Leg1.L/IK_Leg1.L_end
+        weight: 1
+      - path: Crab/IK_Leg1.R
+        weight: 1
+      - path: Crab/IK_Leg1.R/IK_Leg1.R_end
+        weight: 1
+      - path: Crab/IK_Leg2.L
+        weight: 1
+      - path: Crab/IK_Leg2.L/IK_Leg2.L_end
+        weight: 1
+      - path: Crab/IK_Leg2.R
+        weight: 1
+      - path: Crab/IK_Leg2.R/IK_Leg2.R_end
+        weight: 1
+      - path: Crab/IK_Leg3.L
+        weight: 1
+      - path: Crab/IK_Leg3.L/IK_Leg3.L_end
+        weight: 1
+      - path: Crab/IK_Leg3.R
+        weight: 1
+      - path: Crab/IK_Leg3.R/IK_Leg3.R_end
+        weight: 1
+      - path: Crab/IK_Leg4.L
+        weight: 1
+      - path: Crab/IK_Leg4.L/IK_Leg4.L_end
+        weight: 1
+      - path: Crab/IK_Leg4.R
+        weight: 1
+      - path: Crab/IK_Leg4.R/IK_Leg4.R_end
+        weight: 1
+      - path: Crab/Root
+        weight: 1
+      - path: Crab/Root/Root_end
+        weight: 1
+      - path: Crab_LOD0
+        weight: 1
+      - path: Crab_LOD1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Crab|Walk_Backwards
+      takeName: Crab|Walk_Backwards
+      firstFrame: 0
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Crab
+        weight: 1
+      - path: Crab/Body
+        weight: 1
+      - path: Crab/Body/Arm_0.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L/Arm_3.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L/Arm_3.L/Arm_4.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L/Arm_3.L/Arm_4.L/Arm_4.L_end
+        weight: 1
+      - path: Crab/Body/Arm_0.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R/Arm_3.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R/Arm_3.R/Arm_4.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R/Arm_3.R/Arm_4.R/Arm_4.R_end
+        weight: 1
+      - path: Crab/Body/Eye.L
+        weight: 1
+      - path: Crab/Body/Eye.L/Eye.L_end
+        weight: 1
+      - path: Crab/Body/Eye.R
+        weight: 1
+      - path: Crab/Body/Eye.R/Eye.R_end
+        weight: 1
+      - path: Crab/Body/Leg1_0.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L/Leg1_4.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L/Leg1_4.L/Leg1_5.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L/Leg1_4.L/Leg1_5.L/Leg1_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg1_0.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R/Leg1_4.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R/Leg1_4.R/Leg1_5.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R/Leg1_4.R/Leg1_5.R/Leg1_5.R_end
+        weight: 1
+      - path: Crab/Body/Leg2_0.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L/Leg2_4.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L/Leg2_4.L/Leg2_5.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L/Leg2_4.L/Leg2_5.L/Leg2_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg2_0.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R/Leg2_4.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R/Leg2_4.R/Leg2_5.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R/Leg2_4.R/Leg2_5.R/Leg2_5.R_end
+        weight: 1
+      - path: Crab/Body/Leg3_0.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L/Leg3_4.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L/Leg3_4.L/Leg3_5.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L/Leg3_4.L/Leg3_5.L/Leg3_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg3_0.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R/Leg3_4.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R/Leg3_4.R/Leg3_5.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R/Leg3_4.R/Leg3_5.R/Leg3_5.R_end
+        weight: 1
+      - path: Crab/Body/Leg4_0.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L/Leg4_4.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L/Leg4_4.L/Leg4_5.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L/Leg4_4.L/Leg4_5.L/Leg4_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg4_0.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R/Leg4_4.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R/Leg4_4.R/Leg4_5.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R/Leg4_4.R/Leg4_5.R/Leg4_5.R_end
+        weight: 1
+      - path: Crab/IK_Arm1.L
+        weight: 1
+      - path: Crab/IK_Arm1.L/IK_Arm1.L_end
+        weight: 1
+      - path: Crab/IK_Arm1.R
+        weight: 1
+      - path: Crab/IK_Arm1.R/IK_Arm1.R_end
+        weight: 1
+      - path: Crab/IK_Leg1.L
+        weight: 1
+      - path: Crab/IK_Leg1.L/IK_Leg1.L_end
+        weight: 1
+      - path: Crab/IK_Leg1.R
+        weight: 1
+      - path: Crab/IK_Leg1.R/IK_Leg1.R_end
+        weight: 1
+      - path: Crab/IK_Leg2.L
+        weight: 1
+      - path: Crab/IK_Leg2.L/IK_Leg2.L_end
+        weight: 1
+      - path: Crab/IK_Leg2.R
+        weight: 1
+      - path: Crab/IK_Leg2.R/IK_Leg2.R_end
+        weight: 1
+      - path: Crab/IK_Leg3.L
+        weight: 1
+      - path: Crab/IK_Leg3.L/IK_Leg3.L_end
+        weight: 1
+      - path: Crab/IK_Leg3.R
+        weight: 1
+      - path: Crab/IK_Leg3.R/IK_Leg3.R_end
+        weight: 1
+      - path: Crab/IK_Leg4.L
+        weight: 1
+      - path: Crab/IK_Leg4.L/IK_Leg4.L_end
+        weight: 1
+      - path: Crab/IK_Leg4.R
+        weight: 1
+      - path: Crab/IK_Leg4.R/IK_Leg4.R_end
+        weight: 1
+      - path: Crab/Root
+        weight: 1
+      - path: Crab/Root/Root_end
+        weight: 1
+      - path: Crab_LOD0
+        weight: 1
+      - path: Crab_LOD1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Crab|Walk_Forward
+      takeName: Crab|Walk_Forward
+      firstFrame: 0
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Crab
+        weight: 1
+      - path: Crab/Body
+        weight: 1
+      - path: Crab/Body/Arm_0.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L/Arm_3.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L/Arm_3.L/Arm_4.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L/Arm_3.L/Arm_4.L/Arm_4.L_end
+        weight: 1
+      - path: Crab/Body/Arm_0.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R/Arm_3.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R/Arm_3.R/Arm_4.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R/Arm_3.R/Arm_4.R/Arm_4.R_end
+        weight: 1
+      - path: Crab/Body/Eye.L
+        weight: 1
+      - path: Crab/Body/Eye.L/Eye.L_end
+        weight: 1
+      - path: Crab/Body/Eye.R
+        weight: 1
+      - path: Crab/Body/Eye.R/Eye.R_end
+        weight: 1
+      - path: Crab/Body/Leg1_0.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L/Leg1_4.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L/Leg1_4.L/Leg1_5.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L/Leg1_4.L/Leg1_5.L/Leg1_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg1_0.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R/Leg1_4.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R/Leg1_4.R/Leg1_5.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R/Leg1_4.R/Leg1_5.R/Leg1_5.R_end
+        weight: 1
+      - path: Crab/Body/Leg2_0.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L/Leg2_4.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L/Leg2_4.L/Leg2_5.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L/Leg2_4.L/Leg2_5.L/Leg2_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg2_0.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R/Leg2_4.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R/Leg2_4.R/Leg2_5.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R/Leg2_4.R/Leg2_5.R/Leg2_5.R_end
+        weight: 1
+      - path: Crab/Body/Leg3_0.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L/Leg3_4.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L/Leg3_4.L/Leg3_5.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L/Leg3_4.L/Leg3_5.L/Leg3_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg3_0.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R/Leg3_4.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R/Leg3_4.R/Leg3_5.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R/Leg3_4.R/Leg3_5.R/Leg3_5.R_end
+        weight: 1
+      - path: Crab/Body/Leg4_0.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L/Leg4_4.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L/Leg4_4.L/Leg4_5.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L/Leg4_4.L/Leg4_5.L/Leg4_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg4_0.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R/Leg4_4.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R/Leg4_4.R/Leg4_5.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R/Leg4_4.R/Leg4_5.R/Leg4_5.R_end
+        weight: 1
+      - path: Crab/IK_Arm1.L
+        weight: 1
+      - path: Crab/IK_Arm1.L/IK_Arm1.L_end
+        weight: 1
+      - path: Crab/IK_Arm1.R
+        weight: 1
+      - path: Crab/IK_Arm1.R/IK_Arm1.R_end
+        weight: 1
+      - path: Crab/IK_Leg1.L
+        weight: 1
+      - path: Crab/IK_Leg1.L/IK_Leg1.L_end
+        weight: 1
+      - path: Crab/IK_Leg1.R
+        weight: 1
+      - path: Crab/IK_Leg1.R/IK_Leg1.R_end
+        weight: 1
+      - path: Crab/IK_Leg2.L
+        weight: 1
+      - path: Crab/IK_Leg2.L/IK_Leg2.L_end
+        weight: 1
+      - path: Crab/IK_Leg2.R
+        weight: 1
+      - path: Crab/IK_Leg2.R/IK_Leg2.R_end
+        weight: 1
+      - path: Crab/IK_Leg3.L
+        weight: 1
+      - path: Crab/IK_Leg3.L/IK_Leg3.L_end
+        weight: 1
+      - path: Crab/IK_Leg3.R
+        weight: 1
+      - path: Crab/IK_Leg3.R/IK_Leg3.R_end
+        weight: 1
+      - path: Crab/IK_Leg4.L
+        weight: 1
+      - path: Crab/IK_Leg4.L/IK_Leg4.L_end
+        weight: 1
+      - path: Crab/IK_Leg4.R
+        weight: 1
+      - path: Crab/IK_Leg4.R/IK_Leg4.R_end
+        weight: 1
+      - path: Crab/Root
+        weight: 1
+      - path: Crab/Root/Root_end
+        weight: 1
+      - path: Crab_LOD0
+        weight: 1
+      - path: Crab_LOD1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Crab|Walk_Right
+      takeName: Crab|Walk_Right
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Crab
+        weight: 1
+      - path: Crab/Body
+        weight: 1
+      - path: Crab/Body/Arm_0.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L/Arm_3.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L/Arm_3.L/Arm_4.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L/Arm_3.L/Arm_4.L/Arm_4.L_end
+        weight: 1
+      - path: Crab/Body/Arm_0.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R/Arm_3.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R/Arm_3.R/Arm_4.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R/Arm_3.R/Arm_4.R/Arm_4.R_end
+        weight: 1
+      - path: Crab/Body/Eye.L
+        weight: 1
+      - path: Crab/Body/Eye.L/Eye.L_end
+        weight: 1
+      - path: Crab/Body/Eye.R
+        weight: 1
+      - path: Crab/Body/Eye.R/Eye.R_end
+        weight: 1
+      - path: Crab/Body/Leg1_0.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L/Leg1_4.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L/Leg1_4.L/Leg1_5.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L/Leg1_4.L/Leg1_5.L/Leg1_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg1_0.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R/Leg1_4.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R/Leg1_4.R/Leg1_5.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R/Leg1_4.R/Leg1_5.R/Leg1_5.R_end
+        weight: 1
+      - path: Crab/Body/Leg2_0.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L/Leg2_4.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L/Leg2_4.L/Leg2_5.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L/Leg2_4.L/Leg2_5.L/Leg2_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg2_0.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R/Leg2_4.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R/Leg2_4.R/Leg2_5.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R/Leg2_4.R/Leg2_5.R/Leg2_5.R_end
+        weight: 1
+      - path: Crab/Body/Leg3_0.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L/Leg3_4.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L/Leg3_4.L/Leg3_5.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L/Leg3_4.L/Leg3_5.L/Leg3_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg3_0.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R/Leg3_4.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R/Leg3_4.R/Leg3_5.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R/Leg3_4.R/Leg3_5.R/Leg3_5.R_end
+        weight: 1
+      - path: Crab/Body/Leg4_0.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L/Leg4_4.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L/Leg4_4.L/Leg4_5.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L/Leg4_4.L/Leg4_5.L/Leg4_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg4_0.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R/Leg4_4.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R/Leg4_4.R/Leg4_5.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R/Leg4_4.R/Leg4_5.R/Leg4_5.R_end
+        weight: 1
+      - path: Crab/IK_Arm1.L
+        weight: 1
+      - path: Crab/IK_Arm1.L/IK_Arm1.L_end
+        weight: 1
+      - path: Crab/IK_Arm1.R
+        weight: 1
+      - path: Crab/IK_Arm1.R/IK_Arm1.R_end
+        weight: 1
+      - path: Crab/IK_Leg1.L
+        weight: 1
+      - path: Crab/IK_Leg1.L/IK_Leg1.L_end
+        weight: 1
+      - path: Crab/IK_Leg1.R
+        weight: 1
+      - path: Crab/IK_Leg1.R/IK_Leg1.R_end
+        weight: 1
+      - path: Crab/IK_Leg2.L
+        weight: 1
+      - path: Crab/IK_Leg2.L/IK_Leg2.L_end
+        weight: 1
+      - path: Crab/IK_Leg2.R
+        weight: 1
+      - path: Crab/IK_Leg2.R/IK_Leg2.R_end
+        weight: 1
+      - path: Crab/IK_Leg3.L
+        weight: 1
+      - path: Crab/IK_Leg3.L/IK_Leg3.L_end
+        weight: 1
+      - path: Crab/IK_Leg3.R
+        weight: 1
+      - path: Crab/IK_Leg3.R/IK_Leg3.R_end
+        weight: 1
+      - path: Crab/IK_Leg4.L
+        weight: 1
+      - path: Crab/IK_Leg4.L/IK_Leg4.L_end
+        weight: 1
+      - path: Crab/IK_Leg4.R
+        weight: 1
+      - path: Crab/IK_Leg4.R/IK_Leg4.R_end
+        weight: 1
+      - path: Crab/Root
+        weight: 1
+      - path: Crab/Root/Root_end
+        weight: 1
+      - path: Crab_LOD0
+        weight: 1
+      - path: Crab_LOD1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Crab|Walk_Left
+      takeName: Crab|Walk_Left
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Crab
+        weight: 1
+      - path: Crab/Body
+        weight: 1
+      - path: Crab/Body/Arm_0.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L/Arm_3.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L/Arm_3.L/Arm_4.L
+        weight: 1
+      - path: Crab/Body/Arm_0.L/Arm_1.L/Arm_2.L/Arm_3.L/Arm_4.L/Arm_4.L_end
+        weight: 1
+      - path: Crab/Body/Arm_0.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R/Arm_3.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R/Arm_3.R/Arm_4.R
+        weight: 1
+      - path: Crab/Body/Arm_0.R/Arm_1.R/Arm_2.R/Arm_3.R/Arm_4.R/Arm_4.R_end
+        weight: 1
+      - path: Crab/Body/Eye.L
+        weight: 1
+      - path: Crab/Body/Eye.L/Eye.L_end
+        weight: 1
+      - path: Crab/Body/Eye.R
+        weight: 1
+      - path: Crab/Body/Eye.R/Eye.R_end
+        weight: 1
+      - path: Crab/Body/Leg1_0.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L/Leg1_4.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L/Leg1_4.L/Leg1_5.L
+        weight: 1
+      - path: Crab/Body/Leg1_0.L/Leg1_1.L/Leg1_2.L/Leg1_3.L/Leg1_4.L/Leg1_5.L/Leg1_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg1_0.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R/Leg1_4.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R/Leg1_4.R/Leg1_5.R
+        weight: 1
+      - path: Crab/Body/Leg1_0.R/Leg1_1.R/Leg1_2.R/Leg1_3.R/Leg1_4.R/Leg1_5.R/Leg1_5.R_end
+        weight: 1
+      - path: Crab/Body/Leg2_0.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L/Leg2_4.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L/Leg2_4.L/Leg2_5.L
+        weight: 1
+      - path: Crab/Body/Leg2_0.L/Leg2_1.L/Leg2_2.L/Leg_2_3.L/Leg2_4.L/Leg2_5.L/Leg2_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg2_0.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R/Leg2_4.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R/Leg2_4.R/Leg2_5.R
+        weight: 1
+      - path: Crab/Body/Leg2_0.R/Leg2_1.R/Leg2_2.R/Leg_2_3.R/Leg2_4.R/Leg2_5.R/Leg2_5.R_end
+        weight: 1
+      - path: Crab/Body/Leg3_0.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L/Leg3_4.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L/Leg3_4.L/Leg3_5.L
+        weight: 1
+      - path: Crab/Body/Leg3_0.L/Leg3_1.L/Leg3_2.L/Leg3_3.L/Leg3_4.L/Leg3_5.L/Leg3_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg3_0.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R/Leg3_4.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R/Leg3_4.R/Leg3_5.R
+        weight: 1
+      - path: Crab/Body/Leg3_0.R/Leg3_1.R/Leg3_2.R/Leg3_3.R/Leg3_4.R/Leg3_5.R/Leg3_5.R_end
+        weight: 1
+      - path: Crab/Body/Leg4_0.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L/Leg4_4.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L/Leg4_4.L/Leg4_5.L
+        weight: 1
+      - path: Crab/Body/Leg4_0.L/Leg4_1.L/Leg4_2.L/Leg4_3.L/Leg4_4.L/Leg4_5.L/Leg4_5.L_end
+        weight: 1
+      - path: Crab/Body/Leg4_0.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R/Leg4_4.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R/Leg4_4.R/Leg4_5.R
+        weight: 1
+      - path: Crab/Body/Leg4_0.R/Leg4_1.R/Leg4_2.R/Leg4_3.R/Leg4_4.R/Leg4_5.R/Leg4_5.R_end
+        weight: 1
+      - path: Crab/IK_Arm1.L
+        weight: 1
+      - path: Crab/IK_Arm1.L/IK_Arm1.L_end
+        weight: 1
+      - path: Crab/IK_Arm1.R
+        weight: 1
+      - path: Crab/IK_Arm1.R/IK_Arm1.R_end
+        weight: 1
+      - path: Crab/IK_Leg1.L
+        weight: 1
+      - path: Crab/IK_Leg1.L/IK_Leg1.L_end
+        weight: 1
+      - path: Crab/IK_Leg1.R
+        weight: 1
+      - path: Crab/IK_Leg1.R/IK_Leg1.R_end
+        weight: 1
+      - path: Crab/IK_Leg2.L
+        weight: 1
+      - path: Crab/IK_Leg2.L/IK_Leg2.L_end
+        weight: 1
+      - path: Crab/IK_Leg2.R
+        weight: 1
+      - path: Crab/IK_Leg2.R/IK_Leg2.R_end
+        weight: 1
+      - path: Crab/IK_Leg3.L
+        weight: 1
+      - path: Crab/IK_Leg3.L/IK_Leg3.L_end
+        weight: 1
+      - path: Crab/IK_Leg3.R
+        weight: 1
+      - path: Crab/IK_Leg3.R/IK_Leg3.R_end
+        weight: 1
+      - path: Crab/IK_Leg4.L
+        weight: 1
+      - path: Crab/IK_Leg4.L/IK_Leg4.L_end
+        weight: 1
+      - path: Crab/IK_Leg4.R
+        weight: 1
+      - path: Crab/IK_Leg4.R/IK_Leg4.R_end
+        weight: 1
+      - path: Crab/Root
+        weight: 1
+      - path: Crab/Root/Root_end
+        weight: 1
+      - path: Crab_LOD0
+        weight: 1
+      - path: Crab_LOD1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.01
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,15 @@
+#!/usr/bin/env ruby
+
+  puts "Testing!"
+
+if ARGV[1] =~ /^standaloneOSX/
+  `cp "Assets/Editor/UnityPlayerIcon.icns" "#{ARGV[0]}/Contents/Resources/"`
+  `cp "Assets/recorded_raw.xml" "#{ARGV[0]}/Contents/"`
+elsif ARGV[1] =~ /^standaloneWin32/
+  # The below line is for Unity 2.6+
+  #`cp "Assets/recorded_raw.xml" "#{File.dirname ARGV[0]}/#{ARGV[4]}_Data/"`
+
+  # The below line is for Unity 2.5
+  `cp "Assets/recorded_raw.xml" "#{ARGV[0]}/Data/"` 
+end
+
