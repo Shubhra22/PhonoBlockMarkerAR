@@ -114,6 +114,15 @@ public class SessionsDirector : MonoBehaviour
     }
     ;
 
+
+    void AutoRotateScreen()
+    {
+        Screen.autorotateToLandscapeLeft = true;
+        Screen.autorotateToLandscapeRight = true;
+        Screen.autorotateToPortrait = false;
+        Screen.orientation = ScreenOrientation.AutoRotation;
+    }
+
     public bool IsScreenMode()
     {
         return INTERFACE == INTERFACE_TYPE.SCREEN_KEYBOARD;
@@ -216,6 +225,7 @@ public class SessionsDirector : MonoBehaviour
 
         //studentName = studentNameInputField.GetComponent<InputField>();
         SetupModeSelectionMenu();
+        AutoRotateScreen();
 
     }
 

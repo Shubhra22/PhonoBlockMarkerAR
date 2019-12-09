@@ -2,74 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6194352d-382a-408c-805c-b55e604b7242" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/Arcane Cyber/Chess/Models/Bishop.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/Arcane Cyber/Chess/Models/Bishop.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/Arcane Cyber/Chess/Models/Board.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/Arcane Cyber/Chess/Models/Board.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/Arcane Cyber/Chess/Models/King.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/Arcane Cyber/Chess/Models/King.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/Arcane Cyber/Chess/Models/Knight.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/Arcane Cyber/Chess/Models/Knight.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/Arcane Cyber/Chess/Models/Pawn.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/Arcane Cyber/Chess/Models/Pawn.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/Arcane Cyber/Chess/Models/Queen.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/Arcane Cyber/Chess/Models/Queen.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/Arcane Cyber/Chess/Models/Rook.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/Arcane Cyber/Chess/Models/Rook.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/Cartoon Cat/fbx/cat_Eat.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/Cartoon Cat/fbx/cat_Eat.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/Cartoon Cat/fbx/cat_Idle.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/Cartoon Cat/fbx/cat_Idle.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/Cartoon Cat/fbx/cat_Jump.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/Cartoon Cat/fbx/cat_Jump.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/Cartoon Cat/fbx/cat_Sound.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/Cartoon Cat/fbx/cat_Sound.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/Cartoon Cat/fbx/cat_Walk.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/Cartoon Cat/fbx/cat_Walk.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/Drop/Soccer Ball/Meshes/Soccer Ball Mesh.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/Drop/Soccer Ball/Meshes/Soccer Ball Mesh.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/PQAssets/Query-Chan-SD/Models/SD_QUERY_01/Models/SD_QUERY_01.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/PQAssets/Query-Chan-SD/Models/SD_QUERY_01/Models/SD_QUERY_01.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/SimpleTownLite/_Models/pizza_shop.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/SimpleTownLite/_Models/pizza_shop.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/candle.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/candle.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/crab/Crab/Crab01.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/crab/Crab/Crab01.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/flag/flag_med.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/flag/flag_med.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/jar.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/jar.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/mail/fancyMailBox.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/mail/fancyMailBox.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/tape.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/tape.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/winston/Meshes/Winston.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/Animation/winston/Meshes/Winston.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_a.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_a.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_b.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_b.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_c.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_c.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_d.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_d.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_e.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_e.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_f.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_f.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_g.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_g.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_h.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_h.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_i.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_i.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_j.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_j.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_k.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_k.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_l.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_l.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_m.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_m.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_n.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_n.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_o.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_o.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_p.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_p.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_q.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_q.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_r.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_r.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_s.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_s.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_t.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_t.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_u.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_u.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_v.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_v.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_w.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_w.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_x.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_x.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_y.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_y.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_z.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/LetterModels/CenturyGothic_a-z_FBX/CenturyGothic_z.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/OldUIComponents/CenturyGothic_a.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/OldUIComponents/CenturyGothic_a.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/OldUIComponents/NGUI/Examples/Atlases/Fantasy/Fantasy Atlas.psd" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/OldUIComponents/NGUI/Examples/Atlases/Fantasy/Fantasy Atlas.psd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/OldUIComponents/NGUI/Examples/Atlases/Refractive/Refractive Atlas - Bump.psd" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/OldUIComponents/NGUI/Examples/Atlases/Refractive/Refractive Atlas - Bump.psd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/OldUIComponents/NGUI/Examples/Atlases/Refractive/Refractive Atlas - Masks.psd" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/OldUIComponents/NGUI/Examples/Atlases/Refractive/Refractive Atlas - Masks.psd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/OldUIComponents/NGUI/Examples/Atlases/Refractive/Refractive Atlas.psd" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/OldUIComponents/NGUI/Examples/Atlases/Refractive/Refractive Atlas.psd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/OldUIComponents/NGUI/Examples/Atlases/SciFi/SciFi Atlas.psd" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/OldUIComponents/NGUI/Examples/Atlases/SciFi/SciFi Atlas.psd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/OldUIComponents/NGUI/Examples/Models/Orc Armor/Orc Armor (Diffuse).psd" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/OldUIComponents/NGUI/Examples/Models/Orc Armor/Orc Armor (Diffuse).psd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/OldUIComponents/NGUI/Examples/Models/Orc/Orc Skin (Diffuse).psd" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/OldUIComponents/NGUI/Examples/Models/Orc/Orc Skin (Diffuse).psd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.PhonoBlocksAR_MarkerFinal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PhonoBlocksAR_MarkerFinal/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/Scenes/Activity.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/Scenes/Activity.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/Scripts/ColorCodeText_Shuvro/ColorText.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/Scripts/ColorCodeText_Shuvro/ColorText.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/Scripts/MarkerWith3DLetter/CharacterList.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/Scripts/MarkerWith3DLetter/CharacterList.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/Scripts/MarkerWith3DLetter/CustomTrackableBehaviour.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/Scripts/MarkerWith3DLetter/CustomTrackableBehaviour.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/Scripts/SessionsDirector.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/Scripts/SessionsDirector.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/Scripts/StudentActivityController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/Scripts/StudentActivityController.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/PhonoBlocks/Scripts/UserInputRouter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhonoBlocks/Scripts/UserInputRouter.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Standard Assets/Particles/Sources/fire3.psd" beforeDir="false" afterPath="$PROJECT_DIR$/Standard Assets/Particles/Sources/fire3.psd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Standard Assets/Particles/Sources/fire4.psd" beforeDir="false" afterPath="$PROJECT_DIR$/Standard Assets/Particles/Sources/fire4.psd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Standard Assets/Particles/Sources/smokepuff1.psd" beforeDir="false" afterPath="$PROJECT_DIR$/Standard Assets/Particles/Sources/smokepuff1.psd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Standard Assets/Particles/Sources/smoketest2.psd" beforeDir="false" afterPath="$PROJECT_DIR$/Standard Assets/Particles/Sources/smoketest2.psd" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -83,48 +21,266 @@
         <counts>
           <entry key="project.closed" value="6" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cs" value="5" />
+          <entry key="cs" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="5" />
+          <entry key="C#" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="289" />
+          <entry key="cs" value="408" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="289" />
+          <entry key="C#" value="408" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/PhonoBlocks/Scripts/ColorCodeText_Shuvro/ColorText.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
               <folding>
-                <marker date="1566945084679" expanded="false" signature="6:78" ph="..." />
-                <marker date="1566945084679" expanded="true" signature="118:538" ph="{...}" />
-                <marker date="1566945084679" expanded="true" signature="126:233" ph="/* Needed for applying color to the word history bar ... */" />
-                <marker date="1566945084679" expanded="true" signature="299:531" ph="{...}" />
-                <marker date="1566945084679" expanded="true" signature="379:501" ph="{...}" />
+                <marker date="1575454217566" expanded="false" signature="6:78" ph="..." />
+                <marker date="1575454217566" expanded="true" signature="118:621" ph="{...}" />
+                <marker date="1575454217566" expanded="true" signature="126:233" ph="/* Needed for applying color to the word history bar ... */" />
+                <marker date="1575454217566" expanded="true" signature="382:614" ph="{...}" />
+                <marker date="1575454217566" expanded="true" signature="462:584" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/PhonoBlocks/Scripts/SessionsDirector.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="121" column="44" selection-start-line="121" selection-start-column="44" selection-end-line="121" selection-end-column="44" />
+              <folding>
+                <marker date="1575864310285" expanded="false" signature="6:283" ph="..." />
+                <marker date="1575864310285" expanded="true" signature="285:425" ph="/* session manager needs to instantiate and set up the variables of the SessionParameters component if the mode i ... */" />
+                <marker date="1575864310285" expanded="true" signature="502:12407" ph="{...}" />
+                <marker date="1575864310285" expanded="true" signature="993:1072" ph="{...}" />
+                <marker date="1575864310285" expanded="true" signature="1011:1066" ph="{...}" />
+                <marker date="1575864310285" expanded="true" signature="1114:1195" ph="{...}" />
+                <marker date="1575864310285" expanded="true" signature="1132:1189" ph="{...}" />
+                <marker date="1575864310285" expanded="true" signature="1226:1341" ph="{...}" />
+                <marker date="1575864310285" expanded="true" signature="1244:1335" ph="{...}" />
+                <marker date="1575864310285" expanded="true" signature="1381:1499" ph="{...}" />
+                <marker date="1575864310285" expanded="true" signature="1399:1492" ph="{...}" />
+                <marker date="1575864310285" expanded="true" signature="1534:1651" ph="{...}" />
+                <marker date="1575864310285" expanded="true" signature="1553:1645" ph="{...}" />
+                <marker date="1575864310285" expanded="true" signature="1680:1795" ph="{...}" />
+                <marker date="1575864310285" expanded="true" signature="1699:1789" ph="{...}" />
+                <marker date="1575864310285" expanded="true" signature="1832:1949" ph="{...}" />
+                <marker date="1575864310285" expanded="true" signature="1850:1943" ph="{...}" />
+                <marker date="1575864310285" expanded="true" signature="1983:2089" ph="{...}" />
+                <marker date="1575864310285" expanded="true" signature="2001:2083" ph="{...}" />
+                <marker date="1575864310285" expanded="true" signature="2112:2227" ph="{...}" />
+                <marker date="1575864310285" expanded="true" signature="2130:2221" ph="{...}" />
+                <marker date="1575864310285" expanded="true" signature="2329:2383" ph="{...}" />
+                <marker date="1575864310285" expanded="true" signature="2419:2636" ph="{...}" />
+                <marker date="1575864310285" expanded="true" signature="2668:2741" ph="{...}" />
+                <marker date="1575864310285" expanded="true" signature="2946:3000" ph="{...}" />
+                <marker date="1575864310285" expanded="true" signature="3214:3301" ph="{...}" />
+                <marker date="1575864310285" expanded="true" signature="3232:3293" ph="{...}" />
+                <marker date="1575864310285" expanded="true" signature="3426:3511" ph="{...}" />
+                <marker date="1575864310285" expanded="true" signature="3444:3505" ph="{...}" />
+                <marker date="1575864310285" expanded="true" signature="3549:3636" ph="{...}" />
+                <marker date="1575864310285" expanded="true" signature="3567:3628" ph="{...}" />
+                <marker date="1575864310285" expanded="true" signature="3916:4008" ph="/* public GameObject studentNameInputField; ... */" />
+                <marker date="1575864310285" expanded="true" signature="4269:4328" ph="{...}" />
+                <marker date="1575864310285" expanded="true" signature="4387:4433" ph="{...}" />
+                <marker date="1575864310285" expanded="true" signature="4459:4525" ph="{...}" />
+                <marker date="1575864310285" expanded="true" signature="4543:4915" ph="{...}" />
+                <marker date="1575864310285" expanded="true" signature="4585:4681" ph="{...}" />
+                <marker date="1575864310285" expanded="true" signature="4713:4771" ph="{...}" />
+                <marker date="1575864310285" expanded="false" signature="4921:5537" ph="Derectory Initialization" />
+                <marker date="1575864310285" expanded="true" signature="5080:5346" ph="{...}" />
+                <marker date="1575864310285" expanded="true" signature="5400:5521" ph="{...}" />
+                <marker date="1575864310285" expanded="true" signature="5442:5506" ph="{...}" />
+                <marker date="1575864310285" expanded="true" signature="5610:6457" ph="{...}" />
+                <marker date="1575864310285" expanded="true" signature="5684:5791" ph="{...}" />
+                <marker date="1575864310285" expanded="true" signature="6031:6099" ph="{...}" />
+                <marker date="1575864310285" expanded="true" signature="6153:6246" ph="{...}" />
+                <marker date="1575864310285" expanded="true" signature="6259:6391" ph="{...}" />
+                <marker date="1575864310285" expanded="true" signature="6474:6860" ph="{...}" />
+                <marker date="1575864310285" expanded="true" signature="6906:7419" ph="{...}" />
+                <marker date="1575864310285" expanded="true" signature="7455:7802" ph="{...}" />
+                <marker date="1575864310285" expanded="true" signature="7605:7658" ph="{...}" />
+                <marker date="1575864310285" expanded="true" signature="7697:7750" ph="{...}" />
+                <marker date="1575864310285" expanded="true" signature="7964:8272" ph="{...}" />
+                <marker date="1575864310285" expanded="true" signature="8358:8565" ph="{...}" />
+                <marker date="1575864310285" expanded="true" signature="8591:8731" ph="{...}" />
+                <marker date="1575864310285" expanded="true" signature="8814:9088" ph="{...}" />
+                <marker date="1575864310285" expanded="true" signature="8939:9082" ph="{...}" />
+                <marker date="1575864310285" expanded="true" signature="9144:9397" ph="{...}" />
+                <marker date="1575864310285" expanded="true" signature="9304:9391" ph="/* Application.LoadLevel(&quot;Activity&quot;); ... */" />
+                <marker date="1575864310285" expanded="true" signature="9429:9972" ph="{...}" />
+                <marker date="1575864310285" expanded="true" signature="9770:9927" ph="{...}" />
+                <marker date="1575864310285" expanded="true" signature="10022:10265" ph="{...}" />
+                <marker date="1575864310285" expanded="true" signature="10303:11482" ph="{...}" />
+                <marker date="1575864310285" expanded="true" signature="10448:11407" ph="{...}" />
+                <marker date="1575864310285" expanded="true" signature="10743:11281" ph="{...}" />
+                <marker date="1575864310285" expanded="true" signature="10815:10960" ph="{...}" />
+                <marker date="1575864310285" expanded="true" signature="10999:11133" ph="{...}" />
+                <marker date="1575864310285" expanded="true" signature="11298:11397" ph="{...}" />
+                <marker date="1575864310285" expanded="true" signature="11408:11475" ph="/* else ... */" />
+                <marker date="1575864310285" expanded="true" signature="11536:11886" ph="{...}" />
+                <marker date="1575864310285" expanded="true" signature="11672:11851" ph="{...}" />
+                <marker date="1575864310285" expanded="true" signature="11969:12399" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/PhonoBlocks/Scripts/UserInputRouter.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="612">
+              <caret line="225" column="26" selection-start-line="225" selection-start-column="26" selection-end-line="225" selection-end-column="26" />
+              <folding>
+                <marker date="1575865047354" expanded="false" signature="6:137" ph="..." />
+                <marker date="1575865047354" expanded="true" signature="139:244" ph="/* to do... a more elegant way of handling different modes ... */" />
+                <marker date="1575865047354" expanded="true" signature="344:13781" ph="{...}" />
+                <marker date="1575865047354" expanded="true" signature="820:1253" ph="/* the first slot in the physical prototype does not function. ... */" />
+                <marker date="1575865047354" expanded="true" signature="1258:1371" ph="/* public static int NumOfActiveAndUseableArduinoControlledLetters(){ ... */" />
+                <marker date="1575865047354" expanded="true" signature="2811:2911" ph="{...}" />
+                <marker date="1575865047354" expanded="true" signature="2937:2968" ph="{...}" />
+                <marker date="1575865047354" expanded="true" signature="3021:5444" ph="{...}" />
+                <marker date="1575865047354" expanded="true" signature="3236:3352" ph="{...}" />
+                <marker date="1575865047354" expanded="true" signature="3365:3786" ph="{...}" />
+                <marker date="1575865047354" expanded="true" signature="4553:5420" ph="{...}" />
+                <marker date="1575865047354" expanded="true" signature="4723:5251" ph="{...}" />
+                <marker date="1575865047354" expanded="true" signature="5268:5410" ph="{...}" />
+                <marker date="1575865047354" expanded="true" signature="5476:5515" ph="{...}" />
+                <marker date="1575865047354" expanded="true" signature="5548:5588" ph="{...}" />
+                <marker date="1575865047354" expanded="true" signature="5632:5775" ph="{...}" />
+                <marker date="1575865047354" expanded="true" signature="5806:5896" ph="{...}" />
+                <marker date="1575865047354" expanded="true" signature="5927:6086" ph="{...}" />
+                <marker date="1575865047354" expanded="true" signature="6177:6290" ph="{...}" />
+                <marker date="1575865047354" expanded="true" signature="6329:6390" ph="{...}" />
+                <marker date="1575865047354" expanded="true" signature="6437:7061" ph="{...}" />
+                <marker date="1575865047354" expanded="true" signature="6512:6716" ph="/* arduinoLetterController.UpdateDefaultColoursAndSoundsOfLetters(true, false, -1); ... */" />
+                <marker date="1575865047354" expanded="true" signature="6810:7055" ph="/* arduinoLetterController.UpdateDefaultColoursAndSoundsOfLetters(true, false, -1); ... */" />
+                <marker date="1575865047354" expanded="true" signature="7171:7651" ph="{...}" />
+                <marker date="1575865047354" expanded="true" signature="7178:7375" ph="/* StringBuilder path = new StringBuilder(RESOURCES_WORD_IMAGE_PATH); ... */" />
+                <marker date="1575865047354" expanded="true" signature="7482:7645" ph="{...}" />
+                <marker date="1575865047354" expanded="true" signature="7686:7824" ph="{...}" />
+                <marker date="1575865047354" expanded="true" signature="7751:7818" ph="{...}" />
+                <marker date="1575865047354" expanded="true" signature="7860:7995" ph="{...}" />
+                <marker date="1575865047354" expanded="true" signature="8046:8210" ph="{...}" />
+                <marker date="1575865047354" expanded="true" signature="8111:8204" ph="{...}" />
+                <marker date="1575865047354" expanded="true" signature="8285:8875" ph="{...}" />
+                <marker date="1575865047354" expanded="true" signature="8318:8817" ph="{...}" />
+                <marker date="1575865047354" expanded="true" signature="8450:8525" ph="{...}" />
+                <marker date="1575865047354" expanded="true" signature="8542:8807" ph="{...}" />
+                <marker date="1575865047354" expanded="true" signature="8704:8791" ph="{...}" />
+                <marker date="1575865047354" expanded="true" signature="8945:9103" ph="{...}" />
+                <marker date="1575865047354" expanded="true" signature="9139:9201" ph="{...}" />
+                <marker date="1575865047354" expanded="true" signature="9382:9447" ph="{...}" />
+                <marker date="1575865047354" expanded="true" signature="9704:10158" ph="{...}" />
+                <marker date="1575865047354" expanded="true" signature="9809:10045" ph="{...}" />
+                <marker date="1575865047354" expanded="true" signature="10165:10316" ph="/* called by the button that treats all words as selected and by the selection/deselection swipe action received  ... */" />
+                <marker date="1575865047354" expanded="true" signature="10376:13129" ph="{...}" />
+                <marker date="1575865047354" expanded="true" signature="10468:12029" ph="{...}" />
+                <marker date="1575865047354" expanded="true" signature="10517:11493" ph="{...}" />
+                <marker date="1575865047354" expanded="true" signature="10699:11479" ph="{...}" />
+                <marker date="1575865047354" expanded="true" signature="10834:11167" ph="{...}" />
+                <marker date="1575865047354" expanded="true" signature="11192:11461" ph="{...}" />
+                <marker date="1575865047354" expanded="true" signature="11510:11988" ph="{...}" />
+                <marker date="1575865047354" expanded="true" signature="12117:12626" ph="{...}" />
+                <marker date="1575865047354" expanded="true" signature="12140:12240" ph="/* arduinoLetterController.ReplaceEachLetterWithBlank(); ... */" />
+                <marker date="1575865047354" expanded="true" signature="12670:12729" ph="{...}" />
+                <marker date="1575865047354" expanded="true" signature="12771:13123" ph="{...}" />
+                <marker date="1575865047354" expanded="true" signature="12897:13097" ph="{...}" />
+                <marker date="1575865047354" expanded="true" signature="13008:13083" ph="{...}" />
+                <marker date="1575865047354" expanded="true" signature="13265:13398" ph="{...}" />
+                <marker date="1575865047354" expanded="true" signature="13441:13507" ph="{...}" />
+                <marker date="1575865047354" expanded="true" signature="13556:13622" ph="{...}" />
+                <marker date="1575865047354" expanded="true" signature="13689:13779" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/PhonoBlocks/Scripts/StudentActivityController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="403" column="11" selection-start-line="403" selection-start-column="11" selection-end-line="403" selection-end-column="11" />
+              <folding>
+                <marker date="1575864813550" expanded="false" signature="6:111" ph="..." />
+                <marker date="1575864813550" expanded="true" signature="175:12039" ph="{...}" />
+                <marker date="1575864813550" expanded="true" signature="193:288" ph="{...}" />
+                <marker date="1575864813550" expanded="true" signature="579:757" ph="{...}" />
+                <marker date="1575864813550" expanded="true" signature="612:661" ph="{...}" />
+                <marker date="1575864813550" expanded="true" signature="693:751" ph="{...}" />
+                <marker date="1575864813550" expanded="true" signature="804:872" ph="{...}" />
+                <marker date="1575864813550" expanded="true" signature="1196:1464" ph="{...}" />
+                <marker date="1575864813550" expanded="true" signature="1214:1457" ph="{...}" />
+                <marker date="1575864813550" expanded="true" signature="1489:1574" ph="{...}" />
+                <marker date="1575864813550" expanded="true" signature="1674:2609" ph="{...}" />
+                <marker date="1575864813550" expanded="true" signature="2645:4184" ph="{...}" />
+                <marker date="1575864813550" expanded="true" signature="3683:3884" ph="/* In case the initial state is already correct (...which happens when the user needs to build the word &quot;from scr ... */" />
+                <marker date="1575864813550" expanded="true" signature="4220:4281" ph="{...}" />
+                <marker date="1575864813550" expanded="true" signature="4315:4457" ph="{...}" />
+                <marker date="1575864813550" expanded="true" signature="4385:4451" ph="{...}" />
+                <marker date="1575864813550" expanded="true" signature="4518:4894" ph="{...}" />
+                <marker date="1575864813550" expanded="true" signature="4589:4866" ph="{...}" />
+                <marker date="1575864813550" expanded="true" signature="4642:4758" ph="{...}" />
+                <marker date="1575864813550" expanded="true" signature="4973:5384" ph="{...}" />
+                <marker date="1575864813550" expanded="true" signature="5030:5163" ph="{...}" />
+                <marker date="1575864813550" expanded="true" signature="5210:5377" ph="{...}" />
+                <marker date="1575864813550" expanded="true" signature="5298:5366" ph="{...}" />
+                <marker date="1575864813550" expanded="true" signature="5416:5795" ph="{...}" />
+                <marker date="1575864813550" expanded="true" signature="5481:5723" ph="{...}" />
+                <marker date="1575864813550" expanded="true" signature="5736:5788" ph="{...}" />
+                <marker date="1575864813550" expanded="true" signature="5829:6157" ph="{...}" />
+                <marker date="1575864813550" expanded="true" signature="6193:6881" ph="{...}" />
+                <marker date="1575864813550" expanded="true" signature="6242:6737" ph="{...}" />
+                <marker date="1575864813550" expanded="true" signature="6599:6727" ph="/* arduinoLetterController.UpdateDefaultColoursAndSoundsOfLetters(true, false, -1); ... */" />
+                <marker date="1575864813550" expanded="true" signature="6750:6873" ph="{...}" />
+                <marker date="1575864813550" expanded="true" signature="6950:8945" ph="{...}" />
+                <marker date="1575864813550" expanded="true" signature="6965:7023" ph="/* if (LetterIsActuallyNew(letter, atPosition)) ... */" />
+                <marker date="1575864813550" expanded="true" signature="7269:7465" ph="{...}" />
+                <marker date="1575864813550" expanded="true" signature="7725:7946" ph="/* print(currProblem.TargetWord(true) + &quot; Input = &quot; + letter + &quot; at &quot; + atPosition); ... */" />
+                <marker date="1575864813550" expanded="true" signature="8011:8927" ph="{...}" />
+                <marker date="1575864813550" expanded="true" signature="8139:8490" ph="{...}" />
+                <marker date="1575864813550" expanded="true" signature="8226:8338" ph="{...}" />
+                <marker date="1575864813550" expanded="true" signature="8513:8913" ph="{...}" />
+                <marker date="1575864813550" expanded="true" signature="8645:8754" ph="{...}" />
+                <marker date="1575864813550" expanded="true" signature="8951:9301" ph="/// Letters the is actually new. ... " />
+                <marker date="1575864813550" expanded="true" signature="9359:9434" ph="{...}" />
+                <marker date="1575864813550" expanded="true" signature="9503:9588" ph="{...}" />
+                <marker date="1575864813550" expanded="true" signature="9637:10474" ph="{...}" />
+                <marker date="1575864813550" expanded="true" signature="9846:10396" ph="{...}" />
+                <marker date="1575864813550" expanded="true" signature="9869:10058" ph="/* TO DO!!! then if this was the first time that student submitted an answer (get the data from the current stude ... */" />
+                <marker date="1575864813550" expanded="true" signature="10409:10467" ph="{...}" />
+                <marker date="1575864813550" expanded="true" signature="10518:10862" ph="{...}" />
+                <marker date="1575864813550" expanded="true" signature="10636:10816" ph="{...}" />
+                <marker date="1575864813550" expanded="true" signature="10936:11716" ph="{...}" />
+                <marker date="1575864813550" expanded="true" signature="11040:11142" ph="/* userInputRouter.AddCurrentWordToHistory(false); ... */" />
+                <marker date="1575864813550" expanded="true" signature="11327:11452" ph="{...}" />
+                <marker date="1575864813550" expanded="true" signature="11778:11844" ph="{...}" />
+                <marker date="1575864813550" expanded="true" signature="11883:12036" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -238,43 +394,20 @@
         <entry file="file://$PROJECT_DIR$/Assets/PhonoBlocks/Scripts/MarkerWith3DLetter/CharacterList.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="2685">
-              <caret line="179" column="76" selection-start-line="179" selection-start-column="76" selection-end-line="179" selection-end-column="76" />
+              <caret line="189" column="76" selection-start-line="189" selection-start-column="76" selection-end-line="189" selection-end-column="76" />
               <folding>
-                <marker date="1566264375392" expanded="true" signature="6:112" ph="..." />
-                <marker date="1566264375392" expanded="true" signature="142:5121" ph="{...}" />
-                <marker date="1566264375392" expanded="true" signature="218:976" ph="{...}" />
-                <marker date="1566264375392" expanded="true" signature="416:771" ph="{...}" />
-                <marker date="1566264375392" expanded="true" signature="476:761" ph="{...}" />
-                <marker date="1566264375392" expanded="true" signature="523:594" ph="{...}" />
-                <marker date="1566264375392" expanded="true" signature="635:747" ph="{...}" />
-                <marker date="1566264375392" expanded="true" signature="845:970" ph="{...}" />
-                <marker date="1566264375392" expanded="true" signature="1028:5113" ph="{...}" />
-                <marker date="1566264375392" expanded="true" signature="1119:1368" ph="{...}" />
-                <marker date="1566264375392" expanded="true" signature="1145:1357" ph="{...}" />
-                <marker date="1566264375392" expanded="true" signature="1197:1310" ph="{...}" />
-                <marker date="1566264375392" expanded="true" signature="1698:1861" ph="{...}" />
-                <marker date="1566264375392" expanded="true" signature="1899:2231" ph="{...}" />
-                <marker date="1566264375392" expanded="true" signature="1947:2221" ph="{...}" />
-                <marker date="1566264375392" expanded="true" signature="2126:2207" ph="{...}" />
-                <marker date="1566264375392" expanded="true" signature="2311:3005" ph="{...}" />
-                <marker date="1566264375392" expanded="true" signature="2347:2851" ph="{...}" />
-                <marker date="1566264375392" expanded="true" signature="2564:2820" ph="{...}" />
-                <marker date="1566264375392" expanded="true" signature="2645:2802" ph="{...}" />
-                <marker date="1566264375392" expanded="true" signature="2868:2995" ph="{...}" />
-                <marker date="1566264375392" expanded="true" signature="3054:3200" ph="{...}" />
-                <marker date="1566264375392" expanded="true" signature="3239:3849" ph="{...}" />
-                <marker date="1566264375392" expanded="true" signature="3287:3351" ph="{...}" />
-                <marker date="1566264375392" expanded="true" signature="3499:3632" ph="{...}" />
-                <marker date="1566264375392" expanded="true" signature="3634:3826" ph="/* for (int j = sortedList.Count; j &lt; 6; j++) ... */" />
-                <marker date="1566264375392" expanded="true" signature="3902:4154" ph="{...}" />
-                <marker date="1566264375392" expanded="true" signature="4204:4266" ph="{...}" />
-                <marker date="1566264375392" expanded="true" signature="4298:4545" ph="{...}" />
-                <marker date="1566264375392" expanded="true" signature="4363:4508" ph="{...}" />
-                <marker date="1566264375392" expanded="true" signature="4425:4494" ph="{...}" />
-                <marker date="1566264375392" expanded="true" signature="4578:4737" ph="{...}" />
-                <marker date="1566264375392" expanded="true" signature="4804:5107" ph="{...}" />
-                <marker date="1566264375392" expanded="true" signature="4871:4975" ph="{...}" />
-                <marker date="1566264375392" expanded="true" signature="4992:5097" ph="{...}" />
+                <marker date="1575454402490" expanded="true" signature="6:112" ph="..." />
+                <marker date="1575454402490" expanded="true" signature="142:5921" ph="{...}" />
+                <marker date="1575454402490" expanded="true" signature="218:976" ph="{...}" />
+                <marker date="1575454402490" expanded="true" signature="416:771" ph="{...}" />
+                <marker date="1575454402490" expanded="true" signature="476:761" ph="{...}" />
+                <marker date="1575454402490" expanded="true" signature="523:594" ph="{...}" />
+                <marker date="1575454402490" expanded="true" signature="635:747" ph="{...}" />
+                <marker date="1575454402490" expanded="true" signature="845:970" ph="{...}" />
+                <marker date="1575454402490" expanded="true" signature="1028:5913" ph="{...}" />
+                <marker date="1575454402490" expanded="true" signature="5604:5907" ph="{...}" />
+                <marker date="1575454402490" expanded="true" signature="5671:5775" ph="{...}" />
+                <marker date="1575454402490" expanded="true" signature="5792:5897" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -283,35 +416,24 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/PhonoBlocks/Scripts/MarkerWith3DLetter/CustomTrackableBehaviour.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2085">
-              <caret line="141" column="61" selection-start-line="141" selection-start-column="61" selection-end-line="141" selection-end-column="61" />
+            <state relative-caret-position="1950">
+              <caret line="130" column="61" selection-start-line="130" selection-start-column="61" selection-end-line="130" selection-end-column="61" />
               <folding>
-                <marker date="1566265010234" expanded="true" signature="0:366" ph="/* ============================================================================== ... */" />
-                <marker date="1566265010234" expanded="false" signature="374:427" ph="..." />
-                <marker date="1566265010234" expanded="true" signature="430:722" ph="/// A custom handler that implements the ITrackableEventHandler interface. ... " />
-                <marker date="1566265010234" expanded="true" signature="800:5037" ph="{...}" />
-                <marker date="1566265010234" expanded="true" signature="807:1114" ph="PROTECTED_MEMBER_VARIABLES" />
-                <marker date="1566265010234" expanded="true" signature="1120:1583" ph="UNITY_MONOBEHAVIOUR_METHODS" />
-                <marker date="1566265010234" expanded="true" signature="1191:1380" ph="{...}" />
-                <marker date="1566265010234" expanded="true" signature="1420:1536" ph="{...}" />
-                <marker date="1566265010234" expanded="true" signature="1589:2929" ph="PUBLIC_METHODS" />
-                <marker date="1566265010234" expanded="true" signature="1617:1767" ph="///     Implementation of the ITrackableEventHandler function called when the ... " />
-                <marker date="1566265010234" expanded="true" signature="1903:2895" ph="{...}" />
-                <marker date="1566265010234" expanded="true" signature="2180:2317" ph="{...}" />
-                <marker date="1566265010234" expanded="true" signature="2454:2589" ph="{...}" />
-                <marker date="1566265010234" expanded="true" signature="2602:2889" ph="{...}" />
-                <marker date="1566265010234" expanded="true" signature="2625:2836" ph="/* For combo of previousStatus=UNKNOWN + newStatus=UNKNOWN|NOT_FOUND ... */" />
-                <marker date="1566265010234" expanded="true" signature="2935:5035" ph="PROTECTED_METHODS" />
-                <marker date="1566265010234" expanded="true" signature="3015:4045" ph="{...}" />
-                <marker date="1566265010234" expanded="true" signature="3857:4039" ph="/* rendererComponents[0].material.color = ArduinoLetterController.Instance.currentLetterColor[CharacterList.Insta ... */" />
-                <marker date="1566265010234" expanded="true" signature="4091:4993" ph="{...}" />
-                <marker date="1566265010234" expanded="true" signature="4858:4986" ph="{...}" />
+                <marker date="1575454509786" expanded="true" signature="4244:4436" ph="{...}" />
+                <marker date="1575454509786" expanded="true" signature="4244:4478" ph="PROTECTED_METHODS" />
+                <marker date="1575454509786" expanded="true" signature="4244:4480" ph="{...}" />
+                <marker date="1575454509786" expanded="true" signature="4301:4429" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>requestc</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -320,19 +442,23 @@
     <setting file="file://$PROJECT_DIR$/Assets/PhonoBlocks/Scripts/ColorCodeText_Shuvro/ColorText.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/PhonoBlocks/Scripts/ArduinoLetterController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/PhonoBlocks/Scripts/UserInputRouter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/PhonoBlocks/Scripts/SessionsDirector.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/PhonoBlocks/Scripts/MarkerWith3DLetter/CustomTrackableBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/PhonoBlocks/Scripts/MarkerWith3DLetter/CharacterList.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Vuforia/Scripts/DefaultInitializationErrorHandler.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/PhonoBlocks/Scripts/LetterGridController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Vuforia/Scripts/DefaultTrackableEventHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/PhonoBlocks/Scripts/StudentActivityController.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/PhonoBlocks/Scripts/MarkerWith3DLetter/CharacterList.cs" />
         <option value="$PROJECT_DIR$/Assets/PhonoBlocks/Scripts/MarkerWith3DLetter/CustomTrackableBehaviour.cs" />
-        <option value="$PROJECT_DIR$/Assets/PhonoBlocks/Scripts/UserInputRouter.cs" />
         <option value="$PROJECT_DIR$/Assets/PhonoBlocks/Scripts/ColorCodeText_Shuvro/ColorText.cs" />
+        <option value="$PROJECT_DIR$/Assets/PhonoBlocks/Scripts/SessionsDirector.cs" />
+        <option value="$PROJECT_DIR$/Assets/PhonoBlocks/Scripts/StudentActivityController.cs" />
+        <option value="$PROJECT_DIR$/Assets/PhonoBlocks/Scripts/UserInputRouter.cs" />
       </list>
     </option>
   </component>
@@ -342,22 +468,21 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="6" />
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="1641" />
-    <option name="height" value="991" />
+    <option name="width" value="1680" />
+    <option name="height" value="990" />
   </component>
   <component name="ProjectView">
     <navigator currentView="UnityExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="UnityExplorer">
-        <option name="show-hidden-items" value="false" />
-      </pane>
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="UnityExplorer">
+        <option name="show-hidden-items" value="false" />
       </pane>
       <pane id="FileSystemExplorer" />
     </panes>
@@ -411,11 +536,12 @@
       <workItem from="1566945007427" duration="91000" />
       <workItem from="1573273551203" duration="277000" />
       <workItem from="1574899695036" duration="130000" />
+      <workItem from="1575859949486" duration="1197000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1602000" />
+    <option name="totallyTimeSpent" value="2799000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -427,10 +553,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="991" extended-state="6" />
+    <frame x="0" y="23" width="1680" height="990" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1953602" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1978022" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -474,12 +600,56 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/PhonoBlocks/Scripts/ColorCodeText_Shuvro/ColorText.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <marker date="1575454217566" expanded="false" signature="6:78" ph="..." />
+            <marker date="1575454217566" expanded="true" signature="118:621" ph="{...}" />
+            <marker date="1575454217566" expanded="true" signature="126:233" ph="/* Needed for applying color to the word history bar ... */" />
+            <marker date="1575454217566" expanded="true" signature="382:614" ph="{...}" />
+            <marker date="1575454217566" expanded="true" signature="462:584" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Vuforia/Scripts/DefaultInitializationErrorHandler.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Vuforia/Scripts/DefaultTrackableEventHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <marker date="1552465233451" expanded="true" signature="0:366" ph="/* ============================================================================== ... */" />
+            <marker date="1552465233451" expanded="true" signature="374:401" ph="..." />
+            <marker date="1552465233451" expanded="true" signature="404:696" ph="/// A custom handler that implements the ITrackableEventHandler interface. ... " />
+            <marker date="1552465233451" expanded="true" signature="778:4201" ph="{...}" />
+            <marker date="1552465233451" expanded="false" signature="785:1031" ph="PROTECTED_MEMBER_VARIABLES" />
+            <marker date="1552465233451" expanded="false" signature="1037:1491" ph="UNITY_MONOBEHAVIOUR_METHODS" />
+            <marker date="1552465233451" expanded="true" signature="1108:1288" ph="{...}" />
+            <marker date="1552465233451" expanded="true" signature="1328:1444" ph="{...}" />
+            <marker date="1552465233451" expanded="false" signature="1497:2820" ph="PUBLIC_METHODS" />
+            <marker date="1552465233451" expanded="true" signature="1525:1675" ph="///     Implementation of the ITrackableEventHandler function called when the ... " />
+            <marker date="1552465233451" expanded="true" signature="1811:2786" ph="{...}" />
+            <marker date="1552465233451" expanded="true" signature="2088:2223" ph="{...}" />
+            <marker date="1552465233451" expanded="true" signature="2360:2493" ph="{...}" />
+            <marker date="1552465233451" expanded="true" signature="2506:2780" ph="{...}" />
+            <marker date="1552465233451" expanded="true" signature="2529:2740" ph="/* For combo of previousStatus=UNKNOWN + newStatus=UNKNOWN|NOT_FOUND ... */" />
+            <marker date="1552465233451" expanded="false" signature="2826:4199" ph="PROTECTED_METHODS" />
+            <marker date="1552465233451" expanded="true" signature="2897:3500" ph="{...}" />
+            <marker date="1552465233451" expanded="true" signature="3546:4162" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/PhonoBlocks/Scripts/ArduinoLetterController.cs">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/PhonoBlocks/Scripts/LetterGridController.cs">
       <provider selected="true" editor-type-id="text-editor">
@@ -543,183 +713,245 @@
     <entry file="file://$PROJECT_DIR$/Assets/PhonoBlocks/Scripts/MarkerWith3DLetter/CharacterList.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2685">
-          <caret line="179" column="76" selection-start-line="179" selection-start-column="76" selection-end-line="179" selection-end-column="76" />
+          <caret line="189" column="76" selection-start-line="189" selection-start-column="76" selection-end-line="189" selection-end-column="76" />
           <folding>
-            <marker date="1566264375392" expanded="true" signature="6:112" ph="..." />
-            <marker date="1566264375392" expanded="true" signature="142:5121" ph="{...}" />
-            <marker date="1566264375392" expanded="true" signature="218:976" ph="{...}" />
-            <marker date="1566264375392" expanded="true" signature="416:771" ph="{...}" />
-            <marker date="1566264375392" expanded="true" signature="476:761" ph="{...}" />
-            <marker date="1566264375392" expanded="true" signature="523:594" ph="{...}" />
-            <marker date="1566264375392" expanded="true" signature="635:747" ph="{...}" />
-            <marker date="1566264375392" expanded="true" signature="845:970" ph="{...}" />
-            <marker date="1566264375392" expanded="true" signature="1028:5113" ph="{...}" />
-            <marker date="1566264375392" expanded="true" signature="1119:1368" ph="{...}" />
-            <marker date="1566264375392" expanded="true" signature="1145:1357" ph="{...}" />
-            <marker date="1566264375392" expanded="true" signature="1197:1310" ph="{...}" />
-            <marker date="1566264375392" expanded="true" signature="1698:1861" ph="{...}" />
-            <marker date="1566264375392" expanded="true" signature="1899:2231" ph="{...}" />
-            <marker date="1566264375392" expanded="true" signature="1947:2221" ph="{...}" />
-            <marker date="1566264375392" expanded="true" signature="2126:2207" ph="{...}" />
-            <marker date="1566264375392" expanded="true" signature="2311:3005" ph="{...}" />
-            <marker date="1566264375392" expanded="true" signature="2347:2851" ph="{...}" />
-            <marker date="1566264375392" expanded="true" signature="2564:2820" ph="{...}" />
-            <marker date="1566264375392" expanded="true" signature="2645:2802" ph="{...}" />
-            <marker date="1566264375392" expanded="true" signature="2868:2995" ph="{...}" />
-            <marker date="1566264375392" expanded="true" signature="3054:3200" ph="{...}" />
-            <marker date="1566264375392" expanded="true" signature="3239:3849" ph="{...}" />
-            <marker date="1566264375392" expanded="true" signature="3287:3351" ph="{...}" />
-            <marker date="1566264375392" expanded="true" signature="3499:3632" ph="{...}" />
-            <marker date="1566264375392" expanded="true" signature="3634:3826" ph="/* for (int j = sortedList.Count; j &lt; 6; j++) ... */" />
-            <marker date="1566264375392" expanded="true" signature="3902:4154" ph="{...}" />
-            <marker date="1566264375392" expanded="true" signature="4204:4266" ph="{...}" />
-            <marker date="1566264375392" expanded="true" signature="4298:4545" ph="{...}" />
-            <marker date="1566264375392" expanded="true" signature="4363:4508" ph="{...}" />
-            <marker date="1566264375392" expanded="true" signature="4425:4494" ph="{...}" />
-            <marker date="1566264375392" expanded="true" signature="4578:4737" ph="{...}" />
-            <marker date="1566264375392" expanded="true" signature="4804:5107" ph="{...}" />
-            <marker date="1566264375392" expanded="true" signature="4871:4975" ph="{...}" />
-            <marker date="1566264375392" expanded="true" signature="4992:5097" ph="{...}" />
+            <marker date="1575454402490" expanded="true" signature="6:112" ph="..." />
+            <marker date="1575454402490" expanded="true" signature="142:5921" ph="{...}" />
+            <marker date="1575454402490" expanded="true" signature="218:976" ph="{...}" />
+            <marker date="1575454402490" expanded="true" signature="416:771" ph="{...}" />
+            <marker date="1575454402490" expanded="true" signature="476:761" ph="{...}" />
+            <marker date="1575454402490" expanded="true" signature="523:594" ph="{...}" />
+            <marker date="1575454402490" expanded="true" signature="635:747" ph="{...}" />
+            <marker date="1575454402490" expanded="true" signature="845:970" ph="{...}" />
+            <marker date="1575454402490" expanded="true" signature="1028:5913" ph="{...}" />
+            <marker date="1575454402490" expanded="true" signature="5604:5907" ph="{...}" />
+            <marker date="1575454402490" expanded="true" signature="5671:5775" ph="{...}" />
+            <marker date="1575454402490" expanded="true" signature="5792:5897" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/PhonoBlocks/Scripts/MarkerWith3DLetter/CustomTrackableBehaviour.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2085">
-          <caret line="141" column="61" selection-start-line="141" selection-start-column="61" selection-end-line="141" selection-end-column="61" />
+        <state relative-caret-position="1950">
+          <caret line="130" column="61" selection-start-line="130" selection-start-column="61" selection-end-line="130" selection-end-column="61" />
           <folding>
-            <marker date="1566265010234" expanded="true" signature="0:366" ph="/* ============================================================================== ... */" />
-            <marker date="1566265010234" expanded="false" signature="374:427" ph="..." />
-            <marker date="1566265010234" expanded="true" signature="430:722" ph="/// A custom handler that implements the ITrackableEventHandler interface. ... " />
-            <marker date="1566265010234" expanded="true" signature="800:5037" ph="{...}" />
-            <marker date="1566265010234" expanded="true" signature="807:1114" ph="PROTECTED_MEMBER_VARIABLES" />
-            <marker date="1566265010234" expanded="true" signature="1120:1583" ph="UNITY_MONOBEHAVIOUR_METHODS" />
-            <marker date="1566265010234" expanded="true" signature="1191:1380" ph="{...}" />
-            <marker date="1566265010234" expanded="true" signature="1420:1536" ph="{...}" />
-            <marker date="1566265010234" expanded="true" signature="1589:2929" ph="PUBLIC_METHODS" />
-            <marker date="1566265010234" expanded="true" signature="1617:1767" ph="///     Implementation of the ITrackableEventHandler function called when the ... " />
-            <marker date="1566265010234" expanded="true" signature="1903:2895" ph="{...}" />
-            <marker date="1566265010234" expanded="true" signature="2180:2317" ph="{...}" />
-            <marker date="1566265010234" expanded="true" signature="2454:2589" ph="{...}" />
-            <marker date="1566265010234" expanded="true" signature="2602:2889" ph="{...}" />
-            <marker date="1566265010234" expanded="true" signature="2625:2836" ph="/* For combo of previousStatus=UNKNOWN + newStatus=UNKNOWN|NOT_FOUND ... */" />
-            <marker date="1566265010234" expanded="true" signature="2935:5035" ph="PROTECTED_METHODS" />
-            <marker date="1566265010234" expanded="true" signature="3015:4045" ph="{...}" />
-            <marker date="1566265010234" expanded="true" signature="3857:4039" ph="/* rendererComponents[0].material.color = ArduinoLetterController.Instance.currentLetterColor[CharacterList.Insta ... */" />
-            <marker date="1566265010234" expanded="true" signature="4091:4993" ph="{...}" />
-            <marker date="1566265010234" expanded="true" signature="4858:4986" ph="{...}" />
+            <marker date="1575454509786" expanded="true" signature="4244:4436" ph="{...}" />
+            <marker date="1575454509786" expanded="true" signature="4244:4478" ph="PROTECTED_METHODS" />
+            <marker date="1575454509786" expanded="true" signature="4244:4480" ph="{...}" />
+            <marker date="1575454509786" expanded="true" signature="4301:4429" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Vuforia/Scripts/DefaultTrackableEventHandler.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/PhonoBlocks/Scripts/SessionsDirector.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="350">
+          <caret line="121" column="44" selection-start-line="121" selection-start-column="44" selection-end-line="121" selection-end-column="44" />
           <folding>
-            <marker date="1552465233451" expanded="true" signature="0:366" ph="/* ============================================================================== ... */" />
-            <marker date="1552465233451" expanded="true" signature="374:401" ph="..." />
-            <marker date="1552465233451" expanded="true" signature="404:696" ph="/// A custom handler that implements the ITrackableEventHandler interface. ... " />
-            <marker date="1552465233451" expanded="true" signature="778:4201" ph="{...}" />
-            <marker date="1552465233451" expanded="false" signature="785:1031" ph="PROTECTED_MEMBER_VARIABLES" />
-            <marker date="1552465233451" expanded="false" signature="1037:1491" ph="UNITY_MONOBEHAVIOUR_METHODS" />
-            <marker date="1552465233451" expanded="true" signature="1108:1288" ph="{...}" />
-            <marker date="1552465233451" expanded="true" signature="1328:1444" ph="{...}" />
-            <marker date="1552465233451" expanded="false" signature="1497:2820" ph="PUBLIC_METHODS" />
-            <marker date="1552465233451" expanded="true" signature="1525:1675" ph="///     Implementation of the ITrackableEventHandler function called when the ... " />
-            <marker date="1552465233451" expanded="true" signature="1811:2786" ph="{...}" />
-            <marker date="1552465233451" expanded="true" signature="2088:2223" ph="{...}" />
-            <marker date="1552465233451" expanded="true" signature="2360:2493" ph="{...}" />
-            <marker date="1552465233451" expanded="true" signature="2506:2780" ph="{...}" />
-            <marker date="1552465233451" expanded="true" signature="2529:2740" ph="/* For combo of previousStatus=UNKNOWN + newStatus=UNKNOWN|NOT_FOUND ... */" />
-            <marker date="1552465233451" expanded="false" signature="2826:4199" ph="PROTECTED_METHODS" />
-            <marker date="1552465233451" expanded="true" signature="2897:3500" ph="{...}" />
-            <marker date="1552465233451" expanded="true" signature="3546:4162" ph="{...}" />
+            <marker date="1575864310285" expanded="false" signature="6:283" ph="..." />
+            <marker date="1575864310285" expanded="true" signature="285:425" ph="/* session manager needs to instantiate and set up the variables of the SessionParameters component if the mode i ... */" />
+            <marker date="1575864310285" expanded="true" signature="502:12407" ph="{...}" />
+            <marker date="1575864310285" expanded="true" signature="993:1072" ph="{...}" />
+            <marker date="1575864310285" expanded="true" signature="1011:1066" ph="{...}" />
+            <marker date="1575864310285" expanded="true" signature="1114:1195" ph="{...}" />
+            <marker date="1575864310285" expanded="true" signature="1132:1189" ph="{...}" />
+            <marker date="1575864310285" expanded="true" signature="1226:1341" ph="{...}" />
+            <marker date="1575864310285" expanded="true" signature="1244:1335" ph="{...}" />
+            <marker date="1575864310285" expanded="true" signature="1381:1499" ph="{...}" />
+            <marker date="1575864310285" expanded="true" signature="1399:1492" ph="{...}" />
+            <marker date="1575864310285" expanded="true" signature="1534:1651" ph="{...}" />
+            <marker date="1575864310285" expanded="true" signature="1553:1645" ph="{...}" />
+            <marker date="1575864310285" expanded="true" signature="1680:1795" ph="{...}" />
+            <marker date="1575864310285" expanded="true" signature="1699:1789" ph="{...}" />
+            <marker date="1575864310285" expanded="true" signature="1832:1949" ph="{...}" />
+            <marker date="1575864310285" expanded="true" signature="1850:1943" ph="{...}" />
+            <marker date="1575864310285" expanded="true" signature="1983:2089" ph="{...}" />
+            <marker date="1575864310285" expanded="true" signature="2001:2083" ph="{...}" />
+            <marker date="1575864310285" expanded="true" signature="2112:2227" ph="{...}" />
+            <marker date="1575864310285" expanded="true" signature="2130:2221" ph="{...}" />
+            <marker date="1575864310285" expanded="true" signature="2329:2383" ph="{...}" />
+            <marker date="1575864310285" expanded="true" signature="2419:2636" ph="{...}" />
+            <marker date="1575864310285" expanded="true" signature="2668:2741" ph="{...}" />
+            <marker date="1575864310285" expanded="true" signature="2946:3000" ph="{...}" />
+            <marker date="1575864310285" expanded="true" signature="3214:3301" ph="{...}" />
+            <marker date="1575864310285" expanded="true" signature="3232:3293" ph="{...}" />
+            <marker date="1575864310285" expanded="true" signature="3426:3511" ph="{...}" />
+            <marker date="1575864310285" expanded="true" signature="3444:3505" ph="{...}" />
+            <marker date="1575864310285" expanded="true" signature="3549:3636" ph="{...}" />
+            <marker date="1575864310285" expanded="true" signature="3567:3628" ph="{...}" />
+            <marker date="1575864310285" expanded="true" signature="3916:4008" ph="/* public GameObject studentNameInputField; ... */" />
+            <marker date="1575864310285" expanded="true" signature="4269:4328" ph="{...}" />
+            <marker date="1575864310285" expanded="true" signature="4387:4433" ph="{...}" />
+            <marker date="1575864310285" expanded="true" signature="4459:4525" ph="{...}" />
+            <marker date="1575864310285" expanded="true" signature="4543:4915" ph="{...}" />
+            <marker date="1575864310285" expanded="true" signature="4585:4681" ph="{...}" />
+            <marker date="1575864310285" expanded="true" signature="4713:4771" ph="{...}" />
+            <marker date="1575864310285" expanded="false" signature="4921:5537" ph="Derectory Initialization" />
+            <marker date="1575864310285" expanded="true" signature="5080:5346" ph="{...}" />
+            <marker date="1575864310285" expanded="true" signature="5400:5521" ph="{...}" />
+            <marker date="1575864310285" expanded="true" signature="5442:5506" ph="{...}" />
+            <marker date="1575864310285" expanded="true" signature="5610:6457" ph="{...}" />
+            <marker date="1575864310285" expanded="true" signature="5684:5791" ph="{...}" />
+            <marker date="1575864310285" expanded="true" signature="6031:6099" ph="{...}" />
+            <marker date="1575864310285" expanded="true" signature="6153:6246" ph="{...}" />
+            <marker date="1575864310285" expanded="true" signature="6259:6391" ph="{...}" />
+            <marker date="1575864310285" expanded="true" signature="6474:6860" ph="{...}" />
+            <marker date="1575864310285" expanded="true" signature="6906:7419" ph="{...}" />
+            <marker date="1575864310285" expanded="true" signature="7455:7802" ph="{...}" />
+            <marker date="1575864310285" expanded="true" signature="7605:7658" ph="{...}" />
+            <marker date="1575864310285" expanded="true" signature="7697:7750" ph="{...}" />
+            <marker date="1575864310285" expanded="true" signature="7964:8272" ph="{...}" />
+            <marker date="1575864310285" expanded="true" signature="8358:8565" ph="{...}" />
+            <marker date="1575864310285" expanded="true" signature="8591:8731" ph="{...}" />
+            <marker date="1575864310285" expanded="true" signature="8814:9088" ph="{...}" />
+            <marker date="1575864310285" expanded="true" signature="8939:9082" ph="{...}" />
+            <marker date="1575864310285" expanded="true" signature="9144:9397" ph="{...}" />
+            <marker date="1575864310285" expanded="true" signature="9304:9391" ph="/* Application.LoadLevel(&quot;Activity&quot;); ... */" />
+            <marker date="1575864310285" expanded="true" signature="9429:9972" ph="{...}" />
+            <marker date="1575864310285" expanded="true" signature="9770:9927" ph="{...}" />
+            <marker date="1575864310285" expanded="true" signature="10022:10265" ph="{...}" />
+            <marker date="1575864310285" expanded="true" signature="10303:11482" ph="{...}" />
+            <marker date="1575864310285" expanded="true" signature="10448:11407" ph="{...}" />
+            <marker date="1575864310285" expanded="true" signature="10743:11281" ph="{...}" />
+            <marker date="1575864310285" expanded="true" signature="10815:10960" ph="{...}" />
+            <marker date="1575864310285" expanded="true" signature="10999:11133" ph="{...}" />
+            <marker date="1575864310285" expanded="true" signature="11298:11397" ph="{...}" />
+            <marker date="1575864310285" expanded="true" signature="11408:11475" ph="/* else ... */" />
+            <marker date="1575864310285" expanded="true" signature="11536:11886" ph="{...}" />
+            <marker date="1575864310285" expanded="true" signature="11672:11851" ph="{...}" />
+            <marker date="1575864310285" expanded="true" signature="11969:12399" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/PhonoBlocks/Scripts/ArduinoLetterController.cs">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/Assets/PhonoBlocks/Scripts/StudentActivityController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="403" column="11" selection-start-line="403" selection-start-column="11" selection-end-line="403" selection-end-column="11" />
+          <folding>
+            <marker date="1575864813550" expanded="false" signature="6:111" ph="..." />
+            <marker date="1575864813550" expanded="true" signature="175:12039" ph="{...}" />
+            <marker date="1575864813550" expanded="true" signature="193:288" ph="{...}" />
+            <marker date="1575864813550" expanded="true" signature="579:757" ph="{...}" />
+            <marker date="1575864813550" expanded="true" signature="612:661" ph="{...}" />
+            <marker date="1575864813550" expanded="true" signature="693:751" ph="{...}" />
+            <marker date="1575864813550" expanded="true" signature="804:872" ph="{...}" />
+            <marker date="1575864813550" expanded="true" signature="1196:1464" ph="{...}" />
+            <marker date="1575864813550" expanded="true" signature="1214:1457" ph="{...}" />
+            <marker date="1575864813550" expanded="true" signature="1489:1574" ph="{...}" />
+            <marker date="1575864813550" expanded="true" signature="1674:2609" ph="{...}" />
+            <marker date="1575864813550" expanded="true" signature="2645:4184" ph="{...}" />
+            <marker date="1575864813550" expanded="true" signature="3683:3884" ph="/* In case the initial state is already correct (...which happens when the user needs to build the word &quot;from scr ... */" />
+            <marker date="1575864813550" expanded="true" signature="4220:4281" ph="{...}" />
+            <marker date="1575864813550" expanded="true" signature="4315:4457" ph="{...}" />
+            <marker date="1575864813550" expanded="true" signature="4385:4451" ph="{...}" />
+            <marker date="1575864813550" expanded="true" signature="4518:4894" ph="{...}" />
+            <marker date="1575864813550" expanded="true" signature="4589:4866" ph="{...}" />
+            <marker date="1575864813550" expanded="true" signature="4642:4758" ph="{...}" />
+            <marker date="1575864813550" expanded="true" signature="4973:5384" ph="{...}" />
+            <marker date="1575864813550" expanded="true" signature="5030:5163" ph="{...}" />
+            <marker date="1575864813550" expanded="true" signature="5210:5377" ph="{...}" />
+            <marker date="1575864813550" expanded="true" signature="5298:5366" ph="{...}" />
+            <marker date="1575864813550" expanded="true" signature="5416:5795" ph="{...}" />
+            <marker date="1575864813550" expanded="true" signature="5481:5723" ph="{...}" />
+            <marker date="1575864813550" expanded="true" signature="5736:5788" ph="{...}" />
+            <marker date="1575864813550" expanded="true" signature="5829:6157" ph="{...}" />
+            <marker date="1575864813550" expanded="true" signature="6193:6881" ph="{...}" />
+            <marker date="1575864813550" expanded="true" signature="6242:6737" ph="{...}" />
+            <marker date="1575864813550" expanded="true" signature="6599:6727" ph="/* arduinoLetterController.UpdateDefaultColoursAndSoundsOfLetters(true, false, -1); ... */" />
+            <marker date="1575864813550" expanded="true" signature="6750:6873" ph="{...}" />
+            <marker date="1575864813550" expanded="true" signature="6950:8945" ph="{...}" />
+            <marker date="1575864813550" expanded="true" signature="6965:7023" ph="/* if (LetterIsActuallyNew(letter, atPosition)) ... */" />
+            <marker date="1575864813550" expanded="true" signature="7269:7465" ph="{...}" />
+            <marker date="1575864813550" expanded="true" signature="7725:7946" ph="/* print(currProblem.TargetWord(true) + &quot; Input = &quot; + letter + &quot; at &quot; + atPosition); ... */" />
+            <marker date="1575864813550" expanded="true" signature="8011:8927" ph="{...}" />
+            <marker date="1575864813550" expanded="true" signature="8139:8490" ph="{...}" />
+            <marker date="1575864813550" expanded="true" signature="8226:8338" ph="{...}" />
+            <marker date="1575864813550" expanded="true" signature="8513:8913" ph="{...}" />
+            <marker date="1575864813550" expanded="true" signature="8645:8754" ph="{...}" />
+            <marker date="1575864813550" expanded="true" signature="8951:9301" ph="/// Letters the is actually new. ... " />
+            <marker date="1575864813550" expanded="true" signature="9359:9434" ph="{...}" />
+            <marker date="1575864813550" expanded="true" signature="9503:9588" ph="{...}" />
+            <marker date="1575864813550" expanded="true" signature="9637:10474" ph="{...}" />
+            <marker date="1575864813550" expanded="true" signature="9846:10396" ph="{...}" />
+            <marker date="1575864813550" expanded="true" signature="9869:10058" ph="/* TO DO!!! then if this was the first time that student submitted an answer (get the data from the current stude ... */" />
+            <marker date="1575864813550" expanded="true" signature="10409:10467" ph="{...}" />
+            <marker date="1575864813550" expanded="true" signature="10518:10862" ph="{...}" />
+            <marker date="1575864813550" expanded="true" signature="10636:10816" ph="{...}" />
+            <marker date="1575864813550" expanded="true" signature="10936:11716" ph="{...}" />
+            <marker date="1575864813550" expanded="true" signature="11040:11142" ph="/* userInputRouter.AddCurrentWordToHistory(false); ... */" />
+            <marker date="1575864813550" expanded="true" signature="11327:11452" ph="{...}" />
+            <marker date="1575864813550" expanded="true" signature="11778:11844" ph="{...}" />
+            <marker date="1575864813550" expanded="true" signature="11883:12036" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/PhonoBlocks/Scripts/UserInputRouter.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3285">
-          <caret line="224" column="51" selection-start-line="224" selection-start-column="51" selection-end-line="224" selection-end-column="51" />
+        <state relative-caret-position="612">
+          <caret line="225" column="26" selection-start-line="225" selection-start-column="26" selection-end-line="225" selection-end-column="26" />
           <folding>
-            <marker date="1566265056725" expanded="false" signature="6:137" ph="..." />
-            <marker date="1566265056725" expanded="true" signature="139:244" ph="/* to do... a more elegant way of handling different modes ... */" />
-            <marker date="1566265056725" expanded="true" signature="344:13631" ph="{...}" />
-            <marker date="1566265056725" expanded="true" signature="820:1253" ph="/* the first slot in the physical prototype does not function. ... */" />
-            <marker date="1566265056725" expanded="true" signature="1258:1371" ph="/* public static int NumOfActiveAndUseableArduinoControlledLetters(){ ... */" />
-            <marker date="1566265056725" expanded="true" signature="2811:2911" ph="{...}" />
-            <marker date="1566265056725" expanded="true" signature="2937:2968" ph="{...}" />
-            <marker date="1566265056725" expanded="true" signature="3021:5444" ph="{...}" />
-            <marker date="1566265056725" expanded="true" signature="3236:3352" ph="{...}" />
-            <marker date="1566265056725" expanded="true" signature="3365:3786" ph="{...}" />
-            <marker date="1566265056725" expanded="true" signature="4553:5420" ph="{...}" />
-            <marker date="1566265056725" expanded="true" signature="4723:5251" ph="{...}" />
-            <marker date="1566265056725" expanded="true" signature="5268:5410" ph="{...}" />
-            <marker date="1566265056725" expanded="true" signature="5476:5515" ph="{...}" />
-            <marker date="1566265056725" expanded="true" signature="5548:5588" ph="{...}" />
-            <marker date="1566265056725" expanded="true" signature="5632:5775" ph="{...}" />
-            <marker date="1566265056725" expanded="true" signature="5806:5896" ph="{...}" />
-            <marker date="1566265056725" expanded="true" signature="5927:6086" ph="{...}" />
-            <marker date="1566265056725" expanded="true" signature="6177:6290" ph="{...}" />
-            <marker date="1566265056725" expanded="true" signature="6329:6390" ph="{...}" />
-            <marker date="1566265056725" expanded="true" signature="6437:7061" ph="{...}" />
-            <marker date="1566265056725" expanded="true" signature="6512:6716" ph="/* arduinoLetterController.UpdateDefaultColoursAndSoundsOfLetters(true, false, -1); ... */" />
-            <marker date="1566265056725" expanded="true" signature="6810:7055" ph="/* arduinoLetterController.UpdateDefaultColoursAndSoundsOfLetters(true, false, -1); ... */" />
-            <marker date="1566265056725" expanded="true" signature="7171:7651" ph="{...}" />
-            <marker date="1566265056725" expanded="true" signature="7178:7375" ph="/* StringBuilder path = new StringBuilder(RESOURCES_WORD_IMAGE_PATH); ... */" />
-            <marker date="1566265056725" expanded="true" signature="7482:7645" ph="{...}" />
-            <marker date="1566265056725" expanded="true" signature="7686:7824" ph="{...}" />
-            <marker date="1566265056725" expanded="true" signature="7751:7818" ph="{...}" />
-            <marker date="1566265056725" expanded="true" signature="7860:7968" ph="{...}" />
-            <marker date="1566265056725" expanded="true" signature="8019:8183" ph="{...}" />
-            <marker date="1566265056725" expanded="true" signature="8084:8177" ph="{...}" />
-            <marker date="1566265056725" expanded="true" signature="8258:8725" ph="{...}" />
-            <marker date="1566265056725" expanded="true" signature="8291:8667" ph="{...}" />
-            <marker date="1566265056725" expanded="true" signature="8423:8498" ph="{...}" />
-            <marker date="1566265056725" expanded="true" signature="8515:8657" ph="{...}" />
-            <marker date="1566265056725" expanded="true" signature="8795:8953" ph="{...}" />
-            <marker date="1566265056725" expanded="true" signature="8989:9051" ph="{...}" />
-            <marker date="1566265056725" expanded="true" signature="9232:9297" ph="{...}" />
-            <marker date="1566265056725" expanded="true" signature="9554:10008" ph="{...}" />
-            <marker date="1566265056725" expanded="true" signature="9659:9895" ph="{...}" />
-            <marker date="1566265056725" expanded="true" signature="10015:10166" ph="/* called by the button that treats all words as selected and by the selection/deselection swipe action received  ... */" />
-            <marker date="1566265056725" expanded="true" signature="10226:12979" ph="{...}" />
-            <marker date="1566265056725" expanded="true" signature="10318:11879" ph="{...}" />
-            <marker date="1566265056725" expanded="true" signature="10367:11343" ph="{...}" />
-            <marker date="1566265056725" expanded="true" signature="10549:11329" ph="{...}" />
-            <marker date="1566265056725" expanded="true" signature="10684:11017" ph="{...}" />
-            <marker date="1566265056725" expanded="true" signature="11042:11311" ph="{...}" />
-            <marker date="1566265056725" expanded="true" signature="11360:11838" ph="{...}" />
-            <marker date="1566265056725" expanded="true" signature="11967:12476" ph="{...}" />
-            <marker date="1566265056725" expanded="true" signature="11990:12090" ph="/* arduinoLetterController.ReplaceEachLetterWithBlank(); ... */" />
-            <marker date="1566265056725" expanded="true" signature="12520:12579" ph="{...}" />
-            <marker date="1566265056725" expanded="true" signature="12621:12973" ph="{...}" />
-            <marker date="1566265056725" expanded="true" signature="12747:12947" ph="{...}" />
-            <marker date="1566265056725" expanded="true" signature="12858:12933" ph="{...}" />
-            <marker date="1566265056725" expanded="true" signature="13115:13248" ph="{...}" />
-            <marker date="1566265056725" expanded="true" signature="13291:13357" ph="{...}" />
-            <marker date="1566265056725" expanded="true" signature="13406:13472" ph="{...}" />
-            <marker date="1566265056725" expanded="true" signature="13539:13629" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/PhonoBlocks/Scripts/ColorCodeText_Shuvro/ColorText.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <marker date="1566945084679" expanded="false" signature="6:78" ph="..." />
-            <marker date="1566945084679" expanded="true" signature="118:538" ph="{...}" />
-            <marker date="1566945084679" expanded="true" signature="126:233" ph="/* Needed for applying color to the word history bar ... */" />
-            <marker date="1566945084679" expanded="true" signature="299:531" ph="{...}" />
-            <marker date="1566945084679" expanded="true" signature="379:501" ph="{...}" />
+            <marker date="1575865047354" expanded="false" signature="6:137" ph="..." />
+            <marker date="1575865047354" expanded="true" signature="139:244" ph="/* to do... a more elegant way of handling different modes ... */" />
+            <marker date="1575865047354" expanded="true" signature="344:13781" ph="{...}" />
+            <marker date="1575865047354" expanded="true" signature="820:1253" ph="/* the first slot in the physical prototype does not function. ... */" />
+            <marker date="1575865047354" expanded="true" signature="1258:1371" ph="/* public static int NumOfActiveAndUseableArduinoControlledLetters(){ ... */" />
+            <marker date="1575865047354" expanded="true" signature="2811:2911" ph="{...}" />
+            <marker date="1575865047354" expanded="true" signature="2937:2968" ph="{...}" />
+            <marker date="1575865047354" expanded="true" signature="3021:5444" ph="{...}" />
+            <marker date="1575865047354" expanded="true" signature="3236:3352" ph="{...}" />
+            <marker date="1575865047354" expanded="true" signature="3365:3786" ph="{...}" />
+            <marker date="1575865047354" expanded="true" signature="4553:5420" ph="{...}" />
+            <marker date="1575865047354" expanded="true" signature="4723:5251" ph="{...}" />
+            <marker date="1575865047354" expanded="true" signature="5268:5410" ph="{...}" />
+            <marker date="1575865047354" expanded="true" signature="5476:5515" ph="{...}" />
+            <marker date="1575865047354" expanded="true" signature="5548:5588" ph="{...}" />
+            <marker date="1575865047354" expanded="true" signature="5632:5775" ph="{...}" />
+            <marker date="1575865047354" expanded="true" signature="5806:5896" ph="{...}" />
+            <marker date="1575865047354" expanded="true" signature="5927:6086" ph="{...}" />
+            <marker date="1575865047354" expanded="true" signature="6177:6290" ph="{...}" />
+            <marker date="1575865047354" expanded="true" signature="6329:6390" ph="{...}" />
+            <marker date="1575865047354" expanded="true" signature="6437:7061" ph="{...}" />
+            <marker date="1575865047354" expanded="true" signature="6512:6716" ph="/* arduinoLetterController.UpdateDefaultColoursAndSoundsOfLetters(true, false, -1); ... */" />
+            <marker date="1575865047354" expanded="true" signature="6810:7055" ph="/* arduinoLetterController.UpdateDefaultColoursAndSoundsOfLetters(true, false, -1); ... */" />
+            <marker date="1575865047354" expanded="true" signature="7171:7651" ph="{...}" />
+            <marker date="1575865047354" expanded="true" signature="7178:7375" ph="/* StringBuilder path = new StringBuilder(RESOURCES_WORD_IMAGE_PATH); ... */" />
+            <marker date="1575865047354" expanded="true" signature="7482:7645" ph="{...}" />
+            <marker date="1575865047354" expanded="true" signature="7686:7824" ph="{...}" />
+            <marker date="1575865047354" expanded="true" signature="7751:7818" ph="{...}" />
+            <marker date="1575865047354" expanded="true" signature="7860:7995" ph="{...}" />
+            <marker date="1575865047354" expanded="true" signature="8046:8210" ph="{...}" />
+            <marker date="1575865047354" expanded="true" signature="8111:8204" ph="{...}" />
+            <marker date="1575865047354" expanded="true" signature="8285:8875" ph="{...}" />
+            <marker date="1575865047354" expanded="true" signature="8318:8817" ph="{...}" />
+            <marker date="1575865047354" expanded="true" signature="8450:8525" ph="{...}" />
+            <marker date="1575865047354" expanded="true" signature="8542:8807" ph="{...}" />
+            <marker date="1575865047354" expanded="true" signature="8704:8791" ph="{...}" />
+            <marker date="1575865047354" expanded="true" signature="8945:9103" ph="{...}" />
+            <marker date="1575865047354" expanded="true" signature="9139:9201" ph="{...}" />
+            <marker date="1575865047354" expanded="true" signature="9382:9447" ph="{...}" />
+            <marker date="1575865047354" expanded="true" signature="9704:10158" ph="{...}" />
+            <marker date="1575865047354" expanded="true" signature="9809:10045" ph="{...}" />
+            <marker date="1575865047354" expanded="true" signature="10165:10316" ph="/* called by the button that treats all words as selected and by the selection/deselection swipe action received  ... */" />
+            <marker date="1575865047354" expanded="true" signature="10376:13129" ph="{...}" />
+            <marker date="1575865047354" expanded="true" signature="10468:12029" ph="{...}" />
+            <marker date="1575865047354" expanded="true" signature="10517:11493" ph="{...}" />
+            <marker date="1575865047354" expanded="true" signature="10699:11479" ph="{...}" />
+            <marker date="1575865047354" expanded="true" signature="10834:11167" ph="{...}" />
+            <marker date="1575865047354" expanded="true" signature="11192:11461" ph="{...}" />
+            <marker date="1575865047354" expanded="true" signature="11510:11988" ph="{...}" />
+            <marker date="1575865047354" expanded="true" signature="12117:12626" ph="{...}" />
+            <marker date="1575865047354" expanded="true" signature="12140:12240" ph="/* arduinoLetterController.ReplaceEachLetterWithBlank(); ... */" />
+            <marker date="1575865047354" expanded="true" signature="12670:12729" ph="{...}" />
+            <marker date="1575865047354" expanded="true" signature="12771:13123" ph="{...}" />
+            <marker date="1575865047354" expanded="true" signature="12897:13097" ph="{...}" />
+            <marker date="1575865047354" expanded="true" signature="13008:13083" ph="{...}" />
+            <marker date="1575865047354" expanded="true" signature="13265:13398" ph="{...}" />
+            <marker date="1575865047354" expanded="true" signature="13441:13507" ph="{...}" />
+            <marker date="1575865047354" expanded="true" signature="13556:13622" ph="{...}" />
+            <marker date="1575865047354" expanded="true" signature="13689:13779" ph="{...}" />
           </folding>
         </state>
       </provider>
