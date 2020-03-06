@@ -401,7 +401,7 @@ public class StudentActivityController : PhonoBlocksController
 
     }
 
-    protected bool IsSubmissionCorrect()
+    public bool IsSubmissionCorrect()
     {
         string target = currProblem.TargetWord(true);
 

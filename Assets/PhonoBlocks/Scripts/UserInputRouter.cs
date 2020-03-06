@@ -223,6 +223,7 @@ public class UserInputRouter : MonoBehaviour
     {
         CharacterList.Instance.RemoveAll();
         CharacterList.Instance.checkMarked = false;
+        ClearAnimations();
     }
 
     [ExecuteInEditMode]
@@ -246,9 +247,12 @@ public class UserInputRouter : MonoBehaviour
                 AddCurrentWordToHistory(true);
             }
             else
-            {
-                AddCurrentWordToHistory(true);
+            {            
                 studentActivityController.HandleSubmittedAnswer();
+                if (studentActivityController.IsSubmissionCorrect())
+                {
+                    AddCurrentWordToHistory(true);
+                }  
             }
         }
 
